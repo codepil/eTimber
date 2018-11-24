@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:notation="http://www.ibm.com/xtools/1.5.0/Notation" xmlns:uml="http://www.eclipse.org/uml2/1.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.0/Umlnotation" xmi:id="__Mo0MIeREdyqhdGRWHFodg" type="Class" name="classdiagram.dnx">
+  <children xmi:id="__vZjAIeREdyqhdGRWHFodg" sourceEdges="_AF1tEIeSEdyqhdGRWHFodg" targetEdges="_AF1tEIeSEdyqhdGRWHFodg">
+    <children xmi:id="__vZjA4eREdyqhdGRWHFodg" type="ImageCompartment">
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=ConvertLobs[jcu^name=ConvertLobs.java[jpack^name=com.myself[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=Vwood]]]]"/>
+      <layoutConstraint xmi:type="notation:Size" xmi:id="__vZjBIeREdyqhdGRWHFodg" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="__vZjBYeREdyqhdGRWHFodg" type="Stereotype">
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=ConvertLobs[jcu^name=ConvertLobs.java[jpack^name=com.myself[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=Vwood]]]]"/>
+    </children>
+    <children xmi:id="__vfpoIeREdyqhdGRWHFodg" type="Name">
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=ConvertLobs[jcu^name=ConvertLobs.java[jpack^name=com.myself[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=Vwood]]]]"/>
+    </children>
+    <children xmi:id="__vfpoYeREdyqhdGRWHFodg" type="AttributeCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="__vfpooeREdyqhdGRWHFodg"/>
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=ConvertLobs[jcu^name=ConvertLobs.java[jpack^name=com.myself[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=Vwood]]]]"/>
+    </children>
+    <children xmi:id="__vfpo4eREdyqhdGRWHFodg" type="OperationCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="__vfppIeREdyqhdGRWHFodg"/>
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=ConvertLobs[jcu^name=ConvertLobs.java[jpack^name=com.myself[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=Vwood]]]]"/>
+    </children>
+    <children xmi:id="__vfppYeREdyqhdGRWHFodg" visible="false" type="SignalCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="__vfppoeREdyqhdGRWHFodg"/>
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=ConvertLobs[jcu^name=ConvertLobs.java[jpack^name=com.myself[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=Vwood]]]]"/>
+    </children>
+    <children xmi:id="__wu_wIeREdyqhdGRWHFodg" visible="false" type="StructureCompartment">
+      <styles xmi:type="umlnotation:UMLShapeCompartmentStyle" xmi:id="__wu_wYeREdyqhdGRWHFodg"/>
+      <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=ConvertLobs[jcu^name=ConvertLobs.java[jpack^name=com.myself[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=Vwood]]]]"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="__vZjAYeREdyqhdGRWHFodg" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="vizref:///#jsrctype^vcore.target=uml2.Class^name=ConvertLobs[jcu^name=ConvertLobs.java[jpack^name=com.myself[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=Vwood]]]]"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="__vZjAoeREdyqhdGRWHFodg" x="7871" y="5728"/>
+  </children>
+  <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="__Mo0MYeREdyqhdGRWHFodg"/>
+  <edges xmi:id="_AF1tEIeSEdyqhdGRWHFodg" source="__vZjAIeREdyqhdGRWHFodg" target="__vZjAIeREdyqhdGRWHFodg">
+    <children xmi:id="_AGsosIeSEdyqhdGRWHFodg" type="KindLabel">
+      <children xmi:id="_AGsosoeSEdyqhdGRWHFodg" type="Stereotype">
+        <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=ConvertLobs[jcu^name=ConvertLobs.java[jpack^name=com.myself[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=Vwood]]]]][jsrctype^name=ConvertLobs[jcu^name=ConvertLobs.java[jpack^name=com.myself[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=Vwood]]]]]"/>
+      </children>
+      <children xmi:id="_AGsotIeSEdyqhdGRWHFodg" type="Kind">
+        <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=ConvertLobs[jcu^name=ConvertLobs.java[jpack^name=com.myself[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=Vwood]]]]][jsrctype^name=ConvertLobs[jcu^name=ConvertLobs.java[jpack^name=com.myself[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=Vwood]]]]]"/>
+      </children>
+      <children xmi:id="_AGsos4eSEdyqhdGRWHFodg" type="Name">
+        <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=ConvertLobs[jcu^name=ConvertLobs.java[jpack^name=com.myself[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=Vwood]]]]][jsrctype^name=ConvertLobs[jcu^name=ConvertLobs.java[jpack^name=com.myself[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=Vwood]]]]]"/>
+      </children>
+      <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=ConvertLobs[jcu^name=ConvertLobs.java[jpack^name=com.myself[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=Vwood]]]]][jsrctype^name=ConvertLobs[jcu^name=ConvertLobs.java[jpack^name=com.myself[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=Vwood]]]]]"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_AGsosYeSEdyqhdGRWHFodg" y="-185"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_AF1tEYeSEdyqhdGRWHFodg" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="vizref:///#jdep^vcore.target=uml2.Usage[jsrctype^name=ConvertLobs[jcu^name=ConvertLobs.java[jpack^name=com.myself[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=Vwood]]]]][jsrctype^name=ConvertLobs[jcu^name=ConvertLobs.java[jpack^name=com.myself[jsrcroot^srcfolder=[project^vcore.target=uml2.Model^id=Vwood]]]]]"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_AF1tEoeSEdyqhdGRWHFodg" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+</notation:Diagram>

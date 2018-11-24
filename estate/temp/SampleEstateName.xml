@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incoming xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="estateSample.xsd">
+  <Estate>
+    <PlanterName>SampleEstateName</PlanterName>
+    <PlantAddress></PlantAddress>
+    <SyNo></SyNo>
+    <CoupContractor></CoupContractor>
+    <tcft>12.66</tcft>
+    <discount>1</discount>
+    <disTcft></disTcft>
+  </Estate>
+  <LoadDetails>
+    <load>
+      <SNo>1</SNo>
+      <Date>8 Apr 2008</Date>
+      <LorryNumber>load1</LorryNumber>
+      <Logs>1</Logs>
+      <ClassA>12.66</ClassA>
+      <ClassB>0.00</ClassB>
+      <ClassC>0.00</ClassC>
+      <ClassD>0.00</ClassD>
+      <TotalCFT>12.66</TotalCFT>
+      <Unload>&lt;Unload Place&gt;</Unload>
+      <Clerk></Clerk>
+      <Tape>&lt;Clerk Name(s)&gt;</Tape>
+      <DelNo>&lt;DN#&gt;</DelNo>
+      <Stumps>&lt;no of trees&gt;</Stumps>
+    </load>
+  </LoadDetails>
+</Incoming>

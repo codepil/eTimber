@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <xsd:element name="Amount" type="xsd:string"/>
+    <xsd:element name="ClassA" type="xsd:string"/>
+    <xsd:element name="ClassAcft" type="xsd:string"/>
+    <xsd:element name="ClassB" type="xsd:string"/>
+    <xsd:element name="ClassBcft" type="xsd:string"/>
+    <xsd:element name="ClassC" type="xsd:string"/>
+    <xsd:element name="ClassCcft" type="xsd:string"/>
+    <xsd:element name="ClassD" type="xsd:string"/>
+    <xsd:element name="ClassDcft" type="xsd:string"/>
+    <xsd:element name="Girth" type="xsd:string"/>
+    <xsd:element name="Length" type="xsd:string"/>
+    <xsd:element name="Lobs" type="xsd:string"/>
+    <xsd:element name="Quantity" type="xsd:string"/>
+    <xsd:element name="Rate" type="xsd:string"/>
+    <xsd:element name="SNo" type="xsd:string"/>
+    <xsd:element name="TotalCFT" type="xsd:string"/>
+    <xsd:element name="date" type="xsd:string"/>
+    <xsd:element name="estateName" type="xsd:string"/>
+    <xsd:element name="incomingLobs">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element ref="loadDetails"/>
+                <xsd:element maxOccurs="unbounded" minOccurs="1" ref="load"/>
+                <xsd:element ref="total"/>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+    <xsd:element name="load">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element ref="SNo"/>
+                <xsd:element ref="Length"/>
+                <xsd:element ref="Girth"/>
+                <xsd:element ref="Quantity"/>
+                <xsd:element ref="ClassA"/>
+                <xsd:element ref="ClassB"/>
+                <xsd:element ref="ClassC"/>
+                <xsd:element ref="ClassD"/>
+                <xsd:element ref="TotalCFT"/>
+                <xsd:element ref="Rate"/>
+                <xsd:element ref="Amount"/>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+    <xsd:element name="loadDetails">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element ref="lorryName"/>
+                <xsd:element ref="estateName"/>
+                <xsd:element ref="date"/>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+    <xsd:element name="lorryName" type="xsd:string"/>
+    <xsd:element name="tAmount" type="xsd:string"/>
+    <xsd:element name="tCFT" type="xsd:string"/>
+    <xsd:element name="total">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element ref="ClassAcft"/>
+                <xsd:element ref="ClassBcft"/>
+                <xsd:element ref="ClassCcft"/>
+                <xsd:element ref="ClassDcft"/>
+                <xsd:element ref="tCFT"/>
+                <xsd:element ref="tAmount"/>
+                <xsd:element ref="Lobs"/>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+</xsd:schema>

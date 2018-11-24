@@ -1,0 +1,90 @@
+/**********************************************************************************/
+/*******         style for round logs                                      ********/
+/**********************************************************************************/
+table.lobs  {
+     font-size: 8pt; 
+     margin-left: 10px; 
+     border-spacing: 0px; 
+     empty-cells: show; 
+     text-align: left;
+}
+
+/**********************************************************************************/
+/*******         style for estate                                          ********/
+/**********************************************************************************/
+table.estate  {
+      font-size: 8pt; 
+      margin-left: 10px; 
+      border-spacing: 0px; 
+      empty-cells: show; 
+      text-align: left;
+}
+
+/**********************************************************************************/
+/*******         style for cut sizes                                       ********/
+/**********************************************************************************/
+table.sizes  {
+      font-size: 8pt; 
+      margin-left: 10px; 
+      border-spacing: 0px; 
+      empty-cells: show; 
+      text-align: left;
+}
+
+/**********************************************************************************/
+/*******         style for firm                                            ********/
+/**********************************************************************************/
+table.firm {
+      font-size: 8pt; 
+      margin-left: 10px; 
+      border-spacing: 0px; 
+      empty-cells: show; 
+      text-align: left;
+}
+
+/*******        style for Total table                                      *******/
+table.total 
+{font-size: 10pt; margin-left: 10px; border-spacing: 0px; empty-cells: show; text-align: left;}
+
+/*******        style for other data                                       *******/
+table.others 
+{font-size: 10pt; margin-left: 10px; border-spacing: 0px; text-align: left;}
+
+
+html {margin: 0;}
+body {margin: 0; align: center; font-size: 10pt}
+
+@page { size: A4 landscape; }
+
+@media print {
+  * {
+  background-color: white !important;
+  background-image: none !important;
+  }
+}
+
+@page :left {
+  @bottom-left {
+    content: counter(page);
+  }
+}
+@page :right {
+  @bottom-right {
+    content: counter(page);
+  }
+}
+@page :first {
+  @bottom-right {
+    content: normal;
+  }
+}
+
+th {page-break-after: avoid;}
+tr {page-break-inside: avoid;}
+thead {display: table-header-group;}
+hr {border-width: 0px; line-height: 200%;}
+
+/*table {color: sienna}
+p {margin-left: 20px}
+body {font-size: 12pt; align: center;}*/
+

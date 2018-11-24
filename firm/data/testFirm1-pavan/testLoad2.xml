@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../config/sampleSizeload-dataLogic.xsl"?>
+<outGoing xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="sampleSizeData.xsd">
+  <FirmDetails>
+    <billNo></billNo>
+    <firmName>testFirm1-pavan</firmName>
+    <firmAddress>23</firmAddress>
+    <orderNo></orderNo>
+    <articles>Silver Oak sawn sizes</articles>
+    <lorryName>testLoad2</lorryName>
+    <date>8 Aug 2007</date>
+  </FirmDetails>
+  <rowData>
+    <sizeData>
+      <load>
+        <length>6</length>
+        <width>6.0</width>
+        <thinkness>1.5</thinkness>
+        <rft>10.0</rft>
+        <cft>0.62</cft>
+        <qnt>1</qnt>
+      </load>
+      <loadTotal>
+        <cft>0.62</cft>
+        <rft>10.0</rft>
+        <qnt>1</qnt>
+      </loadTotal>
+    </sizeData>
+  </rowData>
+  <sizeTotal>
+    <Lapha>0.0</Lapha>
+    <Runners>0.0</Runners>
+    <planks>1.24</planks>
+    <SLR>0.0</SLR>
+    <Battons>0.0</Battons>
+    <Others>0.0</Others>
+    <totalCFT>1.24</totalCFT>
+  </sizeTotal>
+</outGoing>

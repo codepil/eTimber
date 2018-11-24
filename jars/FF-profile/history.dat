@@ -1,0 +1,633 @@
+// <!-- <mdb:mork:z v="1.4"/> -->
+< <(a=c)> // (f=iso-8859-1)
+  (8A=Typed)(8B=LastPageVisited)(8C=ByteOrder)
+  (80=ns:history:db:row:scope:history:all)
+  (81=ns:history:db:table:kind:history)(82=URL)(83=Referrer)
+  (84=LastVisitDate)(85=FirstVisitDate)(86=VisitCount)(87=Name)
+  (88=Hostname)(89=Hidden)>
+
+<(80=LE)(81=http://www.mozilla.org/products/firefox/releases/whatsnew/)
+  (18F=1146661612839656)(82=1146572525163646)(83=mozilla.org)(84=1)
+  (D1=2)(85=http://www.mozilla.com/firefox/releases/whatsnew/)(86
+    =1146572530140803)(87=mozilla.com)(88=)(89
+    =http://www.mozilla.com/firefox/updated)(190=1146661616244552)(8A
+    =F$00i$00r$00e$00f$00o$00x$00 $00C$00e$00n$00t$00r$00a$00l$00 $00|$00 $00M\
+$00o$00z$00i$00l$00l$00a$00 $00C$00o$00r$00p$00o$00r$00a$00t$00i$00o$00n$00)
+  (E8=4)(8B
+    =https://addons.mozilla.org/themes/?application={ec8030f7-c20a-464f-9b0e-1\
+3a3a9e97384})(8C=1146572545603036)(8D=addons.mozilla.org)(8E
+    =A$00d$00d$00o$00n$00s$00 $00:$00:$00 $00M$00o$00z$00i$00l$00l$00a$00 $00A\
+$00d$00d$00o$00n$00s$00 $00:$00:$00 $00A$00d$00d$00 $00F$00e$00a$00t$00u$00r$00\
+e$00s$00 $00t$00o$00 $00M$00o$00z$00i$00l$00l$00a$00 $00S$00o$00f$00t$00w$00a$00\
+r$00e$00)(8F=https://addons.mozilla.org/firefox/1106/)(90=1146572626279043)
+  (91
+    =i$00F$00o$00x$00 $00:$00:$00 $00M$00o$00z$00i$00l$00l$00a$00 $00A$00d$00d\
+$00o$00n$00s$00 $00:$00:$00 $00A$00d$00d$00 $00F$00e$00a$00t$00u$00r$00e$00s$00\
+ $00t$00o$00 $00M$00o$00z$00i$00l$00l$00a$00 $00S$00o$00f$00t$00w$00a$00r$00e$00)
+  (92
+    =http://en-us.start.mozilla.com/firefox?client=firefox-a&rls=org.mozilla:e\
+n-US:official)(93=1146572827248022)(94=en-us.start.mozilla.com)(95
+    =http://www.google.com/firefox?client=firefox-a&rls=org.mozilla:en-US:offi\
+cial)(96=google.com)(97
+    =http://www.google.co.in/firefox?client=firefox-a&rls=org.mozilla:en-US:of\
+ficial)(173=1146654017427990)(98=1146572830963364)(99=google.co.in)
+  (9A=M$00o$00z$00i$00l$00l$00a$00 $00F$00i$00r$00e$00f$00o$00x$00 $00S$00t$00\
+a$00r$00t$00 $00P$00a$00g$00e$00)(174=5)(A3
+    =http://groups.google.co.in/grphp?hl=en&tab=wg&client=firefox-a&rls=org.mo\
+zilla:en-US:official_s&q=)(A4=1146573322069540)(A5=groups.google.co.in)
+  (A6=G$00o$00o$00g$00l$00e$00 $00G$00r$00o$00u$00p$00s$00)(A7
+    =http://groups.google.co.in/groups?lnk=hpsg&hl=en&q=firefox+profile++pavan)
+  (A8=1146573346194230)(A9
+    =f$00i$00r$00e$00f$00o$00x$00 $00p$00r$00o$00f$00i$00l$00e$00 $00p$00a$00v\
+$00a$00n$00 $00-$00 $00G$00o$00o$00g$00l$00e$00 $00G$00r$00o$00u$00p$00s$00)
+  (AA
+    =http://groups.google.co.in/group/mozilla.support.firefox/browse_thread/th\
+read/a04242dff225640e/b8014eb85dc71219?lnk=st&q=firefox+profile++pavan&rnum=1&\
+hl=en#b8014eb85dc71219)(AB=1146573351391704)(AC
+    =G$00o$00o$00g$00l$00e$00 $00G$00r$00o$00u$00p$00s$00:$00 $00m$00o$00z$00i\
+$00l$00l$00a$00.$00s$00u$00p$00p$00o$00r$00t$00.$00f$00i$00r$00e$00f$00o$00x$00)
+  (AD
+    =http://groups.google.co.in/groups/adfetch?adid=AZvnfBIAAABZ8QD14gcLo6Du9G\
+W7Ws-KMg-NXPBOVqEamh3_Tai-xg&hl=en)(AE
+    =http://groups.google.co.in/group/mozilla.support.firefox/browse_thread/th\
+read/a04242dff225640e/b8014eb85dc71219?lnk=st&q=firefox+profile++pavan&rnum=1&\
+hl=en)(AF
+    =http://groups.google.co.in/group/mozilla.support.firefox/post?hl=en&inrep\
+lyto=b8014eb85dc71219&_done=%2Fgroup%2Fmozilla.support.firefox%2Fbrowse_thread\
+%2Fthread%2Fa04242dff225640e%2Fb8014eb85dc71219%3Flnk%3Dst%26q%3Dfirefox+profi\
+le++pavan%26rnum%3D1%26hl%3Den%26&)(B0=1146573364951201)(B1
+    =https://www.google.com/groups/signin?cd=IN&hl=en&login_required=1&_done=h\
+ttp%3A%2F%2Fgroups.google.co.in%2Fgroup%2Fmozilla.support.firefox%2Fpost%3Fhl%\
+3Den%26inreplyto%3Db8014eb85dc71219%26_done%3D%252Fgroup%252Fmozilla.support.f\
+irefox%252Fbrowse_thread%252Fthread%252Fa04242dff225640e%252Fb8014eb85dc71219%\
+253Flnk%253Dst%2526q%253Dfirefox%2Bprofile%2B%2Bpavan%2526rnum%253D1%2526hl%25\
+3Den%2526%26)(B2=1146573369627926)(B3
+    =https://www.google.com/accounts/ServiceLoginBox?hl=en&cd=IN&service=group\
+s2&continue=http%3A%2F%2Fgroups.google.co.in%2Fgroup%2Fmozilla.support.firefox\
+%2Fpost%3Fhl%3Den%26inreplyto%3Db8014eb85dc71219%26_done%3D%252Fgroup%252Fmozi\
+lla.support.firefox%252Fbrowse_thread%252Fthread%252Fa04242dff225640e%252Fb801\
+4eb85dc71219%253Flnk%253Dst%2526q%253Dfirefox%2Bprofile%2B%2Bpavan%2526rnum%25\
+3D1%2526hl%253Den%2526%26)(B4=G$00o$00o$00g$00l$00e$00 $00A$00c$00c$00o$00u$00\
+n$00t$00s$00)(B5=https://www.google.com/accounts/ServiceLoginBoxAuth)
+  (B6=1146573389676755)(B7
+    =https://www.google.com/accounts/CheckCookie?continue=http%3A%2F%2Fgroups.\
+google.co.in%2Fgroup%2Fmozilla.support.firefox%2Fpost%3Fhl%3Den%26inreplyto%3D\
+b8014eb85dc71219%26_done%3D%252Fgroup%252Fmozilla.support.firefox%252Fbrowse_t\
+hread%252Fthread%252Fa04242dff225640e%252Fb8014eb85dc71219%253Flnk%253Dst%2526\
+q%253Dfirefox%2Bprofile%2B%2Bpavan%2526rnum%253D1%2526hl%253Den%2526%26&servic\
+e=groups2&cd=IN&hl=en&chtml=LoginDoneHtml)(B8
+    =https://www.google.com/accounts/CreateServiceAccount?continue=http%3A%2F%\
+2Fgroups.google.co.in%2Fgroup%2Fmozilla.support.firefox%2Fpost%3Fhl%3Den%26inr\
+eplyto%3Db8014eb85dc71219%26_done%3D%252Fgroup%252Fmozilla.support.firefox%252\
+Fbrowse_thread%252Fthread%252Fa04242dff225640e%252Fb8014eb85dc71219%253Flnk%25\
+3Dst%2526q%253Dfirefox%2Bprofile%2B%2Bpavan%2526rnum%253D1%2526hl%253Den%2526%\
+26&service=groups2&cd=IN&hl=en&chtml=LoginDoneHtml)(B9=1146573402785604)
+  (BA=R$00e$00d$00i$00r$00e$00c$00t$00i$00n$00g$00)(BB
+    =http://www.google.co.in/accounts/SetSID?sidt=3OoZ9QoBAAA%3D.rer79YBH0l3EV\
+gaRCke80ctThdVVqspuhAcAg1oo2%2B6wKaUZ0D%2F3evmT95KHQ9qpCUCK8l8c0Z68BmdY1ecvlIL\
+spg%2B7vFN5YWf4Fe5dp746KDUBtJA5xelkyK3wbP3k3VL5N5LoLmI1pUGZKVrb8bMPLdqGDloD50T\
+WaALvSXGtByEZos3EBJCh8mFwA2FcQ7CPvp65Z1GiOAVU0uvym5LOyxFzzvQb8lH8lTwmz14%3D.Ey\
+v1YlV7V97CkH8qMvgVRg%3D%3D&continue=http%3A%2F%2Fgroups.google.co.in%2Fgroup%2\
+Fmozilla.support.firefox%2Fpost%3Fhl%3Den%26inreplyto%3Db8014eb85dc71219%26_do\
+ne%3D%252Fgroup%252Fmozilla.support.firefox%252Fbrowse_thread%252Fthread%252Fa\
+04242dff225640e%252Fb8014eb85dc71219%253Flnk%253Dst%2526q%253Dfirefox%2Bprofil\
+e%2B%2Bpavan%2526rnum%253D1%2526hl%253Den%2526%26auth%3DDQAAAG0AAADZJXZhG11oAz\
+fBFr4jHC25wmsugB_Qxfbfxlr2Gd1128ccQheOWygwYSG0CcXCKyhiHsma4jzXKkbfKf43spcfn8kn\
+L2WkLdFOE5Fje_LdaewD1MYSdyw5U-u4-UMBPGp-E3UO4_QDnwkDtoMxdS0a)(BC
+    =http://groups.google.co.in/group/mozilla.support.firefox/post?hl=en&inrep\
+lyto=b8014eb85dc71219&_done=%2Fgroup%2Fmozilla.support.firefox%2Fbrowse_thread\
+%2Fthread%2Fa04242dff225640e%2Fb8014eb85dc71219%3Flnk%3Dst%26q%3Dfirefox+profi\
+le++pavan%26rnum%3D1%26hl%3Den%26&auth=DQAAAG0AAADZJXZhG11oAzfBFr4jHC25wmsugB_\
+Qxfbfxlr2Gd1128ccQheOWygwYSG0CcXCKyhiHsma4jzXKkbfKf43spcfn8knL2WkLdFOE5Fje_Lda\
+ewD1MYSdyw5U-u4-UMBPGp-E3UO4_QDnwkDtoMxdS0a)(BD=1146573406210529)(BE
+    =G$00o$00o$00g$00l$00e$00 $00G$00r$00o$00u$00p$00s$00 $00:$00 $00m$00o$00z\
+$00i$00l$00l$00a$00.$00s$00u$00p$00p$00o$00r$00t$00.$00f$00i$00r$00e$00f$00o$00\
+x$00)(BF=http://groups.google.co.in/group/mozilla.support.firefox/post)
+  (C0=1146574796669912)(C1
+    =http://groups.google.co.in/group/mozilla.support.firefox/browse_thread/th\
+read/a04242dff225640e/b8014eb85dc71219?lnk=st&q=firefox%20profile%20%20pavan&r\
+num=1&hl=en&)(C2=1146574805102036)(C3
+    =http://groups.google.co.in/groups/adfetch?adid=5Sh7rxMAAADNvLDxks7OoiO-ln\
+vW2VUDcUbKkI7RtylERE8HUHz1VQ&hl=en)(C4=1146574808266587)(C5
+    =http://groups.google.co.in/groups/starred?lnk=lnmst&hl=en)(C6
+    =1146574837909211)(C7
+    =http://groups.google.co.in/group/mozilla.support.firefox/search?group=moz\
+illa.support.firefox&q=firefox+profile++pavan&qt_g=1&searchnow=Search+this+gro\
+up)(C8=1146574860571798)(C9
+    =f$00i$00r$00e$00f$00o$00x$00 $00p$00r$00o$00f$00i$00l$00e$00 $00p$00a$00v\
+$00a$00n$00 $00-$00 $00G$00o$00o$00g$00l$00e$00 $00G$00r$00o$00u$00p$00s$00:$00\
+ $00m$00o$00z$00i$00l$00l$00a$00.$00s$00u$00p$00p$00o$00r$00t$00.$00f$00i$00r$00\
+e$00f$00o$00x$00)(CA
+    =http://groups.google.co.in/group/mozilla.support.firefox/browse_thread/th\
+read/a04242dff225640e/b8014eb85dc71219?q=firefox+profile++pavan&rnum=1#b8014eb\
+85dc71219)(CB=1146574868593332)(CC
+    =http://groups.google.co.in/groups/adfetch?adid=vSByYBIAAAAlwezX2Vl_heDIkH\
+eBm5CyMg-NXPBOVqEamh3_Tai-xg)(CD
+    =http://groups.google.co.in/group/mozilla.support.firefox/browse_thread/th\
+read/a04242dff225640e/b8014eb85dc71219?q=firefox+profile++pavan&rnum=1)
+  (CE=http://gmail.google.com/)(D8=1146575441226739)(CF=1146575428748796)
+  (D0=gmail.google.com)(A1=3)(D2=http://gmail.google.com/mail/)(D3
+    =1146575432153692)(D4=http://mail.google.com/mail/)(D5=mail.google.com)
+  (D6=http://www.mozilla.org/products/firefox/central.html)(D7
+    =1146575436129409)(D9
+    =https://www.google.com/accounts/ServiceLogin?service=mail&passive=true&rm\
+=false&continue=http%3A%2F%2Fmail.google.com%2Fmail%2F%3Fui%3Dhtml%26zy%3Dl&lt\
+mpl=yj_blanco&ltmplcache=2)(DA=1146575449228244)(DB
+    =W$00e$00l$00c$00o$00m$00e$00 $00t$00o$00 $00G$00m$00a$00i$00l$00)
+  (DC=https://www.google.com/accounts/ServiceLoginAuth)(DD
+    =1146575468746310)(DE
+    =https://www.google.com/accounts/CheckCookie?continue=http%3A%2F%2Fmail.go\
+ogle.com%2Fmail%2F%3F&service=mail&chtml=LoginDoneHtml)(DF
+    =1146575472872243)(E0
+    =http://mail.google.com/mail/?auth=DQAAAG0AAADGTsw-li6Z7Y5E4oGZcTIAMqtRs_v\
+BvzkX-xFNEKqoL66oJVKimRBIiE2K9PUaZYHkUoLEaXCHGoOW7Ykr9FZZSV3YbW3Z9ckRkXz5NVIwl\
+9J3ofk6NGltQHPqNcM-7IcvjNQzxHhbohs6vltQYiK7)(E1=1146575478550408)(F5
+    =G$00m$00a$00i$00l$00 $00-$00 $00I$00n$00b$00o$00x$00)(E3
+    =http://mail.google.com/mail/?view=page&name=loading&ver=d202237fbf0582fa)
+  (E4=http://mail.google.com/mail/?view=page&name=js&ver=1bbfe792d16ead01)
+  (E5=1146575482966758)(E6=http://mail.google.com/mail/html/loading.html)
+  (E7=1146575491929646)(F0=12)(F1
+    =http://mail.google.com/mail/?view=page&name=hist1&ver=6e8ea81451e33c4f)
+  (F2
+    =http://mail.google.com/mail/?view=page&name=hist2&ver=6e8ea81451e33c4f)
+  (F3
+    =http://mail.google.com/mail/?&ik=&search=inbox&view=tl&start=0&init=1&zx=\
+ktaobe-btmi0d)(F4=1146575497647868)(F6
+    =http://mail.google.com/mail/?view=page&name=gp&ver=3403410b768567d8)
+  (EB=7)(F7
+    =file:///C:/pavan/j2eeWork/ws-studio-ie-workspace/Vwood-lobs/Vwood/icdata/\
+McDonnald/load1-L2)(F8=1146588606432289)(F9
+    =file:///C:/pavan/j2eeWork/ws-studio-ie-workspace/Vwood-lobs/Vwood/icdata/)
+  (FA=1146588847679185)(FB
+    =I$00n$00d$00e$00x$00 $00o$00f$00 $00f$00i$00l$00e$00:$00/$00/$00/$00C$00:\
+$00/$00p$00a$00v$00a$00n$00/$00j$002$00e$00e$00W$00o$00r$00k$00/$00w$00s$00-$00\
+s$00t$00u$00d$00i$00o$00-$00i$00e$00-$00w$00o$00r$00k$00s$00p$00a$00c$00e$00/$00\
+V$00w$00o$00o$00d$00-$00l$00o$00b$00s$00/$00V$00w$00o$00o$00d$00/$00i$00c$00d$00\
+a$00t$00a$00/$00)(FC
+    =file:///C:/pavan/j2eeWork/ws-studio-ie-workspace/Vwood-lobs/Vwood/)
+  (FD=1146588858624924)(FE
+    =I$00n$00d$00e$00x$00 $00o$00f$00 $00f$00i$00l$00e$00:$00/$00/$00/$00C$00:\
+$00/$00p$00a$00v$00a$00n$00/$00j$002$00e$00e$00W$00o$00r$00k$00/$00w$00s$00-$00\
+s$00t$00u$00d$00i$00o$00-$00i$00e$00-$00w$00o$00r$00k$00s$00p$00a$00c$00e$00/$00\
+V$00w$00o$00o$00d$00-$00l$00o$00b$00s$00/$00V$00w$00o$00o$00d$00/$00)
+  (FF
+    =file:///C:/pavan/j2eeWork/ws-studio-ie-workspace/Vwood-lobs/Vwood/estate)
+  (122=1146590328518528)(100=1146588862570598)(101
+    =I$00n$00d$00e$00x$00 $00o$00f$00 $00f$00i$00l$00e$00:$00/$00/$00/$00C$00:\
+$00/$00p$00a$00v$00a$00n$00/$00j$002$00e$00e$00W$00o$00r$00k$00/$00w$00s$00-$00\
+s$00t$00u$00d$00i$00o$00-$00i$00e$00-$00w$00o$00r$00k$00s$00p$00a$00c$00e$00/$00\
+V$00w$00o$00o$00d$00-$00l$00o$00b$00s$00/$00V$00w$00o$00o$00d$00/$00e$00s$00t$00\
+a$00t$00e$00)(102
+    =file:///C:/pavan/j2eeWork/ws-studio-ie-workspace/Vwood-lobs/Vwood/estate/\
+data)(127=1146592167462800)(103
+    =I$00n$00d$00e$00x$00 $00o$00f$00 $00f$00i$00l$00e$00:$00/$00/$00/$00C$00:\
+$00/$00p$00a$00v$00a$00n$00/$00j$002$00e$00e$00W$00o$00r$00k$00/$00w$00s$00-$00\
+s$00t$00u$00d$00i$00o$00-$00i$00e$00-$00w$00o$00r$00k$00s$00p$00a$00c$00e$00/$00\
+V$00w$00o$00o$00d$00-$00l$00o$00b$00s$00/$00V$00w$00o$00o$00d$00/$00e$00s$00t$00\
+a$00t$00e$00/$00d$00a$00t$00a$00)(104
+    =file:///C:/pavan/j2eeWork/ws-studio-ie-workspace/Vwood-lobs/Vwood/estate/\
+data/FinalTestEstate.tmp)(10B=1146589685143400)(105=1146588866766632)
+  (106=E$00s$00t$00a$00t$00e$00 $00r$00e$00p$00o$00r$00t$00)(108
+    =file:///C:/pavan/j2eeWork/ws-studio-ie-workspace/Vwood-lobs/Vwood/estate/\
+data/McDonnald.tmp)(109=1146588901666816)(10C
+    =file:///C:/pavan/j2eeWork/ws-studio-ie-workspace/Vwood-lobs/Vwood/pavan)
+  (10D=1146590183059368)(10E
+    =I$00n$00d$00e$00x$00 $00o$00f$00 $00f$00i$00l$00e$00:$00/$00/$00/$00C$00:\
+$00/$00p$00a$00v$00a$00n$00/$00j$002$00e$00e$00W$00o$00r$00k$00/$00w$00s$00-$00\
+s$00t$00u$00d$00i$00o$00-$00i$00e$00-$00w$00o$00r$00k$00s$00p$00a$00c$00e$00/$00\
+V$00w$00o$00o$00d$00-$00l$00o$00b$00s$00/$00V$00w$00o$00o$00d$00/$00p$00a$00v$00\
+a$00n$00)(10F
+    =file:///C:/pavan/j2eeWork/ws-studio-ie-workspace/Vwood-lobs/Vwood/pavan/j\
+2eeWork)(110
+    =I$00n$00d$00e$00x$00 $00o$00f$00 $00f$00i$00l$00e$00:$00/$00/$00/$00C$00:\
+$00/$00p$00a$00v$00a$00n$00/$00j$002$00e$00e$00W$00o$00r$00k$00/$00w$00s$00-$00\
+s$00t$00u$00d$00i$00o$00-$00i$00e$00-$00w$00o$00r$00k$00s$00p$00a$00c$00e$00/$00\
+V$00w$00o$00o$00d$00-$00l$00o$00b$00s$00/$00V$00w$00o$00o$00d$00/$00p$00a$00v$00\
+a$00n$00/$00j$002$00e$00e$00W$00o$00r$00k$00)(111
+    =file:///C:/pavan/j2eeWork/ws-studio-ie-workspace/Vwood-lobs/Vwood/pavan/j\
+2eeWork/ws-studio-ie-workspace)(112=1146590187235372)(113
+    =I$00n$00d$00e$00x$00 $00o$00f$00 $00f$00i$00l$00e$00:$00/$00/$00/$00C$00:\
+$00/$00p$00a$00v$00a$00n$00/$00j$002$00e$00e$00W$00o$00r$00k$00/$00w$00s$00-$00\
+s$00t$00u$00d$00i$00o$00-$00i$00e$00-$00w$00o$00r$00k$00s$00p$00a$00c$00e$00/$00\
+V$00w$00o$00o$00d$00-$00l$00o$00b$00s$00/$00V$00w$00o$00o$00d$00/$00p$00a$00v$00\
+a$00n$00/$00j$002$00e$00e$00W$00o$00r$00k$00/$00w$00s$00-$00s$00t$00u$00d$00i$00\
+o$00-$00i$00e$00-$00w$00o$00r$00k$00s$00p$00a$00c$00e$00)(114
+    =file:///C:/pavan/j2eeWork/ws-studio-ie-workspace/Vwood-lobs/Vwood/pavan/j\
+2eeWork/ws-studio-ie-workspace/xml-test)(115
+    =I$00n$00d$00e$00x$00 $00o$00f$00 $00f$00i$00l$00e$00:$00/$00/$00/$00C$00:\
+$00/$00p$00a$00v$00a$00n$00/$00j$002$00e$00e$00W$00o$00r$00k$00/$00w$00s$00-$00\
+s$00t$00u$00d$00i$00o$00-$00i$00e$00-$00w$00o$00r$00k$00s$00p$00a$00c$00e$00/$00\
+V$00w$00o$00o$00d$00-$00l$00o$00b$00s$00/$00V$00w$00o$00o$00d$00/$00p$00a$00v$00\
+a$00n$00/$00j$002$00e$00e$00W$00o$00r$00k$00/$00w$00s$00-$00s$00t$00u$00d$00i$00\
+o$00-$00i$00e$00-$00w$00o$00r$00k$00s$00p$00a$00c$00e$00/$00x$00m$00l$00-$00t$00\
+e$00s$00t$00)(116
+    =file:///C:/pavan/j2eeWork/ws-studio-ie-workspace/Vwood-lobs/Vwood/pavan/j\
+2eeWork/ws-studio-ie-workspace/xml-test/JavaBeansFromXSD)(117
+    =I$00n$00d$00e$00x$00 $00o$00f$00 $00f$00i$00l$00e$00:$00/$00/$00/$00C$00:\
+$00/$00p$00a$00v$00a$00n$00/$00j$002$00e$00e$00W$00o$00r$00k$00/$00w$00s$00-$00\
+s$00t$00u$00d$00i$00o$00-$00i$00e$00-$00w$00o$00r$00k$00s$00p$00a$00c$00e$00/$00\
+V$00w$00o$00o$00d$00-$00l$00o$00b$00s$00/$00V$00w$00o$00o$00d$00/$00p$00a$00v$00\
+a$00n$00/$00j$002$00e$00e$00W$00o$00r$00k$00/$00w$00s$00-$00s$00t$00u$00d$00i$00\
+o$00-$00i$00e$00-$00w$00o$00r$00k$00s$00p$00a$00c$00e$00/$00x$00m$00l$00-$00t$00\
+e$00s$00t$00/$00J$00a$00v$00a$00B$00e$00a$00n$00s$00F$00r$00o$00m$00X$00S$00D$00)
+  (118
+    =file:///C:/pavan/j2eeWork/ws-studio-ie-workspace/Vwood-lobs/Vwood/pavan/j\
+2eeWork/ws-studio-ie-workspace/xml-test/JavaBeansFromXSD/com)(119
+    =1146590190359865)(11A
+    =I$00n$00d$00e$00x$00 $00o$00f$00 $00f$00i$00l$00e$00:$00/$00/$00/$00C$00:\
+$00/$00p$00a$00v$00a$00n$00/$00j$002$00e$00e$00W$00o$00r$00k$00/$00w$00s$00-$00\
+s$00t$00u$00d$00i$00o$00-$00i$00e$00-$00w$00o$00r$00k$00s$00p$00a$00c$00e$00/$00\
+V$00w$00o$00o$00d$00-$00l$00o$00b$00s$00/$00V$00w$00o$00o$00d$00/$00p$00a$00v$00\
+a$00n$00/$00j$002$00e$00e$00W$00o$00r$00k$00/$00w$00s$00-$00s$00t$00u$00d$00i$00\
+o$00-$00i$00e$00-$00w$00o$00r$00k$00s$00p$00a$00c$00e$00/$00x$00m$00l$00-$00t$00\
+e$00s$00t$00/$00J$00a$00v$00a$00B$00e$00a$00n$00s$00F$00r$00o$00m$00X$00S$00D$00\
+/$00c$00o$00m$00)(11B
+    =file:///C:/pavan/j2eeWork/ws-studio-ie-workspace/Vwood-lobs/Vwood/pavan/j\
+2eeWork/ws-studio-ie-workspace/xml-test/JavaBeansFromXSD/com/estateSample)
+  (11C
+    =I$00n$00d$00e$00x$00 $00o$00f$00 $00f$00i$00l$00e$00:$00/$00/$00/$00C$00:\
+$00/$00p$00a$00v$00a$00n$00/$00j$002$00e$00e$00W$00o$00r$00k$00/$00w$00s$00-$00\
+s$00t$00u$00d$00i$00o$00-$00i$00e$00-$00w$00o$00r$00k$00s$00p$00a$00c$00e$00/$00\
+V$00w$00o$00o$00d$00-$00l$00o$00b$00s$00/$00V$00w$00o$00o$00d$00/$00p$00a$00v$00\
+a$00n$00/$00j$002$00e$00e$00W$00o$00r$00k$00/$00w$00s$00-$00s$00t$00u$00d$00i$00\
+o$00-$00i$00e$00-$00w$00o$00r$00k$00s$00p$00a$00c$00e$00/$00x$00m$00l$00-$00t$00\
+e$00s$00t$00/$00J$00a$00v$00a$00B$00e$00a$00n$00s$00F$00r$00o$00m$00X$00S$00D$00\
+/$00c$00o$00m$00/$00e$00s$00t$00a$00t$00e$00S$00a$00m$00p$00l$00e$00)
+  (11D
+    =file:///C:/pavan/j2eeWork/ws-studio-ie-workspace/Vwood-lobs/Vwood/icdata)
+  (11E=1146590220292907)(11F
+    =I$00n$00d$00e$00x$00 $00o$00f$00 $00f$00i$00l$00e$00:$00/$00/$00/$00C$00:\
+$00/$00p$00a$00v$00a$00n$00/$00j$002$00e$00e$00W$00o$00r$00k$00/$00w$00s$00-$00\
+s$00t$00u$00d$00i$00o$00-$00i$00e$00-$00w$00o$00r$00k$00s$00p$00a$00c$00e$00/$00\
+V$00w$00o$00o$00d$00-$00l$00o$00b$00s$00/$00V$00w$00o$00o$00d$00/$00i$00c$00d$00\
+a$00t$00a$00)(120
+    =file:///C:/pavan/j2eeWork/ws-studio-ie-workspace/Vwood-lobs/Vwood/icdata/\
+FinalTestEstate)(121
+    =I$00n$00d$00e$00x$00 $00o$00f$00 $00f$00i$00l$00e$00:$00/$00/$00/$00C$00:\
+$00/$00p$00a$00v$00a$00n$00/$00j$002$00e$00e$00W$00o$00r$00k$00/$00w$00s$00-$00\
+s$00t$00u$00d$00i$00o$00-$00i$00e$00-$00w$00o$00r$00k$00s$00p$00a$00c$00e$00/$00\
+V$00w$00o$00o$00d$00-$00l$00o$00b$00s$00/$00V$00w$00o$00o$00d$00/$00i$00c$00d$00\
+a$00t$00a$00/$00F$00i$00n$00a$00l$00T$00e$00s$00t$00E$00s$00t$00a$00t$00e$00)
+  (123
+    =file:///C:/pavan/j2eeWork/ws-studio-ie-workspace/Vwood-lobs/Vwood/estate/\
+config)(124
+    =I$00n$00d$00e$00x$00 $00o$00f$00 $00f$00i$00l$00e$00:$00/$00/$00/$00C$00:\
+$00/$00p$00a$00v$00a$00n$00/$00j$002$00e$00e$00W$00o$00r$00k$00/$00w$00s$00-$00\
+s$00t$00u$00d$00i$00o$00-$00i$00e$00-$00w$00o$00r$00k$00s$00p$00a$00c$00e$00/$00\
+V$00w$00o$00o$00d$00-$00l$00o$00b$00s$00/$00V$00w$00o$00o$00d$00/$00e$00s$00t$00\
+a$00t$00e$00/$00c$00o$00n$00f$00i$00g$00)(125
+    =file:///C:/pavan/j2eeWork/ws-studio-ie-workspace/Vwood-lobs/Vwood/estate/\
+config/FinalTestEstate)(126=1146590565709592)(128
+    =file:///C:/pavan/j2eeWork/ws-studio-ie-workspace/Vwood-lobs/Vwood/estate/\
+data/FinalTestEstate.xml)(129=1146623582641536)(12A
+    =http://business.vsnl.com/optools/est.htm)(12B=1146635216226664)
+  (12C=business.vsnl.com)(12D
+    =e$00-$00S$00t$00o$00r$00m$00 $00-$00 $00H$00i$00g$00h$00 $00S$00p$00e$00e\
+$00d$00 $00P$00e$00r$00s$00o$00n$00a$00l$00i$00z$00e$00d$00 $00M$00a$00i$00l$00\
+i$00n$00g$00 $00S$00o$00f$00t$00w$00a$00r$00e$00)(12E
+    =http://www.samtecsoft.com/movies/estorm.html)(12F=1146635391088102)
+  (130=samtecsoft.com)(131
+    =C$00r$00e$00a$00t$00e$00d$00 $00b$00y$00 $00C$00a$00m$00t$00a$00s$00i$00a\
+$00 $00S$00t$00u$00d$00i$00o$00 $003$00)(133
+    =http://www.google.co.in/search?client=firefox-a&rls=org.mozilla%3Aen-US%3\
+Aofficial_s&hl=en&q=gold+price+in+mumbai&meta=&btnG=Google+Search)(134
+    =1146636334594798)(135
+    =g$00o$00l$00d$00 $00p$00r$00i$00c$00e$00 $00i$00n$00 $00m$00u$00m$00b$00a\
+$00i$00 $00-$00 $00G$00o$00o$00g$00l$00e$00 $00S$00e$00a$00r$00c$00h$00)
+  (136=http://finance.indiamart.com/markets/commodity/gold.html)(137
+    =1146636343507614)(138=finance.indiamart.com)(139
+    =G$00o$00l$00d$00,$00B$00u$00l$00l$00i$00o$00n$00,$00I$00n$00d$00i$00a$00n\
+$00 $00B$00u$00l$00l$00i$00o$00n$00 $00M$00a$00r$00k$00e$00t$00,$00 $00G$00o$00\
+l$00d$00 $00P$00r$00i$00c$00e$00,$00M$00e$00t$00a$00l$00 $00P$00r$00o$00d$00u$00\
+c$00t$00,$00c$00o$00m$00m$00o$00d$00i$00t$00y$00 $00e$00x$00c$00h$00a$00n$00g$00\
+e$00s$00,$00 $00d$00e$00r$00i$00v$00a$00t$00i$00v$00e$00s$00,$00 $00f$00u$00t$00\
+u$00r$00e$00 $00c$00o$00n$00t$00r$00a$00c$00t$00s$00,$00 $00C$00o$00m$00m$00o$00\
+d$00i$00t$00y$00 $00P$00r$00i$00c$00e$00 $00i$00n$00 $00M$00u$00m$00b$00a$00i$00\
+,$00 $00I$00n$00d$00i$00a$00n$00 $00C$00o$00m$00m$00o$00d$00i$00t$00y$00 $00M$00\
+a$00r$00k$00e$00t$00,$00 $00C$00o$00m$00m$00o$00d$00i$00t$00y$00 $00P$00r$00i$00\
+c$00e$00 $00U$00p$00d$00a$00t$00e$00s$00)(13A
+    =http://pagead2.googlesyndication.com/pagead/ads?client=ca-pub-85250155165\
+80200&dt=1146636346742&lmt=1146636343&format=125x125_as&output=html&channel=70\
+60771486&url=http%3A%2F%2Ffinance.indiamart.com%2Fmarkets%2Fcommodity%2Fgold.h\
+tml&color_bg=F0F0F0&color_text=000000&color_link=0000FF&color_url=008000&color\
+_border=000000&ref=http%3A%2F%2Fwww.google.co.in%2Fsearch%3Fclient%3Dfirefox-a\
+%26rls%3Dorg.mozilla%253Aen-US%253Aofficial_s%26hl%3Den%26q%3Dgold%2Bprice%2Bi\
+n%2Bmumbai%26meta%3D%26btnG%3DGoogle%2BSearch&cc=100&u_h=1050&u_w=1400&u_ah=98\
+6&u_aw=1400&u_cd=32&u_tz=330&u_his=3&u_java=true&u_nplug=21&u_nmime=58)
+  (13B=1146636347913950)(13C=pagead2.googlesyndication.com)(13D
+    =http://pagead2.googlesyndication.com/pagead/ads?client=ca-pub-85250155165\
+80200&dt=1146636347823&lmt=1146636343&prev_fmts=125x125_as&format=160x600_as&o\
+utput=html&channel=7060771486&pv_ch=7060771486%2B&url=http%3A%2F%2Ffinance.ind\
+iamart.com%2Fmarkets%2Fcommodity%2Fgold.html&ad_type=text&ref=http%3A%2F%2Fwww\
+.google.co.in%2Fsearch%3Fclient%3Dfirefox-a%26rls%3Dorg.mozilla%253Aen-US%253A\
+official_s%26hl%3Den%26q%3Dgold%2Bprice%2Bin%2Bmumbai%26meta%3D%26btnG%3DGoogl\
+e%2BSearch&cc=100&u_h=1050&u_w=1400&u_ah=986&u_aw=1400&u_cd=32&u_tz=330&u_his=\
+3&u_java=true&u_nplug=21&u_nmime=58)(13E
+    =http://pagead2.googlesyndication.com/pagead/iclk?sa=l&ai=Biip4PEhYRPzgDaS\
+uVaPpwYEGgoviE8zzt7EBwI23AYDxBBABGAEg_6r0AUC0EkihOVDU9_H9_v____8BqgEKNzA2MDc3M\
+TQ4NrIBFWZpbmFuY2UuaW5kaWFtYXJ0LmNvbboBCjEyNXgxMjVfYXPIAQHaAThodHRwOi8vZmluYW5\
+jZS5pbmRpYW1hcnQuY29tL21hcmtldHMvY29tbW9kaXR5L2dvbGQuaHRtbJUCIkEVCg&num=1&adur\
+l=http://ga.bullionz.net&client=ca-pub-8525015516580200&nh=1&jca=1529)
+  (13F=1146636377125955)(140
+    =http://pagead2.googlesyndication.com/pagead/adclick?sa=L&ai=Biip4PEhYRPzg\
+DaSuVaPpwYEGgoviE8zzt7EBwI23AYDxBBABGAEg_6r0AUC0EkihOVDU9_H9_v____8BqgEKNzA2MD\
+c3MTQ4NrIBFWZpbmFuY2UuaW5kaWFtYXJ0LmNvbboBCjEyNXgxMjVfYXPIAQHaAThodHRwOi8vZmlu\
+YW5jZS5pbmRpYW1hcnQuY29tL21hcmtldHMvY29tbW9kaXR5L2dvbGQuaHRtbJUCIkEVCg&num=1&a\
+durl=http://ga.bullionz.net&client=ca-pub-8525015516580200&nh=1&jca=1529)
+  (141=http://ga.bullionz.net/)(142=ga.bullionz.net)(143
+    =b$00u$00l$00l$00i$00o$00n$00z$00.$00n$00e$00t$00)(144
+    =http://ga.bullionz.net/top.php?d=bullionz.net)(145=1146636380661038)
+  (146=p$00o$00p$00u$00p$00 $00m$00a$00n$00a$00g$00e$00m$00e$00n$00t$00)
+  (147=http://ga.bullionz.net/landing.php?d=bullionz.net)(148
+    =http://www.thebulliondesk.com/india.aspx)(149=1146636418104880)
+  (14A=thebulliondesk.com)(14B
+    =I$00n$00d$00i$00a$00 $00:$00 $00G$00o$00l$00d$00 $00P$00r$00i$00c$00e$00s\
+$00,$00 $00G$00o$00l$00d$00 $00P$00r$00i$00c$00e$00 $00C$00h$00a$00r$00t$00s$00\
+,$00 $00p$00l$00u$00s$00 $00G$00o$00l$00d$00 $00&$00 $00P$00r$00e$00c$00i$00o$00\
+u$00s$00 $00M$00e$00t$00a$00l$00 $00M$00a$00r$00k$00e$00t$00 $00N$00e$00w$00s$00)
+  (14C=http://www.thebulliondesk.com/)(14D=1146636422160712)(14E
+    =G$00o$00l$00d$00 $00P$00r$00i$00c$00e$00s$00 $00a$00n$00d$00 $00C$00h$00a\
+$00r$00t$00s$00 $00-$00 $00S$00i$00l$00v$00e$00r$00 $00a$00n$00d$00 $00P$00r$00\
+e$00c$00i$00o$00u$00s$00 $00M$00e$00t$00a$00l$00s$00 $00P$00r$00i$00c$00e$00,$00\
+ $00N$00e$00w$00s$00 $00a$00n$00d$00 $00C$00h$00a$00r$00t$00s$00,$00 $00p$00l$00\
+u$00s$00 $00f$00r$00e$00e$00 $00G$00o$00l$00d$00 $00C$00h$00a$00r$00t$00s$00 $00\
+f$00o$00r$00 $00y$00o$00u$00r$00 $00w$00e$00b$00s$00i$00t$00e$00 $00f$00r$00o$00\
+m$00 $00T$00h$00e$00B$00u$00l$00l$00i$00o$00n$00D$00e$00s$00k$00)(14F
+    =http://finance.indiamart.com/markets/commodity/)(150=1146636475877953)
+  (151
+    =I$00n$00d$00i$00a$00n$00 $00C$00o$00m$00m$00o$00d$00i$00t$00y$00 $00P$00r\
+$00i$00c$00e$00 $00I$00n$00d$00e$00x$00,$00 $00c$00o$00m$00m$00o$00d$00i$00t$00\
+y$00 $00e$00x$00c$00h$00a$00n$00g$00e$00s$00,$00 $00c$00o$00m$00m$00o$00d$00i$00\
+t$00y$00 $00s$00t$00u$00d$00y$00,$00 $00d$00e$00r$00i$00v$00a$00t$00i$00v$00e$00\
+s$00,$00 $00f$00u$00t$00u$00r$00e$00 $00c$00o$00n$00t$00r$00a$00c$00t$00s$00,$00\
+ $00C$00o$00m$00m$00o$00d$00i$00t$00y$00 $00P$00r$00i$00c$00e$00 $00i$00n$00 $00\
+M$00u$00m$00b$00a$00i$00,$00 $00I$00n$00d$00i$00a$00n$00 $00C$00o$00m$00m$00o$00\
+d$00i$00t$00y$00 $00M$00a$00r$00k$00e$00t$00,$00 $00C$00o$00m$00m$00o$00d$00i$00\
+t$00y$00 $00P$00r$00i$00c$00e$00 $00U$00p$00d$00a$00t$00e$00s$00)(152
+    =http://pagead2.googlesyndication.com/pagead/ads?client=ca-pub-85250155165\
+80200&dt=1146636478321&lmt=1146636475&format=120x600_as&output=html&channel=70\
+60771486&url=http%3A%2F%2Ffinance.indiamart.com%2Fmarkets%2Fcommodity%2F&ad_ty\
+pe=text&ref=http%3A%2F%2Fwww.google.co.in%2Fsearch%3Fclient%3Dfirefox-a%26rls%\
+3Dorg.mozilla%253Aen-US%253Aofficial_s%26hl%3Den%26q%3Dgold%2Bprice%2Bin%2Bmum\
+bai%26meta%3D%26btnG%3DGoogle%2BSearch&cc=100&u_h=1050&u_w=1400&u_ah=986&u_aw=\
+1400&u_cd=32&u_tz=330&u_his=3&u_java=true&u_nplug=21&u_nmime=58)(153
+    =1146636479433065)(154
+    =http://pagead2.googlesyndication.com/pagead/ads?client=ca-pub-85250155165\
+80200&dt=1146636479743&lmt=1146636475&prev_fmts=120x600_as&format=468x60_as&ou\
+tput=html&channel=7060771486&pv_ch=7060771486%2B&url=http%3A%2F%2Ffinance.indi\
+amart.com%2Fmarkets%2Fcommodity%2F&color_bg=FFFFFF&color_text=333333&color_lin\
+k=000000&color_url=666666&color_border=CCCCCC&ref=http%3A%2F%2Fwww.google.co.i\
+n%2Fsearch%3Fclient%3Dfirefox-a%26rls%3Dorg.mozilla%253Aen-US%253Aofficial_s%2\
+6hl%3Den%26q%3Dgold%2Bprice%2Bin%2Bmumbai%26meta%3D%26btnG%3DGoogle%2BSearch&c\
+c=91&u_h=1050&u_w=1400&u_ah=986&u_aw=1400&u_cd=32&u_tz=330&u_his=3&u_java=true\
+&u_nplug=21&u_nmime=58)(155
+    =http://pagead2.googlesyndication.com/pagead/ads?client=ca-pub-85250155165\
+80200&dt=1146636479833&lmt=1146636475&prev_fmts=120x600_as%2C468x60_as&format=\
+160x600_as&output=html&channel=7060771486&pv_ch=7060771486%2B&url=http%3A%2F%2\
+Ffinance.indiamart.com%2Fmarkets%2Fcommodity%2F&ad_type=text&ref=http%3A%2F%2F\
+www.google.co.in%2Fsearch%3Fclient%3Dfirefox-a%26rls%3Dorg.mozilla%253Aen-US%2\
+53Aofficial_s%26hl%3Den%26q%3Dgold%2Bprice%2Bin%2Bmumbai%26meta%3D%26btnG%3DGo\
+ogle%2BSearch&cc=88&u_h=1050&u_w=1400&u_ah=986&u_aw=1400&u_cd=32&u_tz=330&u_hi\
+s=3&u_java=true&u_nplug=21&u_nmime=58)(156
+    =http://finance.indiamart.com/markets/commodity/bullion.html)(16C
+    =1146636763661766)(157=1146636498680742)(158
+    =B$00u$00l$00l$00i$00o$00n$00 $00P$00r$00i$00c$00e$00 $00I$00n$00d$00e$00x\
+$00,$00 $00B$00u$00l$00l$00i$00o$00n$00 $00N$00e$00w$00s$00,$00 $00C$00u$00r$00\
+r$00e$00n$00t$00 $00C$00o$00m$00m$00o$00d$00i$00t$00y$00 $00P$00r$00i$00c$00e$00\
+s$00,$00 $00I$00n$00d$00e$00x$00 $00M$00o$00v$00e$00m$00e$00n$00t$00s$00,$00 $00\
+C$00o$00m$00m$00o$00d$00i$00t$00y$00 $00P$00r$00i$00c$00e$00 $00U$00p$00d$00a$00\
+t$00e$00s$00)(159
+    =http://pagead2.googlesyndication.com/pagead/ads?client=ca-pub-85250155165\
+80200&dt=1146636499251&lmt=1146636498&format=125x125_as&output=html&channel=70\
+60771486&url=http%3A%2F%2Ffinance.indiamart.com%2Fmarkets%2Fcommodity%2Fbullio\
+n.html&color_bg=FFFFCC&color_text=333333&color_link=FF3300&color_url=0033FF&co\
+lor_border=3366CC&ref=http%3A%2F%2Ffinance.indiamart.com%2Fmarkets%2Fcommodity\
+%2F&cc=100&u_h=1050&u_w=1400&u_ah=986&u_aw=1400&u_cd=32&u_tz=330&u_his=4&u_jav\
+a=true&u_nplug=21&u_nmime=58)(15A
+    =http://pagead2.googlesyndication.com/pagead/ads?client=ca-pub-85250155165\
+80200&dt=1146636499782&lmt=1146636498&prev_fmts=125x125_as&format=120x600_as&o\
+utput=html&channel=7060771486&pv_ch=7060771486%2B&url=http%3A%2F%2Ffinance.ind\
+iamart.com%2Fmarkets%2Fcommodity%2Fbullion.html&ad_type=text&ref=http%3A%2F%2F\
+finance.indiamart.com%2Fmarkets%2Fcommodity%2F&cc=100&u_h=1050&u_w=1400&u_ah=9\
+86&u_aw=1400&u_cd=32&u_tz=330&u_his=4&u_java=true&u_nplug=21&u_nmime=58)
+  (15B
+    =http://www.newindpress.com/NewsItems.asp?ID=IEB20060502030526&Page=B&Titl\
+e=Business&Topic=0)(15C=1146636600136628)(15D=newindpress.com)(15E
+    =http://www.newindpress.com/Archives/Login.asp)(15F
+    =N$00e$00w$00i$00n$00d$00p$00r$00e$00s$00s$00.$00c$00o$00m$00 $00-$00 $00L\
+$00o$00g$00i$00n$00 $00A$00r$00c$00h$00i$00v$00e$00s$00)(160
+    =http://ads.mediaturf.net/html.ng/site=newindpress&size=468x60&content=oth\
+er&SpaceDesc=topbanner&campaign=icicibank_nri&lang=language&screenw=1400&bust=\
+701543)(161=ads.mediaturf.net)(162
+    =http://pagead2.googlesyndication.com/pagead/ads?client=ca-pub-48613501765\
+51585&dt=1146636602109&lmt=1146636600&format=728x90_as&output=html&url=http%3A\
+%2F%2Fwww.newindpress.com%2FArchives%2FLogin.asp&color_bg=FFFFFF&color_text=00\
+0000&color_link=000000&color_url=000000&color_border=FFFFFF&ad_type=text&ref=h\
+ttp%3A%2F%2Ffinance.indiamart.com%2Fmarkets%2Fcommodity%2Fbullion.html&cc=100&\
+u_h=1050&u_w=1400&u_ah=986&u_aw=1400&u_cd=32&u_tz=330&u_his=1&u_java=true&u_np\
+lug=21&u_nmime=58)(163
+    =http://pagead2.googlesyndication.com/pagead/ads?client=ca-pub-48613501765\
+51585&dt=1146636602149&lmt=1146636600&alternate_ad_url=http%3A%2F%2Fwww.newind\
+press.com%2Fgoogle_adsense_script.html&prev_fmts=728x90_as&format=120x240_as&o\
+utput=html&channel=9887231087&url=http%3A%2F%2Fwww.newindpress.com%2FArchives%\
+2FLogin.asp&color_bg=FFFFFF&color_text=000000&color_link=000000&color_url=0000\
+00&color_border=FFFFFF&ref=http%3A%2F%2Ffinance.indiamart.com%2Fmarkets%2Fcomm\
+odity%2Fbullion.html&cc=100&u_h=1050&u_w=1400&u_ah=986&u_aw=1400&u_cd=32&u_tz=\
+330&u_his=1&u_java=true&u_nplug=21&u_nmime=58)(164
+    =http://pagead2.googlesyndication.com/pagead/ads?client=ca-pub-48613501765\
+51585&dt=1146636602479&lmt=1146636600&prev_fmts=728x90_as%2C120x240_as&format=\
+120x600_as&output=html&url=http%3A%2F%2Fwww.newindpress.com%2FArchives%2FLogin\
+.asp&color_bg=FFFFFF&color_text=000000&color_link=000000&color_url=000000&colo\
+r_border=FFFFFF&ad_type=text_image&ref=http%3A%2F%2Ffinance.indiamart.com%2Fma\
+rkets%2Fcommodity%2Fbullion.html&cc=61&u_h=1050&u_w=1400&u_ah=986&u_aw=1400&u_\
+cd=32&u_tz=330&u_his=1&u_java=true&u_nplug=21&u_nmime=58)(165
+    =1146636603591596)(166=http://finance.indiamart.com/markets/index.html)
+  (167=1146636750873377)(168
+    =S$00h$00a$00r$00e$00 $00T$00r$00a$00d$00i$00n$00g$00 $00I$00n$00d$00i$00a\
+$00,$00I$00n$00d$00i$00a$00n$00 $00M$00a$00r$00k$00e$00t$00 $00N$00e$00w$00s$00\
+,$00I$00n$00d$00i$00a$00n$00 $00M$00a$00r$00k$00e$00t$00s$00 $00M$00o$00v$00e$00\
+m$00e$00n$00t$00,$00I$00n$00d$00i$00a$00n$00 $00C$00a$00p$00i$00t$00a$00l$00 $00\
+M$00a$00r$00k$00e$00t$00,$00c$00a$00p$00i$00t$00a$00l$00 $00m$00a$00r$00k$00e$00\
+t$00 $00b$00s$00e$00)(169
+    =http://pagead2.googlesyndication.com/pagead/ads?client=ca-pub-85250155165\
+80200&dt=1146636751604&lmt=1146636750&format=125x125_as&output=html&channel=70\
+60771486&url=http%3A%2F%2Ffinance.indiamart.com%2Fmarkets%2Findex.html&color_b\
+g=F0F0F0&color_text=000000&color_link=0000FF&color_url=008000&color_border=000\
+000&ref=http%3A%2F%2Ffinance.indiamart.com%2Fmarkets%2Fcommodity%2Fbullion.htm\
+l&cc=100&u_h=1050&u_w=1400&u_ah=986&u_aw=1400&u_cd=32&u_tz=330&u_his=5&u_java=\
+true&u_nplug=21&u_nmime=58)(16A
+    =http://pagead2.googlesyndication.com/pagead/ads?client=ca-pub-85250155165\
+80200&dt=1146636753937&lmt=1146636750&prev_fmts=125x125_as&format=160x600_as&o\
+utput=html&channel=7060771486&pv_ch=7060771486%2B&url=http%3A%2F%2Ffinance.ind\
+iamart.com%2Fmarkets%2Findex.html&ad_type=text&ref=http%3A%2F%2Ffinance.indiam\
+art.com%2Fmarkets%2Fcommodity%2Fbullion.html&cc=100&u_h=1050&u_w=1400&u_ah=986\
+&u_aw=1400&u_cd=32&u_tz=330&u_his=5&u_java=true&u_nplug=21&u_nmime=58)
+  (16B=1146636754889152)(16D
+    =http://pagead2.googlesyndication.com/pagead/ads?client=ca-pub-85250155165\
+80200&dt=1146636763751&lmt=1146636763&format=125x125_as&output=html&channel=70\
+60771486&url=http%3A%2F%2Ffinance.indiamart.com%2Fmarkets%2Fcommodity%2Fbullio\
+n.html&color_bg=F0F0F0&color_text=000000&color_link=0000FF&color_url=008000&co\
+lor_border=000000&ref=http%3A%2F%2Ffinance.indiamart.com%2Fmarkets%2Findex.htm\
+l&cc=100&u_h=1050&u_w=1400&u_ah=986&u_aw=1400&u_cd=32&u_tz=330&u_his=6&u_java=\
+true&u_nplug=21&u_nmime=58)(16E
+    =http://pagead2.googlesyndication.com/pagead/ads?client=ca-pub-85250155165\
+80200&dt=1146636763791&lmt=1146636763&prev_fmts=125x125_as&format=120x600_as&o\
+utput=html&channel=7060771486&pv_ch=7060771486%2B&url=http%3A%2F%2Ffinance.ind\
+iamart.com%2Fmarkets%2Fcommodity%2Fbullion.html&ad_type=text&ref=http%3A%2F%2F\
+finance.indiamart.com%2Fmarkets%2Findex.html&cc=100&u_h=1050&u_w=1400&u_ah=986\
+&u_aw=1400&u_cd=32&u_tz=330&u_his=6&u_java=true&u_nplug=21&u_nmime=58)
+  (16F=http://www.worldcommunitygrid.org/)(170=1146637015133364)(171
+    =worldcommunitygrid.org)(172
+    =W$00o$00r$00l$00d$00 $00C$00o$00m$00m$00u$00n$00i$00t$00y$00 $00G$00r$00i\
+$00d$00 $00-$00 $00H$00o$00m$00e$00)(175
+    =http://www.google.co.in/search?client=firefox-a&rls=org.mozilla%3Aen-US%3\
+Aofficial_s&hl=en&q=remote+queue+definations+in+MQ&meta=&btnG=Google+Search)
+  (176=1146654030026105)(177
+    =r$00e$00m$00o$00t$00e$00 $00q$00u$00e$00u$00e$00 $00d$00e$00f$00i$00n$00a\
+$00t$00i$00o$00n$00s$00 $00i$00n$00 $00M$00Q$00 $00-$00 $00G$00o$00o$00g$00l$00\
+e$00 $00S$00e$00a$00r$00c$00h$00)(178
+    =http://www-128.ibm.com/developerworks/forums/dw_thread.jsp?message=137814\
+28&cat=9&thread=104772&treeDisplayType=threadmode1&forum=280)(179
+    =1146654043825948)(17A=www-128.ibm.com)(17B
+    =d$00e$00v$00e$00l$00o$00p$00e$00r$00W$00o$00r$00k$00s$00 $00:$00 $00W$00e\
+$00b$00S$00p$00h$00e$00r$00e$00 $00:$00 $00F$00o$00r$00u$00m$00s$00 $00:$00 $00\
+c$00o$00n$00f$00i$00g$00 $00m$00q$00 $00e$00x$00p$00l$00o$00r$00e$00r$00 $00t$00\
+o$00 $00c$00o$00n$00n$00e$00c$00t$00 $00t$00o$00 $00r$00e$00m$00o$00t$00e$00 $00\
+q$00u$00e$00u$00e$00)(17C
+    =http://www-128.ibm.com/developerworks/forums/dw_thread.jsp?message=137808\
+87&cat=9&thread=104772&treeDisplayType=threadmode1&forum=280#13780887)
+  (17D=1146654093958035)(17E
+    =http://www-128.ibm.com/developerworks/forums/dw_thread.jsp?message=137828\
+68&cat=9&thread=104772&treeDisplayType=threadmode1&forum=280#13782868)
+  (17F=1146654126004115)(180
+    =http://www-128.ibm.com/developerworks/forums/dw_thread.jsp?message=137808\
+87&cat=9&thread=104772&treeDisplayType=threadmode1&forum=280)(181
+    =http://www-128.ibm.com/developerworks/forums/dw_thread.jsp?message=137814\
+28&cat=9&thread=104772&treeDisplayType=threadmode1&forum=280#13781428)
+  (182=1146654132884008)(183
+    =http://www-128.ibm.com/developerworks/forums/dw_thread.jsp?message=137828\
+68&cat=9&thread=104772&treeDisplayType=threadmode1&forum=280)(184
+    =http://saloon.javaranch.com/61/000776.html)(185=1146654225487164)
+  (186=saloon.javaranch.com)(187
+    =T$00e$00s$00t$00 $002$009$006$00 $00-$00 $00W$00e$00b$00s$00p$00h$00e$00r\
+$00e$00 $00M$00Q$00 $00S$00o$00l$00u$00t$00i$00o$00n$00 $00D$00e$00s$00i$00g$00\
+n$00)(188
+    =http://saloon.javaranch.com/cgi-bin/ubb/ultimatebb.cgi?ubb=get_topic&f=61\
+&t=000776)(189=1146654230534422)(18A
+    =J$00a$00v$00a$00R$00a$00n$00c$00h$00 $00B$00i$00g$00 $00M$00o$00o$00s$00e\
+$00 $00S$00a$00l$00o$00o$00n$00:$00 $00T$00e$00s$00t$00 $002$009$006$00 $00-$00\
+ $00W$00e$00b$00s$00p$00h$00e$00r$00e$00 $00M$00Q$00 $00S$00o$00l$00u$00t$00i$00\
+o$00n$00 $00D$00e$00s$00i$00g$00n$00)(18B
+    =http://pagead2.googlesyndication.com/pagead/ads?client=ca-pub-47688420873\
+73098&dt=1146654239327&lmt=1146654230&format=468x60_as&output=html&url=http%3A\
+%2F%2Fsaloon.javaranch.com%2Fcgi-bin%2Fubb%2Fultimatebb.cgi%3Fubb%3Dget_topic%\
+26f%3D61%26t%3D000776&color_bg=FFFFFF&color_text=000000&color_link=0000FF&colo\
+r_url=008000&color_border=336699&ad_type=text&cc=8&u_h=1050&u_w=1400&u_ah=986&\
+u_aw=1400&u_cd=32&u_tz=330&u_his=3&u_java=true&u_nplug=21&u_nmime=58)
+  (18C=1146654242972307)(18D
+    =http://www.google.co.in/search?q=remote+queue+definations+in+MQ&hl=en&hs=\
+VbE&lr=&client=firefox-a&rls=org.mozilla:en-US:official_s&start=10&sa=N)
+  (18E=1146656089487465)>
+{1:^80 {(k^81:c)(s=9)[1(^8C=LE)]} 
+  [2(^82^81)(^84^18F)(^85^82)(^88^83)(^89=1)(^86=2)]
+  [3(^82^85)(^84^18F)(^85^86)(^88^87)(^87=)(^86=2)]
+  [4(^82^89)(^84^190)(^85^86)(^83^85)(^88^87)(^87^8A)(^86=4)]
+  [5(^82^8B)(^84^8C)(^85^8C)(^88^8D)(^87^8E)]
+  [6(^82^8F)(^84^90)(^85^90)(^83^8B)(^88^8D)(^87^91)]
+  [7(^82^92)(^84^93)(^85^93)(^88^94)(^89=1)]
+  [8(^82^95)(^84^93)(^85^93)(^88^96)(^89=1)]
+  [9(^82^97)(^84^173)(^85^98)(^88^99)(^87^9A)(^86=5)(^8A=1)]
+  [B(^82^A3)(^84^A4)(^85^A4)(^83^97)(^88^A5)(^87^A6)]
+  [C(^82^A7)(^84^A8)(^85^A8)(^83^A3)(^88^A5)(^87^A9)]
+  [D(^82^AA)(^84^AB)(^85^AB)(^83^A7)(^88^A5)(^87^AC)]
+  [E(^82^AD)(^84^AB)(^85^AB)(^83^AE)(^88^A5)(^89=1)(^87=)]
+  [F(^82^AF)(^84^B0)(^85^B0)(^83^AE)(^88^A5)(^89=1)]
+  [10(^82^B1)(^84^B2)(^85^B2)(^83^AE)(^88^96)(^87^A6)]
+  [11(^82^B3)(^84^B2)(^85^B2)(^83^B1)(^88^96)(^89=1)(^87^B4)]
+  [12(^82^B5)(^84^B6)(^85^B6)(^83^B3)(^88^96)(^89=1)(^87=)]
+  [13(^82^B7)(^84^B6)(^85^B6)(^83^B5)(^88^96)(^87^B4)]
+  [14(^82^B8)(^84^B9)(^85^B9)(^83^B7)(^88^96)(^87^BA)]
+  [15(^82^BB)(^84^B9)(^85^B9)(^88^99)(^89=1)]
+  [16(^82^BC)(^84^BD)(^85^BD)(^88^A5)(^87^BE)]
+  [17(^82^BF)(^84^C0)(^85^C0)(^83^BC)(^88^A5)(^87^BE)]
+  [18(^82^C1)(^84^C2)(^85^C2)(^83^BF)(^88^A5)(^87^AC)]
+  [19(^82^C3)(^84^C4)(^85^C4)(^83^C1)(^88^A5)(^89=1)(^87=)]
+  [1A(^82^C5)(^84^C6)(^85^C6)(^83^C1)(^88^A5)(^87^A6)]
+  [1B(^82^C7)(^84^C8)(^85^C8)(^83^C1)(^88^A5)(^87^C9)]
+  [1C(^82^CA)(^84^CB)(^85^CB)(^83^C7)(^88^A5)(^87^AC)]
+  [1D(^82^CC)(^84^CB)(^85^CB)(^83^CD)(^88^A5)(^89=1)(^87=)]
+  [1E(^82^CE)(^84^D8)(^85^CF)(^88^D0)(^8A=1)(^86=3)]
+  [1F(^82^D2)(^84^D8)(^85^D3)(^88^D0)(^89=1)(^86=2)]
+  [20(^82^D4)(^84^D8)(^85^D3)(^88^D5)(^89=1)(^86=2)]
+  [21(^82^D6)(^84^D7)(^85^D7)(^88^83)(^89=1)]
+  [22(^82^D9)(^84^DA)(^85^DA)(^88^96)(^87^DB)]
+  [23(^82^DC)(^84^DD)(^85^DD)(^83^D9)(^88^96)(^89=1)(^86=2)]
+  [24(^82^DE)(^84^DF)(^85^DF)(^83^D9)(^88^96)(^87^BA)]
+  [25(^82^E0)(^84^E1)(^85^E1)(^88^D5)(^87^F5)]
+  [26(^82^E3)(^84^E1)(^85^E1)(^83^E0)(^88^D5)(^89=1)(^87=)(^86=2)]
+  [27(^82^E4)(^84^E5)(^85^E5)(^83^E0)(^88^D5)(^89=1)(^87=)]
+  [28(^82^E6)(^84^E7)(^85^E7)(^83^E4)(^88^D5)(^89=1)(^87=)(^86=12)]
+  [29(^82^F1)(^84^E7)(^85^E7)(^83^E4)(^88^D5)(^89=1)(^87=)]
+  [2A(^82^F2)(^84^E7)(^85^E7)(^83^E4)(^88^D5)(^89=1)(^87=)]
+  [2B(^82^F3)(^84^F4)(^85^F4)(^83^F2)(^88^D5)(^89=1)(^87=)]
+  [2C(^82^F6)(^84^F4)(^85^F4)(^83^F3)(^88^D5)(^89=1)(^87=)(^86=7)]
+  [2D(^82^F7)(^84^F8)(^85^F8)(^88=)(^87=)]
+  [2E(^82^F9)(^84^FA)(^85^FA)(^88=)(^8A=1)(^86=2)(^87^FB)]
+  [2F(^82^FC)(^84^FD)(^85^FD)(^88=)(^8A=1)(^86=2)(^87^FE)]
+  [30(^82^FF)(^84^122)(^85^100)(^88=)(^87^101)(^86=2)]
+  [31(^82^102)(^84^127)(^85^100)(^88=)(^87^103)(^86=2)]
+  [32(^82^104)(^84^10B)(^85^105)(^88=)(^87^106)(^86=4)]
+  [33(^82^108)(^84^109)(^85^109)(^88=)(^87^106)]
+  [34(^82^10C)(^84^10D)(^85^10D)(^88=)(^87^10E)]
+  [35(^82^10F)(^84^10D)(^85^10D)(^88=)(^87^110)]
+  [36(^82^111)(^84^112)(^85^112)(^88=)(^87^113)]
+  [37(^82^114)(^84^112)(^85^112)(^88=)(^87^115)]
+  [38(^82^116)(^84^112)(^85^112)(^88=)(^87^117)]
+  [39(^82^118)(^84^119)(^85^119)(^88=)(^87^11A)]
+  [3A(^82^11B)(^84^119)(^85^119)(^88=)(^87^11C)]
+  [3B(^82^11D)(^84^11E)(^85^11E)(^88=)(^87^11F)]
+  [3C(^82^120)(^84^11E)(^85^11E)(^88=)(^87^121)]
+  [3D(^82^123)(^84^122)(^85^122)(^88=)(^87^124)]
+  [3E(^82^125)(^84^126)(^85^122)(^88=)(^87=)(^86=2)]
+  [3F(^82^128)(^84^129)(^85^129)(^88=)(^87=)]
+  [40(^82^12A)(^84^12B)(^85^12B)(^88^12C)(^87^12D)]
+  [41(^82^12E)(^84^12F)(^85^12F)(^83^12A)(^88^130)(^87^131)]
+  [42(^82^133)(^84^134)(^85^134)(^83^97)(^88^99)(^87^135)]
+  [43(^82^136)(^84^137)(^85^137)(^83^133)(^88^138)(^87^139)]
+  [44(^82^13A)(^84^13B)(^85^13B)(^83^136)(^88^13C)(^89=1)(^87=)]
+  [45(^82^13D)(^84^13B)(^85^13B)(^83^136)(^88^13C)(^89=1)(^87=)]
+  [46(^82^13E)(^84^13F)(^85^13F)(^83^13A)(^88^13C)(^89=1)]
+  [47(^82^140)(^84^13F)(^85^13F)(^83^13A)(^88^13C)(^89=1)]
+  [48(^82^141)(^84^13F)(^85^13F)(^83^13A)(^88^142)(^87^143)]
+  [49(^82^144)(^84^145)(^85^145)(^83^141)(^88^142)(^89=1)(^87^146)]
+  [4A(^82^147)(^84^145)(^85^145)(^83^141)(^88^142)(^89=1)(^87^143)]
+  [4B(^82^148)(^84^149)(^85^149)(^83^133)(^88^14A)(^87^14B)]
+  [4C(^82^14C)(^84^14D)(^85^14D)(^83^148)(^88^14A)(^87^14E)]
+  [4D(^82^14F)(^84^150)(^85^150)(^83^133)(^88^138)(^87^151)]
+  [4E(^82^152)(^84^153)(^85^153)(^83^14F)(^88^13C)(^89=1)(^87=)]
+  [4F(^82^154)(^84^153)(^85^153)(^83^14F)(^88^13C)(^89=1)(^87=)]
+  [50(^82^155)(^84^153)(^85^153)(^83^14F)(^88^13C)(^89=1)(^87=)]
+  [51(^82^156)(^84^16C)(^85^157)(^83^14F)(^88^138)(^87^158)(^86=2)]
+  [52(^82^159)(^84^157)(^85^157)(^83^156)(^88^13C)(^89=1)(^87=)]
+  [53(^82^15A)(^84^157)(^85^157)(^83^156)(^88^13C)(^89=1)(^87=)]
+  [54(^82^15B)(^84^15C)(^85^15C)(^83^156)(^88^15D)(^89=1)]
+  [55(^82^15E)(^84^15C)(^85^15C)(^83^156)(^88^15D)(^87^15F)]
+  [56(^82^160)(^84^15C)(^85^15C)(^83^15E)(^88^161)(^89=1)(^87=)]
+  [57(^82^162)(^84^15C)(^85^15C)(^83^15E)(^88^13C)(^89=1)(^87=)]
+  [58(^82^163)(^84^15C)(^85^15C)(^83^15E)(^88^13C)(^89=1)(^87=)]
+  [59(^82^164)(^84^165)(^85^165)(^83^15E)(^88^13C)(^89=1)(^87=)]
+  [5A(^82^166)(^84^167)(^85^167)(^83^156)(^88^138)(^87^168)]
+  [5B(^82^169)(^84^167)(^85^167)(^83^166)(^88^13C)(^89=1)(^87=)]
+  [5C(^82^16A)(^84^16B)(^85^16B)(^83^166)(^88^13C)(^89=1)(^87=)]
+  [5D(^82^16D)(^84^16C)(^85^16C)(^83^156)(^88^13C)(^89=1)(^87=)]
+  [5E(^82^16E)(^84^16C)(^85^16C)(^83^156)(^88^13C)(^89=1)(^87=)]
+  [5F(^82^16F)(^84^170)(^85^170)(^88^171)(^87^172)]
+  [60(^82^175)(^84^176)(^85^176)(^83^97)(^88^99)(^87^177)]
+  [61(^82^178)(^84^179)(^85^179)(^83^175)(^88^17A)(^87^17B)]
+  [62(^82^17C)(^84^17D)(^85^17D)(^83^178)(^88^17A)(^87^17B)]
+  [63(^82^17E)(^84^17F)(^85^17F)(^83^180)(^88^17A)(^87^17B)]
+  [64(^82^181)(^84^182)(^85^182)(^83^183)(^88^17A)(^87^17B)]
+  [65(^82^184)(^84^185)(^85^185)(^83^175)(^88^186)(^87^187)]
+  [66(^82^188)(^84^189)(^85^189)(^88^186)(^87^18A)]
+  [67(^82^18B)(^84^18C)(^85^18C)(^83^188)(^88^13C)(^89=1)(^87=)]
+  [68(^82^18D)(^84^18E)(^85^18E)(^83^175)(^88^99)(^87^177)]}

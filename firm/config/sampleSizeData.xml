@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="sampleSizeload-dataLogic.xsl"?>
+<outGoing>
+  <FirmDetails>
+    <firmName>To:Rama Swamy</firmName>
+    <firmAddress>Where ever, will take you, chikmanaglore</firmAddress>
+    <billNo></billNo>
+    <orderNo>123</orderNo>
+    <articles>Sizewood only</articles>
+    <lorryName>Mh14c2247</lorryName>
+    <date>26 Mar 2006</date>
+  </FirmDetails>
+  <rowData>
+    <sizeData>
+      <load>
+        <length>2</length>
+        <width>2.4</width>
+        <thinkness>1.5</thinkness>
+        <qnt>23</qnt>
+        <rft>24.5</rft>
+        <cft>12.7</cft>
+      </load>
+      <load>
+        <length>2</length>
+        <width>2.4</width>
+        <thinkness>1.5</thinkness>
+        <qnt>23</qnt>
+        <rft>24.5</rft>
+        <cft>12.7</cft>
+      </load>
+      
+      <loadTotal>
+        <qnt>56</qnt>
+        <rft>134.7</rft>
+        <cft>23.4</cft>
+      </loadTotal>
+    </sizeData>
+    <sizeData>
+      <load>
+        <length>2</length>
+        <width>2.4</width>
+        <thinkness>1.5</thinkness>
+        <qnt>23</qnt>
+        <rft>24.5</rft>
+        <cft>12.7</cft>
+      </load>
+      <load>
+        <length>2</length>
+        <width>2.4</width>
+        <thinkness>1.5</thinkness>
+        <qnt>23</qnt>
+        <rft>24.5</rft>
+        <cft>12.7</cft>
+      </load>
+      
+      <loadTotal>
+        <qnt>56</qnt>
+        <rft>134.7</rft>
+        <cft>23.4</cft>
+      </loadTotal>
+    </sizeData>
+  </rowData>
+  <rowData>
+    <sizeData>
+      <load>
+        <length>2</length>
+        <width>2.4</width>
+        <thinkness>1.5</thinkness>
+        <qnt>23</qnt>
+        <rft>24.5</rft>
+        <cft>12.7</cft>
+      </load>
+      <load>
+        <length>2</length>
+        <width>2.4</width>
+        <thinkness>1.5</thinkness>
+        <qnt>23</qnt>
+        <rft>24.5</rft>
+        <cft>12.7</cft>
+      </load>
+      
+      <loadTotal>
+        <qnt>56</qnt>
+        <rft>134.7</rft>
+        <cft>23.4</cft>
+      </loadTotal>
+    </sizeData>
+    <sizeData>
+      <load>
+        <length>2</length>
+        <width>2.4</width>
+        <thinkness>1.5</thinkness>
+        <qnt>23</qnt>
+        <rft>24.5</rft>
+        <cft>12.7</cft>
+      </load>
+      
+      
+      <loadTotal>
+        <qnt>56</qnt>
+        <rft>134.7</rft>
+        <cft>23.4</cft>
+      </loadTotal>
+    </sizeData>
+  </rowData>
+  <sizeTotal>
+    <planks>23.4</planks>
+    <Runners>34.7</Runners>
+    <Battons>2.4</Battons>
+    <SLR>34.5</SLR>
+    <Lapha>23.5</Lapha>
+    <totalCFT>234.5</totalCFT>
+  </sizeTotal>
+</outGoing>

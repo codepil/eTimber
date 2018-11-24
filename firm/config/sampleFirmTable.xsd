@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <xsd:element name="SLR" type="xsd:string"/>
+    <xsd:element name="amount" type="xsd:string"/>
+    <xsd:element name="battons" type="xsd:string"/>
+    <xsd:element name="date" type="xsd:string"/>
+    <xsd:element name="details">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element ref="firmName"/>
+                <xsd:element ref="firmAddress"/>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+    <xsd:element name="firm">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element ref="details"/>
+                <xsd:element maxOccurs="unbounded" minOccurs="1" ref="load"/>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+    <xsd:element name="firmAddress" type="xsd:string"/>
+    <xsd:element name="firmName" type="xsd:string"/>
+    <xsd:element name="lapha" type="xsd:string"/>
+    <xsd:element name="load">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element ref="sno"/>
+                <xsd:element ref="orderNo"/>
+                <xsd:element ref="loadName"/>
+                <xsd:element ref="date"/>
+                <xsd:element ref="runners"/>
+                <xsd:element ref="planks"/>
+                <xsd:element ref="battons"/>
+                <xsd:element ref="SLR"/>
+                <xsd:element ref="lapha"/>
+                <xsd:element ref="others"/>
+                <xsd:element ref="totalCFT"/>
+                <xsd:element ref="amount"/>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+    <xsd:element name="loadName" type="xsd:string"/>
+    <xsd:element name="orderNo" type="xsd:string"/>
+    <xsd:element name="others" type="xsd:string"/>
+    <xsd:element name="planks" type="xsd:string"/>
+    <xsd:element name="runners" type="xsd:string"/>
+    <xsd:element name="sno" type="xsd:string"/>
+    <xsd:element name="totalCFT" type="xsd:string"/>
+</xsd:schema>

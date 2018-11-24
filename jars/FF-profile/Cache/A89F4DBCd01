@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss version="2.0"><channel>
+	<title>BBC News | News Front Page | World Edition</title>
+	<link>http://news.bbc.co.uk/go/rss/-/2/hi/default.stm</link>
+	<description>Visit BBC News for up-to-the-minute news, breaking news, video, audio and feature stories. BBC News provides trusted World and UK news as well as local and regional perspectives. Also entertainment, business, science, technology and health news.</description>
+	<language>en-gb</language>
+	<lastBuildDate>Wed, 03 May 2006 13:02:25 GMT</lastBuildDate>
+	<copyright>Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse</copyright>
+	<docs>http://www.bbc.co.uk/syndication/</docs>
+	<ttl>15</ttl>
+		
+		<image>
+			<title>BBC News</title>
+			<url>http://news.bbc.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+			<link>http://news.bbc.co.uk/go/rss/-/2/hi/default.stm</link>
+		</image>
+		
+			
+				
+				
+					<item>
+        <title>EU halts Serbia talks over Mladic</title>
+        <description>The EU calls off talks on closer ties with Serbia as it has failed to arrest war crimes suspect Ratko Mladic.</description>
+        <link>http://news.bbc.co.uk/go/rss/-/2/hi/europe/4968104.stm</link>
+	
+		<guid isPermaLink="false">http://news.bbc.co.uk/2/hi/europe/4968104.stm</guid>
+		<pubDate>Wed, 03 May 2006 12:14:37 GMT</pubDate>
+		<category>Europe</category>
+		
+	
+	
+</item>
+				
+			
+			
+       		
+			
+				
+				
+					<item>
+        <title>Dozens dead in new Iraq violence</title>
+        <description>More than 50 people are killed in fresh violence in Iraq, including a suicide bombing targeting police recruits.</description>
+        <link>http://news.bbc.co.uk/go/rss/-/2/hi/middle_east/4967644.stm</link>
+	
+		<guid isPermaLink="false">http://news.bbc.co.uk/2/hi/middle_east/4967644.stm</guid>
+		<pubDate>Wed, 03 May 2006 09:12:38 GMT</pubDate>
+		<category>Middle East</category>
+		
+	
+	
+</item>
+				
+			
+			
+       		
+			
+				
+				
+					<item>
+        <title>Hunt for Armenia air crash bodies</title>
+        <description>Bad weather slows recovery of the bodies of 113 people killed when an Armenian plane crashed.</description>
+        <link>http://news.bbc.co.uk/go/rss/-/2/hi/europe/4967464.stm</link>
+	
+		<guid isPermaLink="false">http://news.bbc.co.uk/2/hi/europe/4967464.stm</guid>
+		<pubDate>Wed, 03 May 2006 11:12:35 GMT</pubDate>
+		<category>Europe</category>
+		
+	
+	
+</item>
+				
+			
+			
+       		
+			
+				
+				
+					<item>
+        <title>Chinese install second bishop</title>
+        <description>China installs another bishop without Vatican approval, a move likely to inflame tensions with the Holy See.</description>
+        <link>http://news.bbc.co.uk/go/rss/-/2/hi/asia-pacific/4967648.stm</link>
+	
+		<guid isPermaLink="false">http://news.bbc.co.uk/2/hi/asia-pacific/4967648.stm</guid>
+		<pubDate>Wed, 03 May 2006 10:37:59 GMT</pubDate>
+		<category>Asia-Pacific</category>
+		
+	
+	
+</item>
+				
+			
+			
+       		
+			
+				
+				
+					<item>
+        <title>Stark warning at the Darfur talks</title>
+        <description>Intense negotiations are under way as mediators push back a deadline for a peace deal at Sudan's Darfur talks.</description>
+        <link>http://news.bbc.co.uk/go/rss/-/2/hi/africa/4967990.stm</link>
+	
+		<guid isPermaLink="false">http://news.bbc.co.uk/2/hi/africa/4967990.stm</guid>
+		<pubDate>Wed, 03 May 2006 11:00:33 GMT</pubDate>
+		<category>Africa</category>
+		
+	
+	
+</item>
+				
+			
+			
+       		
+			
+				
+				
+					<item>
+        <title>Indian opposition politician dies</title>
+        <description>A senior leader of India's main opposition BJP, Pramod Mahajan, succumbs to bullet wounds after being shot.</description>
+        <link>http://news.bbc.co.uk/go/rss/-/2/hi/south_asia/4968866.stm</link>
+	
+		<guid isPermaLink="false">http://news.bbc.co.uk/2/hi/south_asia/4968866.stm</guid>
+		<pubDate>Wed, 03 May 2006 12:42:47 GMT</pubDate>
+		<category>South Asia</category>
+		
+	
+	
+</item>
+				
+			
+			
+       		
+			
+				
+				
+					<item>
+        <title>Struggle to execute US murderer</title>
+        <description>A man tells his executioners the lethal injection procedure is not working, as they struggle to kill him.</description>
+        <link>http://news.bbc.co.uk/go/rss/-/2/hi/americas/4968022.stm</link>
+	
+		<guid isPermaLink="false">http://news.bbc.co.uk/2/hi/americas/4968022.stm</guid>
+		<pubDate>Wed, 03 May 2006 10:16:15 GMT</pubDate>
+		<category>Americas</category>
+		
+	
+	
+</item>
+				
+			
+			
+       		
+			
+				
+				
+					<item>
+        <title>Media holds its own in trust poll</title>
+        <description>People worldwide trust the media more than governments, a poll suggests, while the young increasingly go online for news.</description>
+        <link>http://news.bbc.co.uk/go/rss/-/2/hi/technology/4965550.stm</link>
+	
+		<guid isPermaLink="false">http://news.bbc.co.uk/2/hi/technology/4965550.stm</guid>
+		<pubDate>Wed, 03 May 2006 02:01:40 GMT</pubDate>
+		<category>Technology</category>
+		
+	
+	
+</item>
+				
+			
+			
+       		
+			
+				
+				
+					<item>
+        <title>Van Gogh work sells for $40m</title>
+        <description>A rare Van Gogh painting fetches more than $40m (£22m) at auction in New York.</description>
+        <link>http://news.bbc.co.uk/go/rss/-/2/hi/entertainment/4967738.stm</link>
+	
+		<guid isPermaLink="false">http://news.bbc.co.uk/2/hi/entertainment/4967738.stm</guid>
+		<pubDate>Wed, 03 May 2006 12:30:57 GMT</pubDate>
+		<category>Entertainment</category>
+		
+	
+	
+</item>
+				
+			
+			
+       		
+			
+				
+				
+					<item>
+        <title>Football: Rooney 'needs miracle'</title>
+        <description>Wayne Rooney has &quot;more than one fracture&quot; in his foot, England manager Sven-Goran Eriksson reveals.</description>
+        <link>http://news.bbc.co.uk/go/rss/-/sport2/hi/football/world_cup_2006/teams/england/4966604.stm</link>
+	
+		<guid isPermaLink="false">http://news.bbc.co.uk/sport2/hi/football/world_cup_2006/teams/england/4966604.stm</guid>
+		<pubDate>Wed, 03 May 2006 12:27:09 GMT</pubDate>
+		<category>England</category>
+		
+	
+	
+</item>
+				
+			
+			
+       		
+			
+				
+				
+					<item>
+        <title>World Cup: US names squad</title>
+        <description>USA coach Bruce Arena picks a blend of domestic and European-based players for the World Cup</description>
+        <link>http://news.bbc.co.uk/go/rss/-/sport2/hi/football/world_cup_2006/teams/usa/4962000.stm</link>
+	
+		<guid isPermaLink="false">http://news.bbc.co.uk/sport2/hi/football/world_cup_2006/teams/usa/4962000.stm</guid>
+		<pubDate>Tue, 02 May 2006 23:55:30 GMT</pubDate>
+		<category>USA</category>
+		
+	
+	
+</item>
+				
+			
+			
+       		
+			
+				
+				
+					<item>
+        <title>Chad votes in presidential poll</title>
+        <description>A controversial presidential poll takes  place in Chad, as President Idriss Deby seeks a third term in office.</description>
+        <link>http://news.bbc.co.uk/go/rss/-/2/hi/africa/4967594.stm</link>
+	
+		<guid isPermaLink="false">http://news.bbc.co.uk/2/hi/africa/4967594.stm</guid>
+		<pubDate>Wed, 03 May 2006 11:13:44 GMT</pubDate>
+		<category>Africa</category>
+		
+	
+	
+</item>
+				
+			
+			
+       		
+			
+				
+				
+					<item>
+        <title>Boy, 16, executes father's killer</title>
+        <description>A teenage Somali boy stabs and kills the man convicted of murdering his father, in a public Sharia law  execution.</description>
+        <link>http://news.bbc.co.uk/go/rss/-/2/hi/africa/4967108.stm</link>
+	
+		<guid isPermaLink="false">http://news.bbc.co.uk/2/hi/africa/4967108.stm</guid>
+		<pubDate>Tue, 02 May 2006 21:41:10 GMT</pubDate>
+		<category>Africa</category>
+		
+	
+	
+</item>
+				
+			
+			
+       		
+			
+				
+				
+					<item>
+        <title>Crisis talks on Bolivia gas move</title>
+        <description>South American leaders will hold emergency talks after Bolivia extends state control over natural gas assets.</description>
+        <link>http://news.bbc.co.uk/go/rss/-/2/hi/americas/4964300.stm</link>
+	
+		<guid isPermaLink="false">http://news.bbc.co.uk/2/hi/americas/4964300.stm</guid>
+		<pubDate>Wed, 03 May 2006 02:01:50 GMT</pubDate>
+		<category>Americas</category>
+		
+	
+	
+</item>
+				
+			
+			
+       		
+			
+				
+				
+					<item>
+        <title>Drive for strict US immigrant law</title>
+        <description>A convoy of campaigners who want US immigration laws tightened is to set off on a 12-city tour to rally support.</description>
+        <link>http://news.bbc.co.uk/go/rss/-/2/hi/americas/4968906.stm</link>
+	
+		<guid isPermaLink="false">http://news.bbc.co.uk/2/hi/americas/4968906.stm</guid>
+		<pubDate>Wed, 03 May 2006 12:36:49 GMT</pubDate>
+		<category>Americas</category>
+		
+	
+	
+</item>
+				
+			
+			
+       		
+			
+				
+				
+					<item>
+        <title>Poor Cambodians face relocation</title>
+        <description>Officials in Phnom Penh begin to evict more than 1,000 families from a shanty town in the city centre.</description>
+        <link>http://news.bbc.co.uk/go/rss/-/2/hi/asia-pacific/4967610.stm</link>
+	
+		<guid isPermaLink="false">http://news.bbc.co.uk/2/hi/asia-pacific/4967610.stm</guid>
+		<pubDate>Wed, 03 May 2006 05:24:05 GMT</pubDate>
+		<category>Asia-Pacific</category>
+		
+	
+	
+</item>
+				
+			
+			
+       		
+			
+				
+				
+					<item>
+        <title>Violence flares at Jakarta rally</title>
+        <description>Police in Indonesia's capital, Jakarta, fire tear gas as a protest over workers' rights turns violent.</description>
+        <link>http://news.bbc.co.uk/go/rss/-/2/hi/asia-pacific/4967898.stm</link>
+	
+		<guid isPermaLink="false">http://news.bbc.co.uk/2/hi/asia-pacific/4967898.stm</guid>
+		<pubDate>Wed, 03 May 2006 10:25:00 GMT</pubDate>
+		<category>Asia-Pacific</category>
+		
+	
+	
+</item>
+				
+			
+			
+       		
+			
+				
+				
+					<item>
+        <title>End to 10-year British beef ban</title>
+        <description>A ban on exporting British beef, imposed in 1996 to prevent the spread of mad cow disease, has ended.</description>
+        <link>http://news.bbc.co.uk/go/rss/-/2/hi/uk_news/4967480.stm</link>
+	
+		<guid isPermaLink="false">http://news.bbc.co.uk/2/hi/uk_news/4967480.stm</guid>
+		<pubDate>Wed, 03 May 2006 10:43:03 GMT</pubDate>
+		<category>UK</category>
+		
+	
+	
+</item>
+				
+			
+			
+       		
+			
+				
+				
+					<item>
+        <title>Iran tops Merkel's agenda in US</title>
+        <description>Iran's nuclear programme is set to dominate German Chancellor Angela Merkel's two-day trip to Washington.</description>
+        <link>http://news.bbc.co.uk/go/rss/-/2/hi/europe/4968552.stm</link>
+	
+		<guid isPermaLink="false">http://news.bbc.co.uk/2/hi/europe/4968552.stm</guid>
+		<pubDate>Wed, 03 May 2006 11:05:04 GMT</pubDate>
+		<category>Europe</category>
+		
+	
+	
+</item>
+				
+			
+			
+       		
+			
+				
+				
+					<item>
+        <title>US warns of tough Iran resolution</title>
+        <description>A top US diplomat says he expects EU states to prepare a binding UN resolution on Iran's nuclear programme.</description>
+        <link>http://news.bbc.co.uk/go/rss/-/2/hi/middle_east/4965264.stm</link>
+	
+		<guid isPermaLink="false">http://news.bbc.co.uk/2/hi/middle_east/4965264.stm</guid>
+		<pubDate>Wed, 03 May 2006 00:00:35 GMT</pubDate>
+		<category>Middle East</category>
+		
+	
+	
+</item>
+				
+			
+			
+       		
+			
+				
+				
+					<item>
+        <title>Bombed Lebanon anchor wins award</title>
+        <description>A Lebanese TV journalist badly maimed in a car bomb attack wins Unesco's World Press Freedom Prize.</description>
+        <link>http://news.bbc.co.uk/go/rss/-/2/hi/middle_east/4968460.stm</link>
+	
+		<guid isPermaLink="false">http://news.bbc.co.uk/2/hi/middle_east/4968460.stm</guid>
+		<pubDate>Wed, 03 May 2006 11:28:39 GMT</pubDate>
+		<category>Middle East</category>
+		
+	
+	
+</item>
+				
+			
+			
+       		
+			
+				
+				
+					<item>
+        <title>Trade link across Kashmir agreed</title>
+        <description>India and Pakistan agree to open a cross-Kashmir trade route ahead of talks between separatists and the Indian PM.</description>
+        <link>http://news.bbc.co.uk/go/rss/-/2/hi/south_asia/4967628.stm</link>
+	
+		<guid isPermaLink="false">http://news.bbc.co.uk/2/hi/south_asia/4967628.stm</guid>
+		<pubDate>Wed, 03 May 2006 08:23:43 GMT</pubDate>
+		<category>South Asia</category>
+		
+	
+	
+</item>
+				
+			
+			
+       		
+			
+				
+				
+					<item>
+        <title>Nepal monarchy 'out of politics'</title>
+        <description>The people of Nepal have decided the monarchy has no future political role, a senior US official says.</description>
+        <link>http://news.bbc.co.uk/go/rss/-/2/hi/south_asia/4968204.stm</link>
+	
+		<guid isPermaLink="false">http://news.bbc.co.uk/2/hi/south_asia/4968204.stm</guid>
+		<pubDate>Wed, 03 May 2006 12:10:11 GMT</pubDate>
+		<category>South Asia</category>
+		
+	
+	
+</item>
+				
+			
+			
+       		
+			
+				
+				
+					<item>
+        <title>Blair clashes over free prisoners</title>
+        <description>Tony Blair tells MPs all foreign criminals should face being automatically deported, but is accused of &quot;losing control&quot;.</description>
+        <link>http://news.bbc.co.uk/go/rss/-/2/hi/uk_news/politics/4967592.stm</link>
+	
+		<guid isPermaLink="false">http://news.bbc.co.uk/2/hi/uk_news/politics/4967592.stm</guid>
+		<pubDate>Wed, 03 May 2006 12:23:43 GMT</pubDate>
+		<category>UK Politics</category>
+		
+	
+	
+</item>
+				
+			
+			
+       		
+			
+				
+				
+					<item>
+        <title>Euronext in Deutsche merger talks</title>
+        <description>European exchange Euronext has ended talks to merge with the LSE - but is now back in talks with Deutsche Boerse.</description>
+        <link>http://news.bbc.co.uk/go/rss/-/2/hi/business/4967870.stm</link>
+	
+		<guid isPermaLink="false">http://news.bbc.co.uk/2/hi/business/4967870.stm</guid>
+		<pubDate>Wed, 03 May 2006 08:52:32 GMT</pubDate>
+		<category>Business</category>
+		
+	
+	
+</item>
+				
+			
+			
+       		
+			
+				
+				
+					<item>
+        <title>Diabetes raises early death risk</title>
+        <description>Younger people with Type 2 diabetes face three times the early death risk than their peers, a study says.</description>
+        <link>http://news.bbc.co.uk/go/rss/-/2/hi/health/4966174.stm</link>
+	
+		<guid isPermaLink="false">http://news.bbc.co.uk/2/hi/health/4966174.stm</guid>
+		<pubDate>Tue, 02 May 2006 23:35:18 GMT</pubDate>
+		<category>Health</category>
+		
+	
+	
+</item>
+				
+			
+			
+       		
+			
+				
+				
+					<item>
+        <title>More species slide to extinction</title>
+        <description>The polar bear, hippo and many sharks are among species newly listed as threatened with extinction.</description>
+        <link>http://news.bbc.co.uk/go/rss/-/2/hi/science/nature/4963526.stm</link>
+	
+		<guid isPermaLink="false">http://news.bbc.co.uk/2/hi/science/nature/4963526.stm</guid>
+		<pubDate>Mon, 01 May 2006 20:18:03 GMT</pubDate>
+		<category>Science/Nature</category>
+		
+	
+	
+</item>
+				
+			
+			
+       		
+			
+				
+				
+					<item>
+        <title>Amateur snappers get their reward</title>
+        <description>Citizens who find themselves snapping events could get their work recognised by a new award.</description>
+        <link>http://news.bbc.co.uk/go/rss/-/2/hi/technology/4968940.stm</link>
+	
+		<guid isPermaLink="false">http://news.bbc.co.uk/2/hi/technology/4968940.stm</guid>
+		<pubDate>Wed, 03 May 2006 12:11:33 GMT</pubDate>
+		<category>Technology</category>
+		
+	
+	
+</item>
+				
+			
+			
+       		
+			
+				
+				
+					<item>
+        <title>German bishops act over Pope show</title>
+        <description>Bavarian bishops file an injunction to stop MTV showing cartoon Popetown, featuring a pogoing Pope.</description>
+        <link>http://news.bbc.co.uk/go/rss/-/2/hi/entertainment/4968614.stm</link>
+	
+		<guid isPermaLink="false">http://news.bbc.co.uk/2/hi/entertainment/4968614.stm</guid>
+		<pubDate>Wed, 03 May 2006 11:28:44 GMT</pubDate>
+		<category>Entertainment</category>
+		
+	
+	
+</item>
+				
+			
+			
+       		
+
+	
+	
+	
+</channel>
+</rss>
+

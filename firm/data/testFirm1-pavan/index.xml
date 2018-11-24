@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../config/sampleFirmTable-dataLogic.xsl"?>
+<firm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="extractedData.xsd">
+  <details>
+    <firmName>testFirm1-pavan</firmName>
+    <firmAddress>23</firmAddress>
+  </details>
+  <load>
+    <sno>1</sno>
+    <orderNo>13213</orderNo>
+    <loadName>testLoad1</loadName>
+    <date>7 Aug 2007</date>
+    <planks>2.48</planks>
+    <runners>0.0</runners>
+    <battons>0.5</battons>
+    <SLR>0.0</SLR>
+    <lapha>0.0</lapha>
+    <others>0.0</others>
+    <totalCFT>2.98</totalCFT>
+    <amount></amount>
+  </load>
+  <load>
+    <sno>2</sno>
+    <orderNo></orderNo>
+    <loadName>testLoad2</loadName>
+    <date>7 Aug 2007</date>
+    <planks>1.24</planks>
+    <runners>0.0</runners>
+    <battons>0.0</battons>
+    <SLR>0.0</SLR>
+    <lapha>0.0</lapha>
+    <others>0.0</others>
+    <totalCFT>1.24</totalCFT>
+    <amount></amount>
+  </load>
+  <load>
+    <sno>3</sno>
+    <orderNo></orderNo>
+    <loadName>testLoad3</loadName>
+    <date>7 Aug 2007</date>
+    <planks>1.8599999999999999</planks>
+    <runners>0.0</runners>
+    <battons>0.0</battons>
+    <SLR>0.0</SLR>
+    <lapha>0.0</lapha>
+    <others>0.0</others>
+    <totalCFT>1.8599999999999999</totalCFT>
+    <amount></amount>
+  </load>
+</firm>

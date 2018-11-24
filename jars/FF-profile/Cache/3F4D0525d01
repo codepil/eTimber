@@ -1,0 +1,812 @@
+<!DOCTYPE HTML PUBLIC "-//SoftQuad//DTD HoTMetaL PRO 4.0::19971010::extensions to HTML 4.0//EN"
+ "hmpro4.dtd">
+
+<HTML>
+  
+  <HEAD>
+    <TITLE>Share Trading India,Indian Market News,Indian Markets
+    Movement,Indian Capital Market,capital market bse</TITLE>
+    <META NAME="Keywords" 
+    CONTENT="latest stock watch, indian market watch, indian markets movement, indian stock exchange, indian stock updates, market news, martke updates, investor forum, market pulse, india primary offerings, indian secondary market, indian primary market, indian bonds, indian money management, global markets, indian market news, capital market india, stock exchange of india, indian stock exchanges, stock exchanges india,online stock quotes, real time stock quotes, investor forum, market pulse, indian market watch, market watch india, stock indices, stock indices india, indian stock indices, listed equities, indian trading system, dalal street, listed shares, indian market information, indian stocks, stocks india, indian securities, stock broker india, stock quotes search, indian stock movement, wall street, share indices, trader workstations, price monitoring, settlement system, stock news, indian stock search, wall street india, indian wall street, dalal street india">
+    <META NAME="Description" 
+    CONTENT="Indian Market Watch - Presenting online uptodate information on Indian Capital Markets. Get information on National Stock Exchange, Bombay Stock Exchange, Mutual Funds, Global Depository Schemes, Commodity Prices in India & Info on Other Global Markets. Also featuring Stock Quote Search.">
+    <LINK HREF="../style/finance.css" REL="STYLESHEET" TYPE="text/css">
+
+<SCRIPT LANGUAGE="javascript">
+
+function mOvr(src,r,tid) { if (!src.contains(event.fromElement))
+ { var cellID = src.id ;  document.all(tid).rows(r).cells(cellID).bgColor = '#6262DD'; }}
+function mOut(src,r,tid) {if (!src.contains(event.toElement))
+ { var cellID = src.id ;   document.all(tid).rows(r).cells(cellID).bgColor = '#36368D';}}
+function mClick(src) {if (!src.contains(event.toElement))
+ { var cellID = src.id ;   if (document.all(cellID).children(0).tagName == "A") {  document.location = document.all(cellID).children(0).href; }   }}
+
+</SCRIPT>
+  </HEAD>
+  
+  <BODY BGCOLOR="#FFFFFF" BACKGROUND="../gifs/back.gif" LINK="#36368D" 
+  VLINK="#36368D" ALINK="#36368D" TOPMARGIN="0" MARGINHEIGHT="0" 
+  LEFTMARGIN="0" MARGINWIDTH="0">
+
+<SCRIPT>
+
+<!-- 
+
+function checkData (){if (document.form1.choice[0].checked) {
+   document.form1.action = "http://www.indiamart.com/cgi/AT-financesearch.cgi";
+        
+}
+else {
+   document.form1.action = "http://www.indiamart.com/cgi/AT-india2search.cgi";
+        
+}
+return true;
+}
+
+//-->
+
+</SCRIPT>
+    
+    <FORM ACTION="http://indiamart.com/cgi/explorer3.cgi" NAME="form1" 
+    TARGET="_top"><INPUT TYPE="hidden" NAME="modid" VALUE="DIR"><INPUT TYPE="hidden" NAME="nxth" VALUE="1"><INPUT TYPE="hidden" NAME="rightn" VALUE="1">
+    <INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+    <TABLE WIDTH="750" BORDER="0" VSPACE="0" HSPACE="0" CELLPADDING="0" 
+    CELLSPACING="0">
+      <TR>
+        <TD BGCOLOR="#999BE6" WIDTH="125"><A HREF="http://www.indiamart.com"><IMG SRC="../gifs/indiamart.gif" ALT="IndiaMART" BORDER="0" HSPACE="1" VSPACE="12" WIDTH="125" HEIGHT="24"></A></TD>
+        <TD ALIGN="CENTER" BGCOLOR="#0A0A73"><A HREF="../index.html"><IMG SRC="../gifs/market_watch.gif" ALT="Market Watch - India Finance & Investment Guide" WIDTH="470" HEIGHT="50" BORDER="0" HSPACE="0" VSPACE="0"></A></TD>
+      </TR>
+    </TABLE>
+    <TABLE WIDTH="125" BORDER="0" VSPACE="0" HSPACE="0" CELLPADDING="0" 
+    CELLSPACING="0" ALIGN="LEFT">
+      <TR>
+        <TD VALIGN="TOP">
+        <TABLE WIDTH="100%" BGCOLOR="#6262DD" CELLPADDING="2" CELLSPACING="1" BORDER="0" VSPACE="0" HSPACE="0">
+          <TR>
+            <TD>
+            <DIV><FONT COLOR="#FFFFFF" SIZE="-2" FACE="arial">Search<BR>
+            <INPUT TYPE="TEXT" NAME="search" SIZE="10"><INPUT TYPE="IMAGE" NAME="Image1" VALUE="go" SRC="../gifs/go.gif" BORDER="0" HEIGHT="24" WIDTH="19"><BR>
+            </FONT></DIV>
+            <TABLE WIDTH="100%" BORDER="0" BGCOLOR="#999BE6" VSPACE="0" HSPACE="0" CELLSPACING="0" CELLPADDING="0">
+              <TR>
+                <TD>
+                <TABLE WIDTH="100%" BORDER="0" BGCOLOR="#999BE6" VSPACE="0" HSPACE="0" CELLPADDING="0" CELLSPACING="1">
+                  <TR>
+                    <TD BGCOLOR="#36368D"><FONT SIZE="-2" COLOR="#FFFFFF" FACE="arial"><INPUT TYPE="RADIO" NAME="choice" VALUE="http://www.indiamart.com/cgi/AT-financesearch.cgi" CHECKED="CHECKED">Only
+                    in Finance</FONT></TD>
+                  </TR>
+                  <TR>
+                    <TD BGCOLOR="#36368D"><FONT SIZE="-2" COLOR="#FFFFFF" FACE="arial"><INPUT TYPE="RADIO" NAME="choice" VALUE="http://dir.indiamart.com/cgi/compcatsearch.mp">All
+                    of IndiaMART</FONT></TD>
+                  </TR>
+                </TABLE> </TD>
+              </TR>
+            </TABLE>
+            <DIV ALIGN="CENTER"><A HREF="http://www.indiamart.com/search.html"><FONT COLOR="#FFFFFF" SIZE="-2" FACE="arial">Advanced
+              Search</FONT></A></DIV><IMG SRC="../gifs/zero2.gif" WIDTH="1" HEIGHT="4" BORDER="0" HSPACE="0" VSPACE="0"></TD>
+          </TR>
+        </TABLE>
+        <DIV ALIGN="LEFT"><IMG SRC="../gifs/zero2.gif" WIDTH="2" HEIGHT="1" BORDER="0" HSPACE="0" VSPACE="0"><A HREF="../index.html" TARGET="_top"><IMG SRC="../gifs/finance_indiamart.gif" ALT="Finance@IndiaMART.Com - Go to The Home Page of Finance" BORDER="0" HSPACE="0" VSPACE="4" WIDTH="125" HEIGHT="15"></A></DIV>
+        <DIV ALIGN="CENTER">
+
+<!--google small ad starts-->
+        
+        <DIV ALIGN="CENTER"><BR>
+        
+
+<SCRIPT TYPE="text/javascript"><!--
+google_ad_client = "pub-8525015516580200";
+google_ad_width = 125;
+google_ad_height = 125;
+google_ad_format = "125x125_as";
+google_ad_channel ="7060771486";
+google_color_border = ["3366CC","FFCC66","000000"];
+google_color_bg = ["FFFFCC","FFFF99","F0F0F0"];
+google_color_link = ["FF3300","FF0000","0000FF"];
+google_color_url = ["0033FF","0000FF","008000"];
+google_color_text = ["333333","000000","000000"];
+//--></SCRIPT>
+
+<SCRIPT TYPE="text/javascript" SRC="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</SCRIPT><BR>
+         <BR>
+        </DIV>
+
+<!--google small ad end-->
+        
+        </DIV>
+        <TABLE WIDTH="100%" BGCOLOR="#6262DD" CELLPADDING="2" CELLSPACING="1" BORDER="0" VSPACE="0" HSPACE="0">
+          <TR>
+            <TD>
+            <TABLE WIDTH="100%" BORDER="0" BGCOLOR="#999BE6" VSPACE="0" HSPACE="0" CELLSPACING="0" CELLPADDING="0">
+              <TR>
+                <TD>
+                <TABLE WIDTH="100%" BORDER="0" BGCOLOR="#999BE6" VSPACE="0" HSPACE="0" CELLPADDING="0" CELLSPACING="1" ID="finance">
+                  <TR>
+                    <TD BGCOLOR="#36368D" ID="expimp" 
+                    ONMOUSEOVER="mOvr(this,0,'finance')" 
+                    ONMOUSEOUT="mOut(this,0,'finance')" 
+                    ONCLICK="mClick(this);" CLASS="toolCell"><A HREF="../exports_imports/index.html" CLASS="toolLnk"><FONT SIZE="-2" COLOR="#FFFFFF" FACE="arial">Export
+                      &amp; Import</FONT></A></TD>
+                  </TR>
+                  <TR>
+                    <TD BGCOLOR="#6262DD"><A HREF="../markets/index.html" CLASS="toolLnk"><FONT COLOR="#FFFFFF" SIZE="-2" FACE="arial">Market
+                      Watch</FONT></A></TD>
+                  </TR>
+                  <TR>
+                    <TD BGCOLOR="#36368D" ID="tax" 
+                    ONMOUSEOVER="mOvr(this,2,'finance')" 
+                    ONMOUSEOUT="mOut(this,2,'finance')" CLASS="toolCell" 
+                    ONCLICK="mClick(this);"><A HREF="../taxation/index.html" CLASS="toolLnk"><FONT SIZE="-2" COLOR="#FFFFFF" FACE="arial">Taxation</FONT></A></TD>
+                  </TR>
+                  <TR>
+                    <TD BGCOLOR="#36368D" ID="invest" 
+                    ONMOUSEOVER="mOvr(this,3,'finance')" 
+                    ONMOUSEOUT="mOut(this,3,'finance')" 
+                    ONCLICK="mClick(this);" CLASS="toolCell"><A HREF="../investment_in_india/index.html" CLASS="toolLnk"><FONT COLOR="#FFFFFF" SIZE="-2" FACE="arial">Investment
+                      in India</FONT></A></TD>
+                  </TR>
+                  <TR>
+                    <TD BGCOLOR="#36368D" ID="indiafile" 
+                    ONMOUSEOVER="mOvr(this,4,'finance')" 
+                    ONMOUSEOUT="mOut(this,4,'finance')" CLASS="toolCell" 
+                    ONCLICK="mClick(this);"><A HREF="../government_india/index.html" CLASS="toolLnk"><FONT SIZE="-2" COLOR="#FFFFFF" FACE="arial">India
+                      File</FONT></A></TD>
+                  </TR>
+                  <TR>
+                    <TD BGCOLOR="#36368D" ID="ventures" 
+                    ONMOUSEOVER="mOvr(this,5,'finance')" 
+                    ONMOUSEOUT="mOut(this,5,'finance')" 
+                    ONCLICK="mClick(this);" CLASS="toolCell"><A HREF="../new_ventures/index.html" CLASS="toolLnk"><FONT SIZE="-2" COLOR="#FFFFFF" FACE="arial">Establishing
+                      New Ventures</FONT></A></TD>
+                  </TR>
+                  <TR>
+                    <TD BGCOLOR="#36368D" ID="organisation" 
+                    ONMOUSEOVER="mOvr(this,6,'finance')" 
+                    ONMOUSEOUT="mOut(this,6,'finance')" CLASS="toolCell" 
+                    ONCLICK="mClick(this);"><A HREF="../trade_organizations/index.html" CLASS="toolLnk"><FONT SIZE="-2" COLOR="#FFFFFF" FACE="arial">Organisations</FONT></A></TD>
+                  </TR>
+                  <TR>
+                    <TD BGCOLOR="#36368D" ID="indiabusiness" 
+                    ONMOUSEOVER="mOvr(this,7,'finance')" 
+                    ONMOUSEOUT="mOut(this,7,'finance')" 
+                    ONCLICK="mClick(this);" CLASS="toolCell"><A HREF="../india_business_information/index.html" CLASS="toolLnk"><FONT SIZE="-2" COLOR="#FFFFFF" FACE="arial">General
+                      Information</FONT></A></TD>
+                  </TR>
+                </TABLE> </TD>
+              </TR>
+            </TABLE> </TD>
+          </TR>
+        </TABLE><BR>
+        <TABLE WIDTH="100%" BGCOLOR="#6262DD" CELLPADDING="2" CELLSPACING="1" BORDER="0" VSPACE="0" HSPACE="0">
+          <TR>
+            <TD>
+            <TABLE WIDTH="100%" BORDER="0" BGCOLOR="#999BE6" VSPACE="0" HSPACE="0" CELLSPACING="0" CELLPADDING="0">
+              <TR>
+                <TD>
+                <TABLE WIDTH="100%" BORDER="0" BGCOLOR="#999BE6" VSPACE="0" HSPACE="0" CELLPADDING="0" CELLSPACING="1" ID="travel">
+                  <TR>
+                    <TD BGCOLOR="#36368D" ID="indiamart" 
+                    ONMOUSEOVER="mOvr(this,0,'travel')" 
+                    ONMOUSEOUT="mOut(this,0,'travel')" ONCLICK="mClick(this);" 
+                    CLASS="toolCell"><A HREF="http://www.indiamart.com" CLASS="toolLnk"><FONT COLOR="#FFFFFF" SIZE="-2" FACE="arial">Indiamart
+                      Home</FONT></A></TD>
+                  </TR>
+                  <TR>
+                    <TD BGCOLOR="#36368D" ID="trav_tour" 
+                    ONMOUSEOVER="mOvr(this,1,'travel')" 
+                    ONMOUSEOUT="mOut(this,1,'travel')" ONCLICK="mClick(this);" 
+                    CLASS="toolCell"><A HREF="http://www.indiantravelportal.com" CLASS="toolLnk"><FONT COLOR="#FFFFFF" SIZE="-2" FACE="arial">Travel
+                      &amp; Tourism</FONT></A></TD>
+                  </TR>
+                  <TR>
+                    <TD BGCOLOR="#36368D" ID="health" 
+                    ONMOUSEOVER="mOvr(this,2,'travel')" 
+                    ONMOUSEOUT="mOut(this,2,'travel')" ONCLICK="mClick(this);" 
+                    CLASS="toolCell"><A HREF="http://health.indiamart.com" CLASS="toolLnk"><FONT COLOR="#FFFFFF" SIZE="-2" FACE="arial">Health
+                      Care</FONT></A></TD>
+                  </TR>
+                  <TR>
+                    <TD BGCOLOR="#36368D" ID="auto" 
+                    ONMOUSEOVER="mOvr(this,3,'travel')" 
+                    ONMOUSEOUT="mOut(this,3,'travel')" ONCLICK="mClick(this);" 
+                    CLASS="toolCell"><A HREF="http://auto.indiamart.com" CLASS="toolLnk"><FONT COLOR="#FFFFFF" SIZE="-2" FACE="arial">Auto
+                      Junction</FONT></A></TD>
+                  </TR>
+                  <TR>
+                    <TD BGCOLOR="#36368D" ID="apparel" 
+                    ONMOUSEOVER="mOvr(this,4,'travel')" 
+                    ONMOUSEOUT="mOut(this,4,'travel')" CLASS="toolCell" 
+                    ONCLICK="mClick(this);"><A HREF="http://apparel.indiamart.com/" CLASS="toolLnk"><FONT SIZE="-2" COLOR="#FFFFFF" FACE="arial">Apparel
+                      &amp; Textile</FONT></A></TD>
+                  </TR>
+                  <TR>
+                    <TD BGCOLOR="#36368D" ID="handicraft" 
+                    ONMOUSEOVER="mOvr(this,5,'travel')" 
+                    ONMOUSEOUT="mOut(this,5,'travel')" ONCLICK="mClick(this);" 
+                    CLASS="toolCell"><A HREF="http://handicraft.indiamart.com/" CLASS="toolLnk"><FONT COLOR="#FFFFFF" SIZE="-2" FACE="arial">Indian
+                      Handicraft</FONT></A></TD>
+                  </TR>
+                  <TR>
+                    <TD BGCOLOR="#36368D" ID="news" 
+                    ONMOUSEOVER="mOvr(this,6,'travel')" 
+                    ONMOUSEOUT="mOut(this,6,'travel')" CLASS="toolCell" 
+                    ONCLICK="mClick(this);"><A HREF="http://news.indiamart.com/" CLASS="toolLnk"><FONT SIZE="-2" COLOR="#FFFFFF" FACE="arial">Bulletin
+                      News</FONT></A></TD>
+                  </TR>
+                  <TR>
+                    <TD BGCOLOR="#36368D" ID="shopping" 
+                    ONMOUSEOVER="mOvr(this,7,'travel')" 
+                    ONMOUSEOUT="mOut(this,7,'travel')" CLASS="toolCell" 
+                    ONCLICK="mClick(this);"><A HREF="http://www.indiangiftsportal.com/" CLASS="toolLnk"><FONT SIZE="-2" COLOR="#FFFFFF" FACE="arial">On-line
+                      Shopping</FONT></A></TD>
+                  </TR>
+                </TABLE></TD>
+              </TR>
+            </TABLE></TD>
+          </TR>
+        </TABLE> <BR>
+        <TABLE WIDTH="100%" BGCOLOR="#6262DD" CELLPADDING="2" CELLSPACING="1" BORDER="0" VSPACE="0" HSPACE="0">
+          <TR>
+            <TD>
+            <TABLE WIDTH="100%" BORDER="0" BGCOLOR="#999BE6" VSPACE="0" HSPACE="0" CELLSPACING="0" CELLPADDING="0">
+              <TR>
+                <TD>
+                <TABLE WIDTH="100%" BORDER="0" BGCOLOR="#999BE6" VSPACE="0" HSPACE="0" CELLPADDING="0" CELLSPACING="1" ID="foreign">
+                  <TR>
+                    <TD BGCOLOR="#36368D" ID="iexp" 
+                    ONMOUSEOVER="mOvr(this,0,'foreign')" 
+                    ONMOUSEOUT="mOut(this,0,'foreign')" 
+                    ONCLICK="mClick(this);" CLASS="toolCell"><A HREF="http://www.indiamart.com/indianexporters/index.html" CLASS="toolLnk">
+                      <FONT SIZE="-2" COLOR="#FFFFFF" FACE="arial">Indian
+                      Exporters</FONT></A></TD>
+                  </TR>
+                  <TR>
+                    <TD BGCOLOR="#36368D" ID="iimp" 
+                    ONMOUSEOVER="mOvr(this,1,'foreign')" 
+                    ONMOUSEOUT="mOut(this,1,'foreign')" 
+                    ONCLICK="mClick(this);" CLASS="toolCell"><A HREF="http://www.indiamart.com/indianimporters/index.html" CLASS="toolLnk">
+                      <FONT COLOR="#FFFFFF" SIZE="-2" FACE="arial">Indian
+                      Importers</FONT></A></TD>
+                  </TR>
+                  <TR>
+                    <TD BGCOLOR="#36368D" ID="fexp" 
+                    ONMOUSEOVER="mOvr(this,2,'foreign')" 
+                    ONMOUSEOUT="mOut(this,2,'foreign')" 
+                    ONCLICK="mClick(this);" CLASS="toolCell"><A HREF="http://indiamart.com/foreignexporters/index.html" CLASS="toolLnk">
+                      <FONT SIZE="-2" COLOR="#FFFFFF" FACE="arial">Foreign
+                      Exporters</FONT></A></TD>
+                  </TR>
+                  <TR>
+                    <TD BGCOLOR="#36368D" ID="fimp" 
+                    ONMOUSEOVER="mOvr(this,3,'foreign')" 
+                    ONMOUSEOUT="mOut(this,3,'foreign')" CLASS="toolCell" 
+                    ONCLICK="mClick(this);"><A HREF="http://indiamart.com/foreignimporters/index.html" CLASS="toolLnk">
+                      <FONT COLOR="#FFFFFF" SIZE="-2" FACE="arial">Foreign
+                      Importers</FONT></A></TD>
+                  </TR>
+                  <TR>
+                    <TD BGCOLOR="#36368D" ID="bbs" 
+                    ONMOUSEOVER="mOvr(this,4,'foreign')" 
+                    ONMOUSEOUT="mOut(this,4,'foreign')" 
+                    ONCLICK="mClick(this);" CLASS="toolCell"><A HREF="http://indiamart.com/bbsmain/" CLASS="toolLnk">
+                      <FONT SIZE="-2" COLOR="#FFFFFF" FACE="arial">Discussion
+                      Boards</FONT></A></TD>
+                  </TR>
+                  <TR>
+                    <TD BGCOLOR="#36368D" ID="itg" 
+                    ONMOUSEOVER="mOvr(this,5,'foreign')" 
+                    ONMOUSEOUT="mOut(this,5,'foreign')" CLASS="toolCell" 
+                    ONCLICK="mClick(this);"><A HREF="http://www.indiantravelportal.com/places/index.html" CLASS="toolLnk"><FONT SIZE="-2" COLOR="#FFFFFF" FACE="arial">Indian
+                      Travel Guide</FONT></A></TD>
+                  </TR>
+                  <TR>
+                    <TD BGCOLOR="#36368D" ID="hotels" 
+                    ONMOUSEOVER="mOvr(this,6,'foreign')" 
+                    ONMOUSEOUT="mOut(this,6,'foreign')" 
+                    ONCLICK="mClick(this);" CLASS="toolCell"><A HREF="http://hotels.indiantravelportal.com/" CLASS="toolLnk"><FONT SIZE="-2" COLOR="#FFFFFF" FACE="arial">Hotels
+                      in India</FONT></A></TD>
+                  </TR>
+                </TABLE> </TD>
+              </TR>
+            </TABLE> </TD>
+          </TR>
+        </TABLE></TD>
+      </TR>
+    </TABLE>
+    <DIV ALIGN="LEFT">
+    <TABLE BORDER="0" HSPACE="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#999BE6" WIDTH="621" VSPACE="0">
+      <TR>
+        <TD WIDTH="100%" VALIGN="TOP" COLSPAN="3">
+        <DIV ALIGN="CENTER">
+        <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="1" ID="topnav" VSPACE="0" HSPACE="0">
+          <TR>
+            <TD BGCOLOR="#36368D" ALIGN="CENTER" 
+            ONMOUSEOVER="mOvr(this,0,'topnav')" 
+            ONMOUSEOUT="mOut(this,0,'topnav')" ID="forum" WIDTH="25%" 
+            CLASS="toolCell" ONCLICK="mClick(this);"><A HREF="../forum/index.html" CLASS="toolLnk"><FONT SIZE="-2" COLOR="#FFFFFF" FACE="arial">Forum</FONT></A></TD>
+            <TD ALIGN="CENTER" BGCOLOR="#36368D" 
+            ONMOUSEOUT="mOut(this,0,'topnav')" 
+            ONMOUSEOVER="mOvr(this,0,'topnav')" ID="directory" WIDTH="25%" 
+            ONCLICK="mClick(this);" CLASS="toolCell"><A HREF="../directory/index.html" CLASS="toolLnk"><FONT SIZE="-2" COLOR="#FFFFFF" FACE="arial">Directory</FONT></A></TD>
+            <TD ALIGN="CENTER" BGCOLOR="#36368D" 
+            ONMOUSEOUT="mOut(this,0,'topnav')" 
+            ONMOUSEOVER="mOvr(this,0,'topnav')" ID="resources" WIDTH="25%" 
+            CLASS="toolCell" ONCLICK="mClick(this);"><A HREF="http://www.intermesh.net/ilist.html" CLASS="toolLnk"><FONT SIZE="-2" COLOR="#FFFFFF" FACE="arial">Free
+              Listing</FONT></A></TD>
+            <TD ALIGN="CENTER" BGCOLOR="#36368D" ID="map" 
+            ONMOUSEOUT="mOut(this,0,'topnav')" 
+            ONMOUSEOVER="mOvr(this,0,'topnav')" WIDTH="25%" 
+            ONCLICK="mClick(this);" CLASS="toolCell"><A HREF="../sitemap/index.html" CLASS="toolLnk"><FONT SIZE="-2" COLOR="#FFFFFF" FACE="arial">Site
+              Map</FONT></A></TD>
+          </TR>
+        </TABLE></DIV></TD>
+      </TR>
+      <TR>
+        <TD WIDTH="514" VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">
+
+<SCRIPT SRC="http://www.media4trade.com/mediaserver?action=show&btype=ban&bloc=TOP1"></SCRIPT>
+        </TD>
+      </TR>
+    </TABLE></DIV>
+    
+    </FORM>
+    <TABLE WIDTH="621" BORDER="0" VSPACE="0" HSPACE="0" CELLPADDING="0" 
+    CELLSPACING="0">
+      <TR>
+        <TD>
+        <TABLE WIDTH="150" BORDER="0" ALIGN="RIGHT">
+          <TR>
+            <TD ALIGN="RIGHT">
+
+<!--google ad 160x600 starts-->
+            
+            
+<SCRIPT TYPE="text/javascript"><!--
+google_ad_client = "pub-8525015516580200";
+google_ad_width = 160;
+google_ad_height = 600;
+google_ad_format = "160x600_as";
+google_ad_type = "text";
+google_ad_channel ="7060771486";
+//--></SCRIPT>
+
+<SCRIPT TYPE="text/javascript" SRC="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</SCRIPT>
+
+<!--google ad 160x600 ends-->
+            
+            </TD>
+          </TR>
+        </TABLE>
+        <TABLE WIDTH="450" BORDER="0" VSPACE="0" HSPACE="0" CELLPADDING="0" CELLSPACING="0">
+          <TR>
+            <TD>
+            <TABLE WIDTH="100%" BORDER="0" ALIGN="left">
+              <TR>
+                <TD VALIGN="TOP" WIDTH="50%" COLSPAN="2" BGCOLOR="#999BE6">
+                <TABLE WIDTH="100%" BORDER="0" BGCOLOR="#999BE6" CELLSPACING="1" ID="bse" VSPACE="0" HSPACE="0" CELLPADDING="0">
+                  <TR>
+                    <TD BGCOLOR="#36368D" ONMOUSEOVER="mOvr(this,0,'bse')" 
+                    ONMOUSEOUT="mOut(this,0,'bse')" ID="bombaystock" 
+                    WIDTH="255" CLASS="toolCell" ONCLICK="mClick(this);"><A HREF="bse/index.html" CLASS="toolLnk"><FONT SIZE="-1" FACE="arial" COLOR="#FFFFFF"><STRONG>Bombay
+                      Stock Exchange</STRONG></FONT></A></TD>
+                    <TD BGCOLOR="#999BE6" ALIGN="CENTER"><IMG SRC="gifs/zero2.gif" WIDTH="2" HEIGHT="1"></TD>
+                    <TD BGCOLOR="#36368D" ID="nationalstock" WIDTH="255" 
+                    ONMOUSEOUT="mOut(this,0,'bse')" 
+                    ONMOUSEOVER="mOvr(this,0,'bse')" ONCLICK="mClick(this);" 
+                    CLASS="toolCell"><A HREF="nse/index.html" CLASS="toolLnk"><FONT SIZE="-1" FACE="arial" COLOR="#FFFFFF"><STRONG>National
+                      Stock Exchange</STRONG></FONT></A></TD>
+                  </TR>
+                </TABLE></TD>
+              </TR>
+              <TR>
+                <TD VALIGN="TOP" WIDTH="50%">
+                <TABLE WIDTH="100%" BORDER="0" VSPACE="0" HSPACE="0" CELLPADDING="0" CELLSPACING="0" ALIGN="CENTER">
+                  <TR>
+                    <TD VALIGN="TOP" ALIGN="LEFT"><FONT SIZE="-2" FACE="verdana,arial"><A HREF="/markets/bse/bse30.html">BSE
+                      30</A><BR>
+                    <A HREF="/markets/bse/bse100.html">BSE 100</A><BR>
+                    <A HREF="/markets/bse/bse200.html">BSE 200</A><BR>
+                    <A HREF="/markets/bse/bse500.html">BSE 500</A><BR>
+                    <A HREF="/markets/bse/bseIT.html">BSE IT</A></FONT></TD>
+                    <TD VALIGN="TOP" ALIGN="LEFT"><FONT SIZE="-2" FACE="verdana,arial"><A HREF="/markets/bse/bseCG.html">BSE
+                      CG</A><BR>
+                    <A HREF="/markets/bse/bseFMCG.html">BSE FMCG</A><BR>
+                    <A HREF="/markets/bse/quote_gainers.html">BSE Top Gainers</A><BR>
+                    <A HREF="/markets/bse/quote_loosers.html">BSE Top Losers</A><BR>
+                    <A HREF="/markets/bse/">more</A>...</FONT></TD>
+                  </TR>
+                </TABLE></TD>
+                <TD VALIGN="TOP" WIDTH="50%">
+                <TABLE WIDTH="100%" BORDER="0" VSPACE="0" HSPACE="0" CELLPADDING="0" CELLSPACING="0">
+                  <TR>
+                    <TD VALIGN="TOP"><FONT SIZE="-2" FACE="verdana,arial"><A HREF="/markets/nse/cnx_nifty.html">S&amp;P
+                      CNX Nifty</A><BR>
+                    <A HREF="/markets/nse/sp_cnx_defty.html">S&amp;P CNX Defty</A><BR>
+                    <A HREF="/markets/nse/sp_cnx_500.html">S&amp;P CNX 500</A><BR>
+                    <A HREF="/markets/nse/cnx_it.html">CNX IT </A><BR>
+                    <A HREF="/markets/nse/cnx_niftyjr.html">CNX Nifty Jr.</A></FONT></TD>
+                    <TD VALIGN="TOP" ALIGN="LEFT"><FONT SIZE="-2" FACE="verdana,arial">
+                    <A HREF="/markets/nse/cnx_midcap_200.html">CNX MIDCAP 200</A><BR>
+                    <A HREF="/markets/nse/nsegainers.html">NSE Gainers</A><BR>
+                    <A HREF="/markets/nse/nseloosers.html">NSE Losers</A><BR>
+                    <A HREF="/markets/nse/graph_fortnight.html">Graph -
+                      Fortnightly</A><BR>
+                    <A HREF="/markets/nse/">more</A>...</FONT></TD>
+                  </TR>
+                </TABLE></TD>
+              </TR>
+            </TABLE></TD>
+          </TR>
+        </TABLE> <BR>
+        <TABLE WIDTH="450" BORDER="0" VSPACE="0" HSPACE="0" CELLPADDING="0" CELLSPACING="0">
+          <TR>
+            <TD>
+            <TABLE WIDTH="100%" BORDER="0">
+              <TR>
+                <TD VALIGN="TOP" WIDTH="50%" COLSPAN="2" BGCOLOR="#999BE6">
+                <TABLE WIDTH="100%" BORDER="0" BGCOLOR="#999BE6" CELLSPACING="1" ID="com_mut" VSPACE="0" HSPACE="0" CELLPADDING="0">
+                  <TR>
+                    <TD BGCOLOR="#36368D" ONMOUSEOVER="mOvr(this,0,'com_mut')" 
+                    ONMOUSEOUT="mOut(this,0,'com_mut')" ID="commodityprices" 
+                    WIDTH="255" CLASS="toolCell" ONCLICK="mClick(this);"><A HREF="mutual_funds/index.html" CLASS="toolLnk"><FONT SIZE="-1" FACE="arial" COLOR="#FFFFFF"><STRONG>Mutual
+                      Funds</STRONG></FONT></A></TD>
+                    <TD BGCOLOR="#999BE6"><IMG SRC="gifs/zero2.gif" WIDTH="2" HEIGHT="1"></TD>
+                    <TD BGCOLOR="#36368D" ID="mutual_funds" WIDTH="255" 
+                    ONMOUSEOUT="mOut(this,0,'com_mut')" 
+                    ONMOUSEOVER="mOvr(this,0,'com_mut')" 
+                    ONCLICK="mClick(this);" CLASS="toolCell"><A HREF="commodity/index.html" CLASS="toolLnk"><FONT SIZE="-1" FACE="arial" COLOR="#FFFFFF"><STRONG>Commodity
+                      Prices</STRONG></FONT></A></TD>
+                  </TR>
+                </TABLE></TD>
+              </TR>
+              <TR>
+                <TD VALIGN="TOP" WIDTH="50%">
+                <TABLE WIDTH="100%" BORDER="0">
+                  <TR>
+                    <TD VALIGN="TOP"><FONT SIZE="-2" FACE="verdana,arial"><A HREF="/markets/mutual_funds/mutual_listed.html">Listed
+                      Schemes</A><BR>
+                    <A HREF="/markets/mutual_funds/mutual_open.html">Open Ended</A><BR>
+                    <A HREF="/markets/mutual_funds/mutual_close.html">Close
+                      Ended</A><BR>
+                    <A HREF="/markets/mutual_funds/scheme_code.html">Scheme
+                      Code</A></FONT></TD>
+                    <TD VALIGN="TOP" ALIGN="RIGHT"><FONT SIZE="-2" FACE="verdana,arial"><A HREF="/markets/mutual_funds/mutual_funds_news.html">Mutual
+                      Funds News</A><BR>
+                    <A HREF="/markets/mutual_funds/latest_mf_navs.html">Latest
+                      NAV's</A><BR>
+                    <A HREF="/markets/mutual_funds/">more</A>...</FONT> </TD>
+                  </TR>
+                </TABLE></TD>
+                <TD VALIGN="TOP" WIDTH="50%">
+                <TABLE WIDTH="100%" BORDER="0">
+                  <TR>
+                    <TD VALIGN="TOP"><FONT FACE="verdana,arial" SIZE="-2"><A HREF="/markets/commodity/ncdex.html">NCDEX</A><BR>
+                    <A HREF="/markets/commodity/mcx.html">MCX</A><BR>
+                    <A HREF="/markets/commodity/nmceil.html">NMCEIL</A><BR>
+                    <A HREF="/markets/commodity/bullion.html">Bullion</A></FONT></TD>
+                    <TD VALIGN="TOP" ALIGN="LEFT"><FONT SIZE="-2" FACE="verdana,arial"><A HREF="/markets/commodity/definition_cacommodity.html">Commodities</A><BR>
+                    <A HREF="/markets/commodity/derivatives.html">Derivatives</A><BR>
+                    <A HREF="/markets/commodity/future_contracts.html">Future
+                      Contracts</A><BR>
+                    <A HREF="/markets/commodity/">more</A>...</FONT></TD>
+                  </TR>
+                </TABLE></TD>
+              </TR>
+            </TABLE></TD>
+          </TR>
+        </TABLE><BR>
+        <TABLE WIDTH="450" BORDER="0" BGCOLOR="#999BE6">
+          <TR>
+            <TD>
+            <TABLE WIDTH="100%" BORDER="0" BGCOLOR="#999BE6" CELLSPACING="1" ID="com_mut2" VSPACE="0" HSPACE="0" CELLPADDING="0">
+              <TR>
+                <TD BGCOLOR="#36368D" ONMOUSEOVER="mOvr(this,0,'com_mut2')" 
+                ONMOUSEOUT="mOut(this,0,'com_mut2')" ID="commodityprices2" 
+                WIDTH="255" CLASS="toolCell" ONCLICK="mClick(this);"><A HREF="gdr/index.html" CLASS="toolLnk"><FONT SIZE="-1" FACE="arial" COLOR="#FFFFFF"><STRONG>Global
+                  Depository Receipts</STRONG></FONT></A></TD>
+                <TD BGCOLOR="#999BE6"><IMG SRC="gifs/zero2.gif" WIDTH="2" HEIGHT="1"></TD>
+                <TD BGCOLOR="#36368D" ID="mutual_funds2" WIDTH="255" 
+                ONMOUSEOUT="mOut(this,0,'com_mut2')" 
+                ONMOUSEOVER="mOvr(this,0,'com_mut2')" ONCLICK="mClick(this);" 
+                CLASS="toolCell"><A HREF="world_indices/index.html" CLASS="toolLnk"><FONT SIZE="-1" FACE="arial" COLOR="#FFFFFF"><STRONG>Global
+                  Markets</STRONG></FONT></A></TD>
+              </TR>
+            </TABLE></TD>
+          </TR>
+        </TABLE><BR>
+        <TABLE WIDTH="450" BORDER="0" BGCOLOR="#999BE6">
+          <TR>
+            <TD>
+            <TABLE WIDTH="100%" BORDER="0" BGCOLOR="#999BE6" CELLSPACING="1" ID="exchange" VSPACE="0" HSPACE="0" CELLPADDING="0">
+              <TR>
+                <TD BGCOLOR="#36368D" ONMOUSEOVER="mOvr(this,0,'exchange')" 
+                ONMOUSEOUT="mOut(this,0,'exchange')" ID="commodityprices3" 
+                WIDTH="255" CLASS="toolCell" ONCLICK="mClick(this);"><A HREF="exchange_rates/index.html" CLASS="toolLnk"><FONT SIZE="-1" FACE="arial" COLOR="#FFFFFF"><STRONG>Exchange
+                  Rates</STRONG></FONT></A></TD>
+                <TD BGCOLOR="#999BE6"><IMG SRC="gifs/zero2.gif" WIDTH="2" HEIGHT="1"></TD>
+                <TD BGCOLOR="#36368D" ID="mutual_funds3" WIDTH="255" 
+                ONMOUSEOUT="mOut(this,0,'exchange')" 
+                ONMOUSEOVER="mOvr(this,0,'exchange')" ONCLICK="mClick(this);" 
+                CLASS="toolCell"><A HREF="exchange_rates/currency.html" CLASS="toolLnk"><FONT SIZE="-1" FACE="arial" COLOR="#FFFFFF"><STRONG>Currency
+                  Convertor</STRONG></FONT></A></TD>
+              </TR>
+            </TABLE></TD>
+          </TR>
+        </TABLE><BR>
+        <TABLE WIDTH="450" BORDER="0" VSPACE="0" HSPACE="0" CELLPADDING="0" CELLSPACING="0">
+          <TR>
+            <TD VALIGN="TOP">
+            <TABLE WIDTH="100%" BORDER="0" BGCOLOR="#999BE6">
+              <TR>
+                <TD>
+                <TABLE BORDER="0" CELLPADDING="0" CELLSPACING="1" VSPACE="0" HSPACE="0" WIDTH="100%" ID="news2">
+                  <TR>
+                    <TD BGCOLOR="#36368D" ALIGN="CENTER" 
+                    ONMOUSEOVER="mOvr(this,0,'news2')" 
+                    ONMOUSEOUT="mOut(this,0,'news2')" ID="news_headlines" 
+                    ONCLICK="mClick(this);" CLASS="toolCell"><FONT SIZE="-1" FACE="arial" COLOR="#FFFFFF"><STRONG>News
+                    Headlines</STRONG></FONT></TD>
+                  </TR>
+                </TABLE></TD>
+              </TR>
+            </TABLE>
+
+<!--News Start-->
+            
+            
+<FONT SIZE="-1" FACE="verdana,arial" COLOR="#000000"><I>Tue, 03 May 2005 04:22:23 GMT
+</I></FONT><BR><table><tr><td><IMG SRC="http://news.indiamart.com/gifs/arrow.gif" WIDTH="10" HEIGHT="7"></td><td><FONT SIZE="-1" FACE="verdana,arial"><A HREF="/cgi/newslink.mp?url=http%3A%2F%2Fwww.financialexpress.com%2Ffe_full_story.php%3Fcontent_id%3D89845">FBT retained with fringe sops for Corporate India</A></FONT></td></tr>
+<tr><td><IMG SRC="http://news.indiamart.com/gifs/arrow.gif" WIDTH="10" HEIGHT="7"></td><td><FONT SIZE="-1" FACE="verdana,arial"><A HREF="/cgi/newslink.mp?url=http%3A%2F%2Fwww.financialexpress.com%2Ffe_full_story.php%3Fcontent_id%3D89846">Manwani to be next HLL chief</A></FONT></td></tr>
+<tr><td><IMG SRC="http://news.indiamart.com/gifs/arrow.gif" WIDTH="10" HEIGHT="7"></td><td><FONT SIZE="-1" FACE="verdana,arial"><A HREF="/cgi/newslink.mp?url=http%3A%2F%2Fwww.financialexpress.com%2Ffe_full_story.php%3Fcontent_id%3D89847">HC order hits Zee in telecast row</A></FONT></td></tr>
+<tr><td><IMG SRC="http://news.indiamart.com/gifs/arrow.gif" WIDTH="10" HEIGHT="7"></td><td><FONT SIZE="-1" FACE="verdana,arial"><A HREF="/cgi/newslink.mp?url=http%3A%2F%2Fwww.financialexpress.com%2Ffe_full_story.php%3Fcontent_id%3D89848">Maruti hikes prices of select models</A></FONT></td></tr>
+<tr><td><IMG SRC="http://news.indiamart.com/gifs/arrow.gif" WIDTH="10" HEIGHT="7"></td><td><FONT SIZE="-1" FACE="verdana,arial"><A HREF="/cgi/newslink.mp?url=http%3A%2F%2Fwww.financialexpress.com%2Ffe_full_story.php%3Fcontent_id%3D89811">SC notice to Centre on use of non-iodised salt</A></FONT></td></tr>
+<tr><td><IMG SRC="http://news.indiamart.com/gifs/arrow.gif" WIDTH="10" HEIGHT="7"></td><td><FONT SIZE="-1" FACE="verdana,arial"><A HREF="/cgi/newslink.mp?url=http%3A%2F%2Fwww.financialexpress.com%2Ffe_full_story.php%3Fcontent_id%3D89786">A Goldilocks policy from Mint Street</A></FONT></td></tr>
+</table>
+            
+            
+<!--News End-->
+            
+            </TD>
+          </TR>
+        </TABLE> </TD>
+      </TR>
+    </TABLE>
+
+<!--IndiaMART Footer start-->
+    
+    <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+      <TR>
+        <TD BGCOLOR="9098E0" HEIGHT="2"><IMG SRC="/gifs/dot.gif" WIDTH="1" HEIGHT="2"></TD>
+      </TR>
+      <TR>
+        <TD BGCOLOR="ffffff">
+
+<SCRIPT SRC="/script.js" LANGUAGE="JavaScript"></SCRIPT>
+<br><br><!--<TABLE BORDER="0" ALIGN="CENTER" CELLPADDING="2" CELLSPACING="1">
+      <TR>
+<TD CLASS="ft-linkhead"><A
+HREF="http://www.indiamart.com/">IndiaMART</A></TD><TD CLASS="ft-linkhead"
+ALIGN="RIGHT"><A HREF="/">Finance</A></TD>
+      </TR>
+<!--includ for keyword box-->
+<!--    </TABLE>-->
+        
+         <BR>
+        
+
+<CENTER><BR><SCRIPT SRC="http://www.media4trade.com/mediaserver?action=show&btype=ban&bloc=BOTTOM1"></SCRIPT></CENTER>
+        
+        
+<!--b2b footer1-->
+<DIV ALIGN="CENTER">    
+   <FORM ACTION="http://dir.indiamart.com/cgi/compcatsearch.mp" NAME="form2" OnSubmit="return checkData1();">
+
+    <DIV><BR>
+    <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+      <TR>
+        <TD CLASS="ft-tdbg"><A HREF="http://www.indiamart.com/"><IMG SRC="/gifs/im-tlt.gif" ALT="IndiaMART Network" WIDTH="232" HEIGHT="34" BORDER="0"></A></TD>
+        <TD BACKGROUND="/gifs/td-ft-bg.gif" WIDTH="80%" ALIGN="RIGHT" 
+        CLASS="ft-tdbg">
+        <TABLE WIDTH="375" BORDER="0" CELLPADDING="0" CELLSPACING="0" VSPACE="0" HSPACE="0" ALIGN="RIGHT">
+          <TR>
+            <TD ALIGN="RIGHT" BACKGROUND="/gifs/td-ft-bg1.gif" CLASS="ft-tdbg"><IMG SRC="/gifs/ft-search-r-img.gif" ALIGN="RIGHT" HSPACE="0" WIDTH="9" HEIGHT="34"><IMG SRC="/gifs/ft-search-l-img.gif" ALIGN="LEFT" WIDTH="19" HEIGHT="34" HSPACE="0"><IMG SRC="/gifs/ft-spacer.gif" WIDTH="1" HEIGHT="5"><BR>
+            <B><FONT SIZE="-1" FACE="verdana,arial">Search B2B Marketplace</FONT></B>
+            <INPUT TYPE="TEXT" NAME="ss" SIZE="15" MAXLENGTH="100"> 
+			<input TYPE="hidden" NAME="modid" VALUE="DIR">
+			<input TYPE="hidden" NAME="nxth" VALUE="1">
+			<input TYPE="hidden" NAME="rightn" VALUE="1"> <INPUT TYPE="IMAGE" NAME="search1" SRC="/gifs/go-ft.gif" BORDER="0" ALT="Go" VALUE="search"></TD>
+          </TR>
+        </TABLE></TD></FORM>
+      </TR>
+    </TABLE>
+<!--b2b footer2-->
+    
+    <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+      <TR>
+        <TD></TD>
+        <TD></TD>
+        <TD></TD>
+        <TD HEIGHT="2"></TD>
+      </TR>
+      <TR>
+        <TD BACKGROUND="/gifs/tdbg-l.gif" CLASS="footer-lnk"><IMG SRC="/gifs/tdbg-right.gif" ALIGN="RIGHT" HSPACE="0" WIDTH="6" HEIGHT="5"><IMG SRC="/gifs/tdbg-left.gif" ALIGN="LEFT" HSPACE="0" WIDTH="3" HEIGHT="5"></TD>
+        <TD BACKGROUND="/gifs/tdbg-l.gif" CLASS="footer-lnk"><IMG SRC="/gifs/tdbg-right.gif" ALIGN="RIGHT" HSPACE="0" WIDTH="6" HEIGHT="5"><IMG SRC="/gifs/tdbg-left1.gif" ALIGN="LEFT" HSPACE="0" WIDTH="13" HEIGHT="5"></TD>
+        <TD BACKGROUND="/gifs/tdbg-l.gif" CLASS="footer-lnk"><IMG SRC="/gifs/tdbg-right.gif" ALIGN="RIGHT" HSPACE="0" WIDTH="6" HEIGHT="5"><IMG SRC="/gifs/tdbg-left1.gif" ALIGN="LEFT" HSPACE="0" WIDTH="13" HEIGHT="5"></TD>
+        <TD BACKGROUND="/gifs/tdbg-l.gif" CLASS="footer-lnk1"><IMG SRC="/gifs/tdbg-left1.gif" ALIGN="LEFT" HSPACE="0" WIDTH="13" HEIGHT="5"><IMG SRC="/gifs/tdbg-right1.gif" ALIGN="RIGHT" HSPACE="0" WIDTH="7" HEIGHT="5"></TD>
+      </TR>
+      <TR>
+        <TD VALIGN="TOP">
+        <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+          <TR>
+            <TD BGCOLOR="#BEBEBE">
+            <TABLE WIDTH="100%" BORDER="0" CELLPADDING="1" CELLSPACING="1">
+              <TR>
+                <TD CLASS="ft-linkhead" ALIGN="LEFT"><A HREF="http://www.indiamart.com/">Business
+                  Marketplace</A></TD>
+              </TR>
+              <TR>
+                <TD CLASS="footer-lnk" VALIGN="TOP"><A HREF="http://catalogs.indiamart.com/">Business
+                  Catalogs</A><BR>
+                <A HREF="http://tenders.indiamart.com/">Tender Notices</A><BR>
+                <A HREF="http://trade.indiamart.com/">Import Export Trade Leads</A><BR>
+                <A HREF="http://auction.indiamart.com/">B2B Auctions</A><BR>
+                <A HREF="http://dir.indiamart.com/indianexporters/">Exporters
+                  Directory</A><BR>
+                <A HREF="http://dir.indiamart.com/">Business Directory</A></TD>
+              </TR>
+            </TABLE></TD>
+          </TR>
+        </TABLE></TD>
+        <TD VALIGN="TOP">
+        <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+          <TR>
+            <TD BGCOLOR="#BEBEBE">
+            <TABLE WIDTH="100%" BORDER="0" CELLPADDING="1" CELLSPACING="1">
+              <TR>
+                <TD CLASS="ft-linkhead" ALIGN="LEFT"><A HREF="http://catalogs.indiamart.com/">Wholesale
+                  Catalogs</A></TD>
+              </TR>
+              <TR>
+                <TD CLASS="footer-lnk" VALIGN="TOP"><A HREF="http://www.beads-manufacturers.com/">Beads</A><BR><A HREF="http://www.slate-stone.com/">Slate Stone</A><BR>
+                <A HREF="http://www.napkin-rings.com/">Napkin Rings</A><BR>
+                <A HREF="http://www.granite-sandstone.com/">Granite Sandstone</A><BR>
+                <A HREF="http://www.leather-accessories-manufacturers.com/">Leather Accessories</A><BR>
+                <A HREF="http://www.hydraulic-equipment-manufacturers.com/">Hydraulic Equipment</A></TD>
+              </TR>
+            </TABLE></TD>
+          </TR>
+        </TABLE></TD>
+        <TD VALIGN="TOP">
+        <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+          <TR>
+            <TD BGCOLOR="#BEBEBE">
+            <TABLE WIDTH="100%" BORDER="0" CELLPADDING="1" CELLSPACING="1">
+              <TR>
+                <TD CLASS="ft-linkhead" COLSPAN="3" ALIGN="LEFT"><A HREF="http://industries.indiamart.com/" STYLE="color:000000;">Industry
+                  Portals</A></TD>
+              </TR>
+              <TR>
+                <TD CLASS="footer-lnk" VALIGN="TOP"><A HREF="http://www.ayurveda-herbal-remedy.com/">Indian
+                  Ayurveda</A><BR>
+                <A HREF="http://handicraft.indiamart.com/">India Handicrafts</A><BR>
+                <A HREF="http://apparel.indiamart.com/">Apparel Industry</A><BR>
+                <A HREF="http://www.indianplasticportal.com/">Plastic Industry</A><BR>
+                <A HREF="http://www.indianchemicalportal.com/">Chemical
+                  Industry</A><BR>
+                <A HREF="http://health.indiamart.com/">Health Care</A><BR> </TD>
+                <TD CLASS="footer-lnk" VALIGN="TOP">
+               <A HREF="http://auto.indiamart.com/">Auto
+                  Industry</A> <br><A HREF="http://www.indianleatherportal.com/">Leather Industry</A><BR>
+                <A HREF="http://www.agriculture-industry-india.com/">Agro
+                  Industry</A><BR>
+                              
+                <A HREF="http://www.jute-industry.com/">Jute Industry</A><br><A HREF="http://finance.indiamart.com/">Finance
+                  &amp; Investment</A><BR>
+                <A HREF="http://news.indiamart.com/">India News</A><BR></TD>
+                <TD CLASS="footer-lnk" VALIGN="TOP">
+                <A HREF="http://exim.indiamart.com/">Import Export Guide</A><BR>
+                <A HREF="http://tenders.indiamart.com/">Tender Notice</A><BR>
+                <A HREF="http://www.biztradeshows.com/">Trade Shows Directory</A></TD>
+              </TR>
+            </TABLE></TD>
+          </TR>
+        </TABLE></TD>
+        <TD VALIGN="TOP">
+        <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+          <TR>
+            <TD BGCOLOR="#BEBEBE">
+            <TABLE WIDTH="100%" BORDER="0" CELLPADDING="1" CELLSPACING="1">
+              <TR>
+                <TD CLASS="ft-linkhead1" ALIGN="LEFT" WIDTH="50%"><A HREF="http://www.indiantravelportal.com/" TARGET="_new" STYLE="color:000000;">Travel
+                  to India</A></TD>
+                <TD CLASS="ft-linkhead1" ALIGN="LEFT"><A HREF="http://www.indiangiftsportal.com/" TARGET="_new" STYLE="color:000000;">Send Gifts to India</A></TD>
+              </TR>
+              <TR>
+                <TD CLASS="footer-lnk1" VALIGN="TOP"><A HREF="http://www.indiantravelportal.com/" TARGET="_new">Indian
+                  Travel</A><BR>
+                <A HREF="http://taj-mahal.indiantravelportal.com/" TARGET="_new">Taj
+                  Mahal</A><BR>
+                <A HREF="http://tours.indiantravelportal.com/" TARGET="_new">India Tours</A><BR>
+                <A HREF="http://hotels.indiantravelportal.com/" TARGET="_new">Hotels in India</A><BR>
+                <A HREF="http://travel-package.indiantravelportal.com/" TARGET="_new">India
+                  Travel Package</A><BR>
+                <A HREF="http://travel-agents.indiantravelportal.com/" TARGET="_new">Indian
+                  Travel Agency</A> </TD>
+                <TD CLASS="footer-lnk1" VALIGN="TOP"><A HREF="http://www.indiangiftsportal.com/india-shopping/occasions/birthday-gifts/" TARGET="_new">Birthday
+                  Gifts</A><BR>
+                <A HREF="http://www.indiangiftsportal.com/india-shopping/occasions/anniversary-gifts/" TARGET="_new">Anniversary
+                  Gifts</A><BR>
+                <A HREF="http://www.indiangiftsportal.com/india-shopping/occasions/wedding-gifts/" TARGET="_new">Wedding
+                  Gifts</A><BR>
+              
+                <A HREF="http://www.indiangiftsportal.com/india-shopping/occasions/congratulations-gifts/" TARGET="_new">Congratulations Gifts</A><BR>
+                 <A HREF="http://www.indiangiftsportal.com/india-shopping/occasions/house-warming-gifts/" TARGET="_new">Housewarming Gifts</A><br> <A HREF="http://www.indiangiftsportal.com/india-shopping/all-time-favourites/fresh-flowers/" TARGET="_new">Send Flowers India</A></TD>
+              </TR>
+            </TABLE></TD>
+          </TR>
+        </TABLE></TD>
+      </TR>
+      <TR>
+        <TD></TD>
+        <TD></TD>
+        <TD></TD>
+        <TD HEIGHT="2"></TD>
+      </TR>
+    </TABLE>
+
+<!--b2b footer3-->
+    
+    <TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+      <TR>
+        <TD CLASS="fl-col"><IMG SRC="/gifs/zero.gif" WIDTH="1" HEIGHT="1"></TD>
+      </TR>
+      <TR>
+        <TD>
+        <DIV CLASS="footerlinks" STYLE="padding-left:5px;">
+
+<!--travel network starts--><!--travel network end--><!--net resources starts--><!--net resources end-->
+        
+        </DIV></TD>
+      </TR>
+      <TR>
+        <TD CLASS="fl-col"><IMG SRC="/gifs/zero.gif" WIDTH="1" HEIGHT="1"></TD>
+      </TR>
+    </TABLE>
+
+<!--b2b footer4-->
+    
+    <TABLE BORDER="0" WIDTH="100%">
+      <TR>
+        <TD ALIGN="CENTER" HEIGHT="15" CLASS="footer-lnk">
+        <DIV><A HREF="http://www.intermesh.net/">About Us</A>&nbsp; | &nbsp;<A HREF="http://www.indiamart.com/press-section/">Press
+          Room</A>&nbsp; | &nbsp;<A HREF="http://www.indiamart.com/press-section/award.html">Awards</A>&nbsp;
+        | &nbsp;<A HREF="http://www.indiamart.com/press-section/commendations.html">Commendations</A>&nbsp;
+        | &nbsp;<A HREF="http://www.indiamart.com/success-stories/">Success
+          Stories</A>&nbsp; | &nbsp;<A HREF="http://www.intermesh.net/reachus.html">Contact
+          Us</A>&nbsp; | &nbsp;<A HREF="http://www.indiamart.com/disclaim.html">Disclaimer</A>&nbsp;
+        | &nbsp;<A HREF="http://www.indiamart.com/privacy-policy.html">Privacy
+          Policy</A>&nbsp; | &nbsp;<A HREF="http://www.indiamart.com/feedback.html">Feedback</A>&nbsp;
+        | &nbsp;<A HREF="http://www.indiamart.com/help/">Help</A></DIV></TD>
+      </TR>
+    </TABLE></DIV>
+    <TABLE BORDER="0" WIDTH="100%">
+      <TR>
+        <TD ALIGN="CENTER" HEIGHT="15" CLASS="footerlink" COLSPAN="2">Copyright<FONT SIZE="-1">
+        &copy;</FONT> 1996-2006 <A HREF="http://www.intermesh.net/">IndiaMART
+          InterMESH Limited</A> </TD>
+      </TR>
+    </TABLE></DIV>
+<!--b2b footer end-->
+
+        
+        </TD>
+      </TR>
+    </TABLE>
+
+<!--IndiaMART Footer end-->
+    
+    
+  </BODY>
+</HTML>

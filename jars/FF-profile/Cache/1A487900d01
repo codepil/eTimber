@@ -1,0 +1,661 @@
+
+
+
+
+
+
+
+
+<html lang="en-CA">
+<head>
+<!-- Begin master template opener //-->
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+<meta name="Description" content="World Community Grid"/>
+<meta name="Abstract" content="World Community Grid"/>
+<meta name="Keywords" content="World Community Grid, Technology Solving Problems"/>
+<meta name="Security" content="Public"/>
+<meta name="Robots" content="index,follow"/>
+<meta name="GENERATOR" content="Microsoft Visual Studio.NET 7.0">
+<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+<!--	
+	Licensed Materials  - Property  of IBM
+	(c)  Copyright IBM Canada Ltd. 2004    All Rights Reserved
+-->
+<!-- boinc scheduling server
+<scheduler>https://secure.worldcommunitygrid.org/boinc/wcg_cgi/fcgi</scheduler>
+ -->
+<title>World Community Grid - Home</title>
+<!--Release 11.6.1-->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<SCRIPT>
+<!-- 
+	var lang = 'en';
+//-->
+</SCRIPT>
+
+<script language="JavaScript" src="js/rollover_root.js" type="text/javascript"></script>
+<script language="javascript" src="js/popup.js" type="text/javascript"></script>
+<script language="javascript" src="js/loginLink.js" type="text/javascript"></script>
+<script language="JavaScript" src="js/loggedInOrNot.js" type="text/javascript"></script>
+
+<script language="JavaScript">
+	var agt=navigator.userAgent.toLowerCase();
+	var is_major = parseInt(navigator.appVersion);
+	var is_nav  = ((agt.indexOf('mozilla')!=-1) && (agt.indexOf('spoofer')==-1) && (agt.indexOf('compatible') == -1) && (agt.indexOf('hotjava')==-1));
+	var is_nav6up = (is_nav && (is_major >= 5));
+	var is_gecko = (agt.indexOf('gecko') != -1);
+	var is_ie	 = ((agt.indexOf("msie") != -1) && (agt.indexOf("opera") == -1));
+
+	if (is_ie || is_nav6up || is_gecko) { //IE + Mozilla
+		document.write('<link rel="stylesheet" type="text/css" href="css/common.css">');
+	}	else if (is_nav && (is_major == 4)) { //Netscape 4
+		document.write('<link rel="stylesheet" type="text/css" href="css/ns.css">');
+	} else {
+		document.write('<link rel="stylesheet" type="text/css" href="css/common.css">');
+	}
+
+	var heroImage = new Array(); 
+
+	heroImage[0] = '/images/home_hero1.jpg';
+	heroImage[1] = '/images/home_hero2.jpg';
+	heroImage[2] = '/images/home_hero3.jpg';
+	heroImage[3] = '/images/home_hero4.jpg';
+
+	var j = 0;
+	var rannumber = heroImage.length;
+	var tempImage = new Array();
+	for (i = 0; i < rannumber; i++){
+	    tempImage[i] = new Image();
+   		tempImage[i].src = heroImage[i];
+	}
+	var displayThis = Math.round(Math.random()*(rannumber-1));
+	
+	function writeImage() {
+		document.write('<img name="heroImage" width="125" height="90" alt="World Community Grid" src="'+heroImage[displayThis]+'" />');
+	}
+		
+	function setImage(){
+		document.heroImage.src=heroImage[displayThis];
+		displayThis = displayThis + 1;
+		if ( displayThis > 3 ) {
+			displayThis = 0;
+		}
+		setTimeout("setImage()",7000);
+	}
+</script>
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" bgcolor="#FFFFFF">
+<center>
+<table width="941" border="0" cellspacing="0" cellpadding="0">
+	<!-- End master template opener //-->
+
+
+
+
+
+
+<script language="JavaScript" src="/js/loggedInOrNot.js" type="text/javascript"></script>
+<script language="javascript" src="/js/loginLink.js" type="text/javascript"></script>
+<script language="JavaScript" src="/js/checkOS.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+
+	preImages = new Array();
+	preImages[0] = "/images/about_over.gif";
+	preImages[1] = "/images/forums_over.gif";
+	preImages[2] = "/images/help2_over.gif";
+	preImages[3] = "/images/home_over.gif";
+	preImages[4] = "/images/research_over.gif";
+	preImages[5] = "/images/mygrid_over.gif";
+	preImages[5] = "/images/statistics_over.gif";
+
+    preImagesList = new Array ();
+
+    for (counter in preImages) {
+        preImagesList[counter] = new Image();
+        preImagesList[counter].src = preImages[counter];
+    }
+
+
+function displayPointsCookie() {
+	var pointsCookie = getCookie('points');
+	document.write(pointsCookie);
+}
+
+function displayRankCookie() {
+	var rankCookie = getCookie('rank');
+	document.write(rankCookie);
+}
+</script>
+
+
+<!-- Begin header region //-->
+    <tr> 
+      <td class="grey" height="4"><img src="/images/spacer.gif" height="4" width="1"></td>
+    </tr>
+    <tr> 
+       <td> 
+ 		<table width="941" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td valign="top" height="86"><a href="/index.jsp"><img src="/images/logo.gif" height="86" width="430" border="0" alt="World Community Grid"></a></td>
+				<td width="511" height="86" align="right" background="/images/bkgd_grey.gif">
+				
+					<table width="511" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td width="119" height="86"><img src="/images/spacer.gif" alt="" width="119" height="2" border="0"></td>
+							<td width="392" height="86" align="center" valign="middle">
+							<table width="389" height="50" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td valign="top" width="135"><span class="signin">sign in:</span></td>
+									<td valign="top" width="135"><span class="signin">password:</span></td>
+									<td class="contentText" width="119"> &nbsp; </td>
+								</tr>
+								<tr>
+									<script language="JavaScript" type="text/javascript">writeForm("loginForm","/j_security_check","post");</script>
+									<td><input type="text" name="j_username" class="textboxTwelve" maxlength="60" size="12" onKeyPress="submitByEnterKey(event,0)"></td>
+									<td><input type="password" name="j_password" size="12" maxlength="60" class="textboxTwelve" onKeyPress="submitByEnterKey(event,0)"></td>
+									<td align="left">
+									<a href="javascript:document.forms[0].submit()" onmouseover="mOver('signin');return true" onmouseout="mOut('signin');return true">
+			                    	<img src="/images/signin_off.gif" name="signin" border="0" alt="sign in"></A>
+									</td>
+								</tr>
+								<tr>
+									<td><img src="/images/arrow.gif" width="10" height="7" alt="arrow"><a href="/join_now.html" class="contentLink">become a member!</a></td>
+									<td><img src="/images/arrow.gif" width="10" height="7" alt="arrow"><a href="/login/forgotPassword.do" class="contentLink">forgot password?</a></td>
+									<td><table width="119">
+										<tr>
+											<td width="117"><span class="signedInResults">remember me:</span></td>
+											<td width="2"><input type="checkbox" name="settoken"/></td>
+										</tr>
+										</table></td>
+									</form>
+								</tr>
+							</table>
+						</td>
+						</tr>
+					</table>
+				<script>document.forms[0].j_username.focus();</script>
+				
+				
+
+				</td>
+			</tr>
+		</table>
+      </td>
+     </tr>      
+     <tr> 
+      <td height="2"><img src="/images/spacer.gif" height="2" width="1"></td>
+    </tr>
+ <!-- End header region //-->
+
+
+	
+
+
+
+
+
+
+
+
+
+<script language="javascript" src="/js/loginLink.js" type="text/javascript"></script>
+<script language="javascript">
+function forums() {
+	var cookieValue = getCookie('member');
+    if ( cookieValue != null ) {
+    	self.location.href="/forums/wcg";
+    } else {
+		self.location.href="/forums/wcg/index";
+    }
+}
+</script>
+
+<script language="javascript" src="/js/misc.js" type="text/javascript"></script>
+<script language="javascript" type="text/javascript">
+<!--
+function loadLang() {
+
+	var url = getURL();
+	self.location.href = url;
+}
+
+// this function can only be used by the language drop-down
+function getURL() {
+
+	selectBox = document.getElementById('langSelect');
+	destLang = selectBox.options[selectBox.selectedIndex].value;
+
+	var url = self.location.href;
+	// redirIndex is the base url for the host
+	var redirIndex;
+	if (url.indexOf('https') > -1) {
+		redirIndex = 'https://' + document.getElementById('shost').value + '/';
+	} else {
+		redirIndex = 'http://' + document.getElementById('host').value + '/';
+	}
+	
+	var deltron = url.indexOf('?');
+	if (deltron > 0) {
+		// urlsplit gives us an array with the pieces of the url separated by ?'s
+		var urlsplit = url.split('?');
+		// base_url is everything before the first ?
+		base_url = urlsplit[0];
+	
+		if (redirIndex == base_url) {
+			// if base url is equal to the host, then we are on the home page
+			base_url = base_url + 'index.jsp?language=' + destLang;
+			return base_url;
+		}
+
+		var ampcount = urlsplit[1].split('&').length - 1;
+		var ampsplit = urlsplit[1].split('&');
+		var first_param = true;
+		
+		for (var i=0; i<=ampcount; i++) {
+			if (ampsplit[i].indexOf('language') < 0 && true == first_param ) {
+				base_url = base_url + '?' + ampsplit[i];
+				first_param = false;
+			} else if (ampsplit[i].indexOf('language') < 0 && false == first_param) {
+				base_url = base_url + '&' + ampsplit[i];
+			}
+		}
+		
+		if (true == first_param) {
+			base_url = base_url + "?language=" + destLang;
+		} else {
+			base_url = base_url + "&language=" + destLang;
+ 		}
+		return base_url;
+	} else {
+		if (redirIndex == url) {
+			// if base url is equal to the host, then we are on the home page
+			url = url + 'index.jsp?language=' + destLang;
+			return url;
+		} else {
+			url = url + '?language=' + destLang;	
+			return url;
+		}
+	}
+}
+
+//-->
+</script>
+
+
+ <!-- Begin mainNav //-->
+	<tr>
+	
+	<td background="/images/nav_bkgd.gif">
+	<table width="941" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td><a href="/index.jsp" onmouseover="mOver('home');return true" onmouseout="mOn('home');return true"><img src="/images/home_on.gif" name="home" height="27" border="0" alt="Home"></a></td>
+        <td><a href="/about_us/viewAboutUs.do" onmouseover="mOver('about');return true" onmouseout="mOut('about');return true"><img src="/images/about_off.gif" name="about" height="27" border="0" alt="About us"></a></td>
+        <td><a href="/projects_showcase/viewResearch.do" onmouseover="mOver('research');return true" onmouseout="mOut('research');return true"><img src="/images/research_off.gif" name="research" height="27" border="0" alt="Research"></a></td>
+        <td><a onmouseover="mOver('forums');return true" onmouseout="mOut('forums');return true" href="javascript:forums();"><img src="/images/forums_off.gif" name="forums" height="27" border="0" alt="Forums"></a></td>
+        <td><a href="/stat/viewGlobal.do" onmouseover="mOver('statistics');return true" onmouseout="mOut('statistics');return true"><img src="/images/statistics_off.gif" name="statistics" height="27" border="0" alt="Statistics"></a></td>
+        <td><a href="/ms/viewMyMemberPage.do" onmouseover="mOver('mygrid');return true" onmouseout="mOut('mygrid');return true"><img src="/images/mygrid_off.gif" name="mygrid" height="27" border="0" alt="My Grid"></a></td>
+
+		
+		
+        <td width="136"><img src="/images/spacer.gif" height="1" width="1" border="0" alt=""></td>
+		
+		<td width="182" valign="middle" align="right">
+			<input type="hidden" id="host" value="www.worldcommunitygrid.org" />
+			<input type="hidden" id="shost" value="secure.worldcommunitygrid.org" />
+			<select name="langSelect" onChange="javascript:loadLang()" id="langSelect" title="Language">
+			<script language="javascript" type="text/javascript">if ("en" == lang) {
+				document.write('<option value="en_US" selected>English</option>');
+				document.write('<option value="fr_CA">Français</option>');
+				} else {
+				document.write('<option value="en_US">English</option>');
+				document.write('<option value="fr_CA" selected>Français</option>');
+				}
+			</script>
+			</select><img src="/images/spacer.gif" height="1" width="8" border="0" alt=""></td>
+        <td width="72"><a href="/help/viewHelp.do" onmouseover="mOver('help2');return true" onmouseout="mOut('help2');return true"><img src="/images/help2_off.gif" name="help2" height="27" width="72" border="0" alt="Help"></a></td>
+      </tr>
+    </table>
+	</td>
+	</tr>
+ <!-- End mainNav //-->
+
+	<tr>
+		<td height="2"><img src="images/spacer.gif" width="1" height="2"></td>
+	</tr>
+	<!-- End header region //-->
+	<!-- Begin content opener //-->
+	<tr>
+
+		<td valign="top">
+		<table width="941" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+
+				<td width="1" class="lightgrey" valign="top"><img src="/images/home_hero1_fr.jpg" height="92" width="1"></td>
+				<!-- End content opener //-->
+				<!-- Begin content //-->
+
+				<td valign="top" width="764">
+				<table width="763" border="0" cellspacing="0" cellpadding="0" height="90">
+					<tr>
+						<td width="125">
+						<noscript><img src="/images/home_hero1_fr.jpg" height="90" width="125" alt="World Community Grid"></noscript>
+						<script type="text/javascript">writeImage();</script></td>
+						<td width="570" height="90" valign="top" align="left">
+						<table border="0" cellspacing="0" cellpadding="0" width="570" height="90">
+							<tr>
+
+	 							<td valign="top" height="77" background="/images/home_market_2_en.jpg"><span class="heroText"><img src="images/spacer.gif" width="1" height="56" ><br>
+								<a class="heroLink" href="viewJoinNow.do">Join World Community Grid</a> today to contribute to projects that benefit humanity</span></td>
+<!--  
+	 							<td valign="top" height="77" background="/images/milestones/home_market_special_v7_en.jpg"><span class="heroText"><img src="images/spacer.gif" width="1" height="56" ><br>
+								<a class="heroLink" href="http://www.worldcommunitygrid.org/forums/wcg/viewthread?thread=6077">Click here</a>&nbsp;for more information on this amazing accomplishment.</span></td>
+ -->
+							</tr>
+						</table>
+						</td>
+						<td width="68" height="90" valign="top" align="left"><img src="/images/home_market_3.jpg" width="68" height="90" /></td>
+					</tr>
+				</table>
+				<table width="763" border="0" cellspacing="0" cellpadding="0">
+					<tr valign="top">
+						<td colspan="5"><img src="images/spacer.gif" width="1" height="2" ></td>
+					</tr>
+					<tr>
+						<td height="25" width="39"><img src="images/spacer.gif" width="8" height="15" ></td>
+						<td valign="top" height="25" width="330">&nbsp;</td>
+						<td height="25" width="25">&nbsp;</td>
+						<td valign="top" height="25" width="330">&nbsp;</td>
+						<td height="25" width="39">&nbsp;</td>
+					</tr>
+					<tr>
+						<td><img src="images/spacer.gif" width="39" height="1" ></td>
+						<td valign="top" width="330"><img src="/images/home_title_1.gif" height="21" width="330" alt="Who We Are"><br>
+						<img src="images/spacer.gif" width="1" height="12" ><br>
+						<table width="330" border="0" cellspacing="0" cellpadding="0">
+							<tbody>
+							<tr>
+								<td valign="top" width="134" height="102">
+									<table border="0" cellspacing="0" cellpadding="0">
+									<tr><td><img src="/images/0-0_who.jpg" height="102" width="108" alt="Human Genome"></td></tr>
+							<tr>
+								<td valign="top">
+	                                <table border="0" cellspacing="0" cellpadding="1">
+    	                            <tr><td><img src="images/arrow.gif" alt="arrow" width="10" height="7" border="0"><a href="/stat/viewMembers.do" class="contentLink">Members</a></td></tr>
+        	                        <tr><td><img src="images/arrow.gif" alt="arrow" width="10" height="7" border="0"><a href="/about_us/viewOurPartners.do" class="contentLink">Partners</a></td></tr>
+            	                    <tr><td><img src="images/arrow.gif" alt="arrow" width="10" height="7" border="0"><a href="/about_us/viewAdvisoryBoard.do" class="contentLink">Advisory Board</a></td></tr>
+                	                </table>
+                            	</td>
+							</tr>
+						</table>
+						</td>
+						<td valign="top" rowspan="2" width="196"><span class="contentText">
+								World Community Grid's mission is to create the largest public computing grid benefiting humanity. Our work is built on the belief that technological innovation combined with visionary scientific research and large-scale volunteerism can change our world for the better. Our success depends on individuals - like you - collectively contributing their unused computer time to this not-for-profit endeavor.</span></td>
+							</tr>
+						</tbody>
+						</table>
+						<br />
+						</td>
+						<td width="25"><img src="images/spacer.gif" width="25" height="1" ></td>
+
+						<td valign="top" width="330"><img src="/images/home_title_2.gif" height="21" width="330" alt="How You Can Help"><br>
+						<img src="images/spacer.gif" width="1" height="12" ><br>
+						<table width="330" border="0" cellspacing="0" cellpadding="0">
+							<tbody>
+							<tr>
+								<td valign="top" width="134" height="102">
+								<table border="0" cellspacing="0" cellpadding="0">
+                        		<tr><td><img src="/images/0-0_how.jpg" height="102" width="108" alt="Researcher"></td></tr>
+								<tr>
+									<td valign="top">
+										<table border="0" cellspacing="0" cellpadding="1">
+										<tr><td><img src="images/arrow.gif" width="10" height="7" alt="arrow"><a href="/viewJoinNow.do" class="contentLink">Become a Member</a></td></tr>
+										<tr><td><img src="images/arrow.gif" width="10" height="7" alt="arrow"><a href="/about_us/viewBecomePartner.do" class="contentLink">Become a Partner</a></td></tr>
+										<tr><td><img src="images/arrow.gif" width="10" height="7" alt="arrow"><a href="/projects_showcase/viewSubmitAProposal.do" class="contentLink">Submit a Proposal</a></td></tr>
+										<tr><td><img src="images/arrow.gif" width="10" height="7" alt="arrow"><a href="mailto:?subject=World Community Grid&body=Please join World Community Grid (http://www.worldcommunitygrid.org)!   Its mission is to create the largest public computing grid benefiting humanity by accelerating research on critical global problems." class="contentLink">Tell a Friend</a></td></tr>
+										</table>
+									</td>
+								</tr>
+						</table>
+						</td>
+						<td valign="top" rowspan="2" width="196"><span class="contentText">
+								Simply donate the time your computer is turned on, but would normally lie idle, for projects that benefit humanity. Like a screensaver, grid technology is easy to use, safe and free. When you are ready to use your computer, the grid software will shut itself off until the next time your computer is idle. To learn more, click on Become a Member. Or to start volunteering your PC time now, click the button below.</span><br />
+								<img src="images/spacer.gif" width="1" height="35" >
+								<a onMouseOver="mOver('download_now2');return true" onMouseOut="mOut('download_now2');return true" href="javascript:sa_onclick('http://www.worldcommunitygrid.org/viewJoinNow.do'); window.location.href='/viewJoinNow.do';"><img src="/images/download_now2_off.gif" name="download_now2" height="28" border="0" vspace="5" alt="download now"></a><br/></td>
+						</tr>
+						</table>
+						</td>
+						<td><img src="images/spacer.gif" width="39" height="1" ></td>
+					</tr>
+					<tr>
+						<td>&nbsp;</td>
+
+						<td valign="top" width="330"><img src="/images/home_title_3.gif" height="21" width="330" alt="What We Do"><br>
+						<img src="images/spacer.gif" width="1" height="12" ><br />
+						<span class="contentText">Exciting work is now under way on projects that hold tremendous potential to benefit humanity.</span> <br />
+						<img src="images/spacer.gif" alt="" width="1" height="10" border="0"><br />
+						<img src="images/arrow.gif" width="10" height="7" alt="arrow">
+							<a href="./projects_showcase/viewFaahResearch.do" class="contentLink">Learn About the FightAIDS@Home Project</a><br />
+							<img src="images/arrow.gif" width="10" height="7" alt="arrow">
+							<a href="./projects_showcase/viewHpfResearch.do" class="contentLink">Learn About the Human Proteome Project</a><br />
+							<img src="images/arrow.gif" width="10" height="7" alt="arrow">
+							<a href="./about_us/viewGridComputingBasics.do" class="contentLink">How Grid Computing Works</a><br /></td>
+						<td width="25">&nbsp;</td>
+ 
+						<td valign="top" width="330">
+							
+
+
+
+
+
+<img src="/images/home_title_4.gif" height="21" width="330" alt="What's New"><br>
+
+					
+
+					
+
+<form name="homeBean" method="post" action="/home.do">
+	<input type="hidden" name="html" value="							&lt;img src=&quot;images/spacer.gif&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;4&quot; border=&quot;0&quot; /&gt;&lt;br /&gt;
+							&lt;img src=&quot;images/arrow.gif&quot; width=&quot;10&quot; height=&quot;7&quot; border=&quot;0&quot; alt=&quot;arrow&quot; /&gt;
+							&lt;span class=&quot;contentText&quot;&gt;World Community Grid welcomes its newest partners: &lt;br /&gt;
+							&lt;img src=&quot;images/spacer.gif&quot; alt=&quot;&quot; width=&quot;11&quot; height=&quot;7&quot; border=&quot;0&quot; /&gt;&lt;br /&gt;
+							&lt;img src=&quot;images/spacer.gif&quot; width=&quot;11&quot; height=&quot;7&quot; border=&quot;0&quot; /&gt;&lt;br /&gt;
+							&lt;img src=&quot;images/spacer.gif&quot; width=&quot;11&quot; height=&quot;7&quot; border=&quot;0&quot; /&gt;
+							&lt;a href=&quot;http://www.esc13.net/wcg/&quot; class=&quot;contentLink&quot; target=&quot;_blank&quot;&gt;Education Service Center Region XIII&lt;/a&gt;&lt;br /&gt;
+							&lt;img src=&quot;images/spacer.gif&quot; width=&quot;11&quot; height=&quot;7&quot; border=&quot;0&quot; /&gt;
+							&lt;a href=&quot;http://www.arc.georgetown.edu/wcg.html&quot; class=&quot;contentLink&quot; target=&quot;_blank&quot;&gt;Georgetown University&lt;/a&gt;&lt;br /&gt;
+							&lt;img src=&quot;images/spacer.gif&quot; width=&quot;11&quot; height=&quot;7&quot; border=&quot;0&quot; /&gt;
+							&lt;a href=&quot;http://www.memphisscienceacademy.org/page.cfm?pageID=325&quot; class=&quot;contentLink&quot; target=&quot;_blank&quot;&gt;Memphis Academy of Science and Engineering&lt;/a&gt;&lt;br /&gt;
+							&lt;img src=&quot;images/spacer.gif&quot; width=&quot;11&quot; height=&quot;7&quot; border=&quot;0&quot; /&gt;
+							&lt;a href=&quot;http://www.osc.org/specialevent/worldcommunitygrid.htm&quot; class=&quot;contentLink&quot; target=&quot;_blank&quot;&gt;Orlando Science Center&lt;/a&gt;&lt;br /&gt;
+							&lt;img src=&quot;images/spacer.gif&quot; width=&quot;11&quot; height=&quot;7&quot; border=&quot;0&quot; /&gt;
+							&lt;a href=&quot;http://www.yearup.org/&quot; class=&quot;contentLink&quot; target=&quot;_blank&quot;&gt;Year Up Providence&lt;/a&gt;&lt;br /&gt;
+							&lt;img src=&quot;images/spacer.gif&quot; width=&quot;1&quot; height=&quot;15&quot; border=&quot;0&quot; /&gt;&lt;br /&gt;
+							&lt;img src=&quot;images/arrow.gif&quot; width=&quot;10&quot; height=&quot;7&quot; alt=&quot;arrow&quot; /&gt;
+							Website updates shown in the &lt;a href=&quot;http://www.worldcommunitygrid.org/forums/wcg/viewthread?thread=7072&quot; class=&quot;contentLink&quot;&gt;Member News Forum&lt;/a&gt;&lt;br /&gt;
+">
+</form>
+					
+						<span class="contentText">
+							<script type="text/javascript">document.write(document.homeBean.html.value);</script>
+						</span>
+					
+
+					
+
+<!-- 
+							<img src="images/spacer.gif" alt="" width="1" height="4" border="0" /><br />
+							<img src="images/arrow.gif" width="10" height="7" border="0" alt="arrow" />
+							<span class="contentTextBold">To all members... THANK YOU VERY MUCH<br />
+							<img src="images/spacer.gif" alt="" width="11" height="7" border="0" />
+							for registering 150,000 devices!!!!!<br />
+							<img src="images/spacer.gif" width="1" height="15" border="0" /><br />
+							<img src="images/spacer.gif" alt="" width="11" height="7" border="0" />
+							<span class="contentText">For more information, please review <br />
+							<img src="images/spacer.gif" alt="" width="11" height="7" border="0" />
+							the
+							<a href="http://www.worldcommunitygrid.org/forums/wcg/viewthread?thread=4001" class="contentLink">Thank You</a> 
+							message in the forums.<br />
+							<img src="images/spacer.gif" width="1" height="15" border="0" /><br />
+							<img src="images/spacer.gif" alt="" width="11" height="7" border="0" />
+							To see the current Device statistics, check the<br />
+							<img src="images/spacer.gif" alt="" width="11" height="7" border="0" />
+							Global Statistics box on the right, or <a class="contentLink" href="/stat/global.html">click here</a>.</span><br />
+							<img src="images/spacer.gif" alt="" width="11" height="7" border="0" />
+ -->
+						</td>							
+						<td width="39">&nbsp;</td>
+					</tr>
+				</table>
+				<br>
+				</td>
+				<!-- Close content //-->
+				<!-- Begin promo region //-->
+				<td valign="top" width="152">
+				<table width="152" border="0" cellspacing="0" cellpadding="0">
+				<tbody>
+				  <tr>
+					<td width="152" valign="top" align="left">
+					<table width="152" border="0" cellspacing="0" cellpadding="0">
+						<tr><td><img src="/images/banner_right_top.jpg" alt="World Community Grid" width="152" height="25" border="0"></td></tr>
+						<tr><td><img src="/images/submit_research.gif" width="152" border="0" alt="Submit Research"></td></tr>
+						<tr>
+							<td>
+							<TABLE cellspacing="0" cellpadding="0" width="152" border="0">
+								<TR>
+									<td width="9" background="/images/sign_in_left.gif"><img src="/images/spacer.gif" alt="" width="9" height="1" border="0"></td>
+									<td width="4" valign="top" class="green"><img src="/images/spacer.gif" alt="" width="4" height="1" border="0"></td>
+									<td width="130" valign="top" class="green"><img src="/images/spacer.gif" alt="" width="130" height="5" border="0"><BR><SPAN class=gettingstarted>World Community Grid's Advisory Board is looking for new research projects that can benefit from grid technology and have a positive impact on humanity.</SPAN><BR>
+									<img src="/images/spacer.gif" alt="" width="1" height="5" border="0"><br>
+									<img src="images/spacer.gif" alt="" width="1" height="5" border="0"></td>
+									<td width="10" background="/images/sign_in_right.gif"><img src="images/spacer.gif" alt="" width="9" height="1" border="0"></td>
+								</TR>
+							</TABLE>
+					        </td>
+						</tr>    
+					    <TR>
+							<TD width="152"><A onmouseover="mOver('learn_more');return true" onmouseout="mOut('learn_more');return true" 
+								href="/projects_showcase/viewSubmitAProposal.do"><img src="/images/learn_more_off.gif" name="learn_more" height="26" width="152" border="0" alt="Learn More"></A></TD>
+						</TR>
+					</table>
+                
+                    <img src="images/spacer.gif" alt="" width="1" height="12" border="0"><BR>
+                    
+                    <table width="152" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+						<td><a href="/viewJoinNow.do"><img src="/images/become_a_member.gif" height="31" width="152" border="0" alt="Become a Member"></a></td>
+					</tr>
+                    <tr>
+                        <td>
+                            <table width="152" border="0" cellspacing="0" cellpadding="0">
+                            <TR>
+                              <td width="9" background="images/getting_started_left.gif"><img src="images/spacer.gif" alt="" width="9" height="1" border="0"></td>
+                              <td width="3" valign="top" class="turquoise"><img src="images/spacer.gif" alt="" width="3" height="1" border="0"></td>
+                              <td width="131" valign="top" class="turquoise"><img src="images/spacer.gif" alt="" width="131" height="8" border="0"><BR><span class="signin">The power to change starts here. Join World Community Grid today!</SPAN><br /><img src="/images/spacer.gif" alt="" width="131" height="8" border="0"></td>
+                              <td width="10" background="images/getting_started_right.gif"><img src="images/spacer.gif" alt="" width="9" height="1" border="0"></td>
+
+                            </TR>
+                          </TABLE>
+                        </td>
+                    </tr>
+                    <TR>
+                      <TD width=152><A onmouseover="mOver('join_now');return true" 
+                        onmouseout="mOut('join_now');return true" href="/viewJoinNow.do"><img src="/images/join_now_off.gif" name="join_now" height="25" width="152" border="0" alt="Join Now"></A></TD>
+                     </TR>
+                    </table>
+
+                    <img src="images/spacer.gif" alt="" width="1" height="20" border="0"><BR>
+                    
+<!--                   
+                    <table width="152" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+						<td><a href="/stat/viewGlobal.do"><img src="/images/global_statistics.gif" height="38" width="152" border="0" alt="World Community Grid"></a></td>
+					</tr>
+                    <tr>
+                        <td>
+                            <TABLE cellSpacing=0 cellPadding=0 width=152 border=0>
+                            <TR>
+                                <td width="9" background="images/sign_in_left.gif"><img src="images/spacer.gif" alt="" width="9" height="1" border="0"></td>
+                                <td width="4" valign="top" class="green"><img src="images/spacer.gif" alt="" width="4" height="1" border="0"></td>
+                                <td width="130" valign="top" class="green"><img src="images/spacer.gif" alt="" width="130" height="5" border="0"><BR>
+							<span class="gettingstarted">(as ofWed May 03 00:06:03 GMT 2006)<br><br></span>
+							<table width="130" cellSpacing=0 cellPadding=0 border=0>
+								<tr>
+									<td align="left"><span class="gettingstarted">Members</span></td>
+									<td align="left"><span class="gettingstarted">180533</span></td>
+								</tr>
+								<tr>
+									<td align="left"><span class="gettingstarted">Devices</span></td>
+									<td align="left"><span class="gettingstarted">321784</span></td>
+								</tr>
+								<tr>
+									<td align="left"><span class="gettingstarted">Run Time</span></td>
+									<td align="left"><span class="gettingstarted">40067 yrs</span></td>
+								</tr>
+							</table><img src="images/spacer.gif" width="1" height="5" ></td>
+                                <td width="10" background="images/sign_in_right.gif"><img src="images/spacer.gif" alt="" width="9" height="1" border="0"></td>
+                            </TR>
+                            </TABLE>
+                        </td>
+                    </tr>    
+                    <TR>
+                      <TD width=152><img src="images/bottom_box.gif" alt="" width="152" height="9" border="0"></TD>
+                     </TR>
+
+                    </table>
+ -->
+					<a href="http://www.tryscience.org/grid/home.html" target="_blank" onClick="sa_onclick('http://www.tryscience.org/grid/home.html');"><img src="/images/the_grid.gif" name="Try Science" border="0" alt="TryScience has Grid activities"></a>
+
+					<img src="images/spacer.gif" width="1" height="20" ><br>
+					<!-- End Global Statistics sidebar table -->
+					<!-- Being Powered by IBM sidebar -->
+					<table width="152" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td width="1"><img src="images/spacer.gif" width="1" height="1" ></td>
+							<td valign="top">
+							<a href="http://www.ibm.com/ibm/ibmgives" target="_blank">
+                            <img src="/images/ibm.gif" height="34" width="73" border="0" alt="Powered by IBM"></a><br>
+							<img src="images/spacer.gif" width="1" height="24" ></td>
+						</tr>
+					</table>
+					<!-- End Powered by IBM sidebar -->
+					</td>
+					</tr>
+				</table>
+				</td>
+				<!-- End promo region //-->
+				<!-- Begin content closer //-->
+				<td valign="top" background="images/right.gif"><img src="images/banner_right.jpg" width="25" height="150" ></td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+	<!-- End content closer //-->
+	<tr>
+		<td class="lightgrey"><img src="images/spacer.gif" width="1" height="1" ></td>
+	</tr>
+	
+
+
+ <!-- Begin footer region //-->
+		<td align="center"><img src="/images/spacer.gif" width="1" height="14" ><br>
+		<a href="/viewMemberPolicy.do" class="footerLink">privacy</a><span class="seperators"> | </span> <a href="/viewSitemap.do" class="footerLink">sitemap</a><span class="seperators"> | </span> <a href="/viewContactUs.do" class="footerLink">contact us</a><br>
+		<br></td>
+    <!-- End footer region //-->
+
+	<!-- Begin master template tags closer //-->
+</table>
+</center>
+<!-- <META name="links-collection-enabled" content="false"> -->
+<!-- Copyright IBM Corporation, 2001-2004 -->
+<script language="JavaScript1.1" type="text/JavaScript">var SA_ID="wcgrid;wcgrid";</script>
+<script language="JavaScript1.1" type="text/JavaScript" src="//stats.surfaid.ihost.com/sacdcg3p_wcgrid_wcgrid.js"></script>
+<noscript>
+<img src="//stats.surfaid.ihost.com/crc/images/uc.GIF?1.20&amp;wcgrid&amp;wcgrid&amp;noscript" height="1" width="1" alt="" border="0" />
+</noscript>
+</body>
+</html>

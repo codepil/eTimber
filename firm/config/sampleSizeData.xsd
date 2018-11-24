@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <xsd:element name="Battons" type="xsd:string"/>
+    <xsd:element name="FirmDetails">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element ref="firmName"/>
+                <xsd:element ref="firmAddress"/>
+                <xsd:element ref="billNo"/>
+                <xsd:element ref="orderNo"/>
+                <xsd:element ref="articles"/>
+                <xsd:element ref="lorryName"/>
+                <xsd:element ref="date"/>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+    <xsd:element name="Lapha" type="xsd:string"/>
+    <xsd:element name="Runners" type="xsd:string"/>
+    <xsd:element name="SLR" type="xsd:string"/>
+    <xsd:element name="articles" type="xsd:string"/>
+    <xsd:element name="billNo">
+        <xsd:complexType/>
+    </xsd:element>
+    <xsd:element name="cft" type="xsd:string"/>
+    <xsd:element name="date" type="xsd:string"/>
+    <xsd:element name="firmAddress" type="xsd:string"/>
+    <xsd:element name="firmName" type="xsd:string"/>
+    <xsd:element name="length" type="xsd:string"/>
+    <xsd:element name="load">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element ref="length"/>
+                <xsd:element ref="width"/>
+                <xsd:element ref="thinkness"/>
+                <xsd:element ref="qnt"/>
+                <xsd:element ref="rft"/>
+                <xsd:element ref="cft"/>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+    <xsd:element name="loadTotal">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element ref="qnt"/>
+                <xsd:element ref="rft"/>
+                <xsd:element ref="cft"/>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+    <xsd:element name="lorryName" type="xsd:string"/>
+    <xsd:element name="orderNo" type="xsd:string"/>
+    <xsd:element name="outGoing">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element ref="FirmDetails"/>
+                <xsd:element maxOccurs="unbounded" minOccurs="1" ref="rowData"/>
+                <xsd:element ref="sizeTotal"/>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+    <xsd:element name="planks" type="xsd:string"/>
+    <xsd:element name="qnt" type="xsd:string"/>
+    <xsd:element name="rft" type="xsd:string"/>
+    <xsd:element name="rowData">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element maxOccurs="unbounded" minOccurs="1" ref="sizeData"/>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+    <xsd:element name="sizeData">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element maxOccurs="unbounded" minOccurs="1" ref="load"/>
+                <xsd:element ref="loadTotal"/>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+    <xsd:element name="sizeTotal">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element ref="planks"/>
+                <xsd:element ref="Runners"/>
+                <xsd:element ref="Battons"/>
+                <xsd:element ref="SLR"/>
+                <xsd:element ref="Lapha"/>
+                <xsd:element ref="totalCFT"/>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+    <xsd:element name="thinkness" type="xsd:string"/>
+    <xsd:element name="totalCFT" type="xsd:string"/>
+    <xsd:element name="width" type="xsd:string"/>
+</xsd:schema>

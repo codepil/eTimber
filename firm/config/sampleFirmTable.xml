@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="sampleFirmTable-dataLogic.xsl"?>
+<firm>
+  <details>
+    <firmName>
+			{firmName} 
+			</firmName>
+    <firmAddress>
+			
+			{firmAddress}
+			</firmAddress>
+  </details>
+  <load>
+    <sno>SNo</sno>
+    <orderNo>Order No</orderNo>
+    <loadName/>
+    <date>Date</date>
+    <runners>Runners</runners>
+    <planks>Planks</planks>
+    <battons>Battons</battons>
+    <SLR>SLR</SLR>
+    <lapha>Lapha</lapha>
+    <others>Others</others>
+    <totalCFT>TotalCFT</totalCFT>
+    <amount>Amount</amount>
+  </load>
+  <load>
+    <sno>{sno}</sno>
+    <orderNo>{orderNo}</orderNo>
+    <loadName>{loadName}</loadName>
+    <date>{date}</date>
+    <runners>{runners}</runners>
+    <planks>{planks}</planks>
+    <battons>{battons}</battons>
+    <SLR>{SLR}</SLR>
+    <lapha>{lapha}</lapha>
+    <others>{others}</others>
+    <totalCFT>{totalCFT}</totalCFT>
+    <amount>{amount}</amount>
+  </load>
+</firm>

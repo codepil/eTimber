@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<RDF:RDF xmlns:NC="http://home.netscape.com/NC-rdf#"
+         xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#nav-bar"
+                   currentset="back-button,forward-button,reload-button,history-button,home-button,urlbar-container,go-container,print-button" />
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#toolbar-menubar"
+                   currentset="menubar-items,throbber-box" />
+  <RDF:Description RDF:about="chrome://browser/content/bookmarks/addBookmark2.xul#addBookmarkDialog"
+                   width="326" />
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#status-bar"
+                   hidden="true" />
+  <RDF:Description RDF:about="chrome://browser/content/history/history-panel.xul">
+    <NC:persist RDF:resource="chrome://browser/content/history/history-panel.xul#Name"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#main-window"
+                   width="994"
+                   height="976"
+                   sizemode="normal"
+                   screenY="0"
+                   screenX="185" />
+  <RDF:Description RDF:about="NC:BookmarksRoot"
+                   NC:open="true" />
+  <RDF:Description RDF:about="find:datasource=history&amp;match=AgeInDays&amp;method=is&amp;text=0"
+                   NC:open="true" />
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#sidebar-box"
+                   src="chrome://browser/content/history/history-panel.xul"
+                   width="" />
+  <RDF:Description RDF:about="chrome://browser/content/preferences/preferences.xul">
+    <NC:persist RDF:resource="chrome://browser/content/preferences/preferences.xul#BrowserPreferences"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://browser/content/bookmarks/addBookmark2.xul#folder-tree"
+                   colinfo=" col:Name?width=&amp;hidden=&amp;ordinal=1"
+                   height="150" />
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#PersonalToolbar"
+                   currentset="__empty"
+                   collapsed="true" />
+  <RDF:Description RDF:about="chrome://browser/content/preferences/preferences.xul#BrowserPreferences"
+                   lastSelected="paneGeneral" />
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul">
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#main-window"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#toolbar-menubar"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#nav-bar"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#PersonalToolbar"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#sidebar-box"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#sidebar-title"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#status-bar"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#toggle_taskbar"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://mozapps/content/extensions/extensions.xul?type=themes#extensionsManager"
+                   width="560"
+                   height="380"
+                   screenX="722"
+                   screenY="43" />
+  <RDF:Description RDF:about="chrome://mozapps/content/extensions/extensions.xul?type=themes">
+    <NC:persist RDF:resource="chrome://mozapps/content/extensions/extensions.xul?type=themes#extensionsView"/>
+    <NC:persist RDF:resource="chrome://mozapps/content/extensions/extensions.xul?type=themes#extensionsManager"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://browser/content/bookmarks/addBookmark2.xul">
+    <NC:persist RDF:resource="chrome://browser/content/bookmarks/addBookmark2.xul#addBookmarkDialog"/>
+    <NC:persist RDF:resource="chrome://browser/content/bookmarks/addBookmark2.xul#folder-tree"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#sidebar-title"
+                   value="" />
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#toggle_taskbar"
+                   checked="false" />
+  <RDF:Description RDF:about="chrome://mozapps/content/extensions/extensions.xul?type=themes#extensionsView"
+                   last-selected="urn:mozilla:item:{972ce4c6-7e08-4474-a285-3208198ce6fd}" />
+  <RDF:Description RDF:about="chrome://browser/content/history/history-panel.xul#Name"
+                   sort="rdf:http://home.netscape.com/NC-rdf#Name?sort=true"
+                   sortActive="true"
+                   sortDirection="ascending" />
+</RDF:RDF>

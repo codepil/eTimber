@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<RDF:RDF xmlns:em="http://www.mozilla.org/2004/em-rdf#"
+         xmlns:NC="http://home.netscape.com/NC-rdf#"
+         xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <RDF:Description RDF:about="rdf:#$mZRyR3"
+                   em:id="{ec8030f7-c20a-464f-9b0e-13a3a9e97384}"
+                   em:minVersion="0.8"
+                   em:maxVersion="1.6" />
+  <RDF:Description RDF:about="urn:mozilla:install-manifest"
+                   em:id="{a81bafeb-b6ed-4501-aa17-15a2b3857e56}"
+                   em:version="2.0.1"
+                   em:name="iFox"
+                   em:creator="riz"
+                   em:description="ifox based on Safire by Bazon Bloch"
+                   em:homepageURL="http://www.radar.250x.com"
+                   em:internalName="ifox">
+    <em:targetApplication RDF:resource="rdf:#$mZRyR3"/>
+    <em:contributor>copyright (c) Max Rudberg</em:contributor>
+    <em:contributor>thanks to aquarius2003, bird, Hills, S.i.T, Dr. Evil</em:contributor>
+  </RDF:Description>
+</RDF:RDF>

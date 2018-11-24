@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <xsd:element name="ClassA" type="xsd:string"/>
+    <xsd:element name="ClassB" type="xsd:string"/>
+    <xsd:element name="ClassC" type="xsd:string"/>
+    <xsd:element name="ClassD" type="xsd:string"/>
+    <xsd:element name="Clerk" type="xsd:string"/>
+    <xsd:element name="CoupContractor" type="xsd:string"/>
+    <xsd:element name="Date" type="xsd:string"/>
+    <xsd:element name="DelNo" type="xsd:string"/>
+    <xsd:element name="Estate">
+        <xsd:complexType>
+            <xsd:sequence minOccurs="1" maxOccurs="1">
+                <xsd:element ref="PlanterName" minOccurs="1" maxOccurs="1"/>
+                <xsd:element ref="PlantAddress" minOccurs="1" maxOccurs="1"/>
+                <xsd:element ref="SyNo" minOccurs="1" maxOccurs="1"/>
+                <xsd:element ref="CoupContractor" minOccurs="1" maxOccurs="1"/>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+    <xsd:element name="Incoming">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element ref="Estate" minOccurs="1" maxOccurs="1"/>
+                <xsd:element ref="LoadDetails" minOccurs="1" maxOccurs="1"/>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+    <xsd:element name="LoadDetails">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element maxOccurs="unbounded" minOccurs="1" ref="load"/>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+    <xsd:element name="Logs" type="xsd:string"/>
+    <xsd:element name="LorryNumber" type="xsd:string"/>
+    <xsd:element name="PlantAddress" type="xsd:string"/>
+    <xsd:element name="PlanterName" type="xsd:string"/>
+    <xsd:element name="SNo" type="xsd:string"/>
+    <xsd:element name="Stumps" type="xsd:string"/>
+    <xsd:element name="SyNo" type="xsd:string"/>
+    <xsd:element name="Tape" type="xsd:string"/>
+    <xsd:element name="TotalCFT" type="xsd:string"/>
+    <xsd:element name="Unload" type="xsd:string"/>
+    <xsd:element name="load">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element ref="SNo"/>
+                <xsd:element ref="Date"/>
+                <xsd:element ref="LorryNumber"/>
+                <xsd:element ref="Tape"/>
+                <xsd:element ref="Clerk"/>
+                <xsd:element ref="Logs"/>
+                <xsd:element ref="ClassA"/>
+                <xsd:element ref="ClassB"/>
+                <xsd:element ref="ClassC"/>
+                <xsd:element ref="ClassD"/>
+                <xsd:element ref="TotalCFT"/>
+                <xsd:element ref="Unload"/>
+                <xsd:element ref="DelNo"/>
+                <xsd:element ref="Stumps"/>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+</xsd:schema>

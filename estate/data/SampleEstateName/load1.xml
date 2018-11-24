@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../config/LoadSample-dataLogic.xsl"?>
+<incomingLobs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="LoadSample.xsd">
+  <loadDetails>
+    <lorryName>load1</lorryName>
+    <estateName>SampleEstateName</estateName>
+    <date>8 Apr 2008</date>
+  </loadDetails>
+  <load>
+    <SNo>1</SNo>
+    <Length>10.0</Length>
+    <Girth>4.6</Girth>
+    <ClassA>12.66</ClassA>
+    <ClassB></ClassB>
+    <ClassC></ClassC>
+    <ClassD></ClassD>
+    <Rate>0.0</Rate>
+    <Quantity>1</Quantity>
+    <Amount>0.00</Amount>
+    <TotalCFT>12.66</TotalCFT>
+  </load>
+  <total>
+    <ClassAcft>12.66</ClassAcft>
+    <ClassBcft>0.00</ClassBcft>
+    <ClassCcft>0.00</ClassCcft>
+    <ClassDcft>0.00</ClassDcft>
+    <tCFT>12.66</tCFT>
+    <tAmount>0.00</tAmount>
+    <Lobs>1</Lobs>
+  </total>
+</incomingLobs>

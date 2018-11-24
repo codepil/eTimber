@@ -1,0 +1,6 @@
+skin	browser	ifox	jar:chrome/ifox-2.0.1-fx.jar!/browser/
+skin	communicator	ifox	jar:chrome/ifox-2.0.1-fx.jar!/communicator/
+skin	global	ifox	jar:chrome/ifox-2.0.1-fx.jar!/global/
+skin	mozapps	ifox	jar:chrome/ifox-2.0.1-fx.jar!/mozapps/
+skin	sage	ifox	jar:chrome/ifox-2.0.1-fx.jar!/sage/
+skin	scrapbook	ifox	jar:chrome/ifox-2.0.1-fx.jar!/scrapbook/

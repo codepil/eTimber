@@ -1,0 +1,40 @@
+package com.myself;
+
+import javax.swing.*; 
+import javax.swing.text.*; 
+
+import java.awt.Toolkit;
+import java.text.*;
+
+public class DecimalField extends JTextField {
+    private NumberFormat format;
+
+    public DecimalField(double value, int columns, NumberFormat f) {
+        super(columns);
+        setDocument(new FormattedDocument(f));
+        format = f;
+        //format.setGroupingUsed(false);
+        setValue(value);
+    }
+
+    public double getValue() {
+        double retVal = 0.0;
+
+        try {
+            //retVal = format.parse(getText()).doubleValue();
+            retVal = (new Double(getText())).doubleValue();
+            //System.out.println("double value: "+ new Double(getText())+ " String value"+ getText());
+        } catch (//ParseException e) {
+             Exception e) {
+            // This should never happen because insertString allows
+            // only properly formatted data to get in the field.
+            //Toolkit.getDefaultToolkit().beep();
+            //System.err.println("getValue: could not parse: " + getText()+ "  "+e);
+        }
+        return retVal;
+    }
+
+    public void setValue(double value) {
+        setText(format.format(value));
+    }
+}
