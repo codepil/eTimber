@@ -12,3 +12,12 @@ Easy way to manage Timber
 - Single place to manage (add, view & delete) inventatory
   - Outgoing load(s) to a **Firm**
   - Incoming logs from a **Estate**
+
+## How to setup
+1. clone this repository
+2. java -jar woodlogs.jar
+3. Enter password mentioned in VerifyAuth.java file
+4. Select the feature from the drop down
+5. Configure the details of estate or firm, enter price and sizes
+6. Now you are ready to enter the timber data
+7. Save the load after entering all timber, and print as required
