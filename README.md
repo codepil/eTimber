@@ -1,3 +1,5 @@
+This code was developed in year 2002 on a weekend project to one of wood cutting industry client in Chikmangalore, kept this public for 2 reasons, one to give my clients an opportunity to update and improved as JDK moves on with time,  secondly a project to run cyclomatic complexicity to teach enthusiastics how importance is modularity and scalability in required in software engineering or coding.
+
 # eTimber
 Easy way to manage Timber
 ## Features
